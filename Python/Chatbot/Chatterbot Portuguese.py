@@ -11,9 +11,9 @@ bot = ChatBot('Lire')
 trainer = ChatterBotCorpusTrainer(bot)
 
 #----- setting conversation to the bot -----#
-trainer.train(
-    "chatterbot.corpus.portuguese"
-)
+trainer.train("chatterbot.corpus.portuguese",
+"chatterbot.corpus.Portuguese.conversations_pt-BR",
+"chatterbot.corpus.Portuguese.greetings_pt-BR")
 
 #----- progress looping -----#
 while True:
