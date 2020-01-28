@@ -17,13 +17,18 @@ trainer.train(
 
 #----- progress looping -----#
 while True:
-    #----- Defining condition based on degree of confidence -----#
-    try:
-        response = bot.get_response(input("Você: "))
-        if float(response.confidence) > 0.1:
-            print("Lire: ", response)
-        else:
-            print("Eu não entendi :(")
-    except(KeyboardInterrupt, EOFError, SystemExit):
-        break
+    response = bot.get_response(input("Você: "))
+    print("Lire: ", response)
+
+
+# while True:
+#     #----- Defining condition based on degree of confidence -----#
+#     try:
+#         response = bot.get_response(input("Você: "))
+#         if float(response.confidence) > 0.1:
+#             print("Lire: ", response)
+#         else:
+#             print("Eu não entendi :(")
+#     except(KeyboardInterrupt, EOFError, SystemExit):
+#         break
     
