@@ -27,7 +27,7 @@ conversation = [
 trainer = ListTrainer(bot)
 
 #----- setting conversation to the bot -----#
-trainer.train(4)
+trainer.train()
 
 #----- progress looping -----#
 while True:
