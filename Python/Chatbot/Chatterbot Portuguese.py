@@ -12,8 +12,8 @@ trainer = ChatterBotCorpusTrainer(bot)
 
 #----- setting conversation to the bot -----#
 trainer.train("chatterbot.corpus.portuguese",
-"chatterbot.corpus.Portuguese.conversations_pt-BR",
-"chatterbot.corpus.Portuguese.greetings_pt-BR")
+"chatterbot.corpus.portuguese.games")
+# "chatterbot.corpus.Portuguese.greetings")
 
 #----- progress looping -----#
 while True:
