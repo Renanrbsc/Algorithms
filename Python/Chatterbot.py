@@ -33,9 +33,9 @@ trainer.train(4)
 while True:
     #----- Defining condition based on degree of confidence -----#
     try:
-        resposta = bot.get_response(input("Você: "))
-        if float(resposta.confidence) > 0.5:
-            print("Lire: ", resposta)
+        response = bot.get_response(input("Você: "))
+        if float(response.confidence) > 0.5:
+            print("Lire: ", response)
         else:
             print("Eu não entendi :(")
     except(KeyboardInterrupt, EOFError, SystemExit):
