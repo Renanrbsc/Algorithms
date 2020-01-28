@@ -10,7 +10,7 @@ bot = ChatBot('Lire')
 #----- Defining initial conversation list -----#
 conversation = [
     'oi',
-    'olá',
+    'ola',
     'tudo bem?',
     'tudo e com você',
     'estou bem',
