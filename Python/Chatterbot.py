@@ -1,36 +1,43 @@
-from chatterbot import ChatBot
-from chatterbot.trainers import ListTrainer
+# -*- coding: utf-8 -*-
 
+#----- importing libraries -----#
+from chatterbot.trainers import ListTrainer
+from chatterbot import ChatBot
+
+#----- Instantiating Chatbot named Lire -----#
 bot = ChatBot('Lire')
 
-bot = ChatBot(
+#----- Defining initial conversation list -----#
+conversation = [
+    'oi',
+    'olá',
+    'tudo bem?',
+    'tudo e com você',
+    'estou bem',
+    'que otimo, fico feliz',
+    'qual o seu nome?',
     'Lire',
-    storage_adapter='chatterbot.storage.SQLStorageAdapter',
-    database_uri='sqlite:///database.sqlite3'
-    )
-    
-conversa = ListTrainer(bot)
-conversa.train([
-    'Oi',
-    'Olá',
-    'Tudo bem?',
-    'Tudo e com você',
-    'Estou bem',
-    'Que ótimo, fico feliz!'
-    'Qual o seu nome?',
-    'Lire',
-    'Prazer em te conhecer',
+    'prazer em te conhecer',
     'Prazer é meu',
-    'O que você é?',
-    'Sou um bot criado por você!'
-])
+    'o que você é?',
+    'sou um bot criado por você!'
+]
 
+#----- Instantiating training to the bot -----#
+trainer = ListTrainer(bot)
+
+#----- setting conversation to the bot -----#
+trainer.train(4)
+
+#----- progress looping -----#
 while True:
+    #----- Defining condition based on degree of confidence -----#
     try:
-        resposta = bot.get_response(input("Usuário: "))
+        resposta = bot.get_response(input("Você: "))
         if float(resposta.confidence) > 0.5:
             print("Lire: ", resposta)
         else:
             print("Eu não entendi :(")
     except(KeyboardInterrupt, EOFError, SystemExit):
         break
+    
