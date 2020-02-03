@@ -6,27 +6,30 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 
+    <!--CSS-->
     <style>
     
         #formulario{
-        background-color: gray;
-        color: white;
-        position: absolute;
-        top: 10%;
-        left: 5%;
-        right: 5%;
-        padding: 150px;
-        text-align: center;
-        font-size: 50px;
-        border-radius: 1em;
+            background-color: rgb(68, 143, 241);
+            color: white;
+            position: absolute;
+            top: 10%;
+            left: 5%;
+            right: 5%;
+            padding: 150px;
+            text-align: center;
+            font-size: 50px;
+            border-radius: 1em;
         }
         input{
-            width:500px;
+            width:900px;
             height: 60px;
             font-size: 30px;
             text-align: center;
             border-radius: 15px;
+            border: 0 none;
         }
+        
 
     </style>
 
@@ -34,10 +37,9 @@
 <body>
 
     <form action="/redi" id="formulario">
-        <label >Informe a Url sem o protocolo</label>
-        <label >(https://www.youtube.com/):</label><br>
+        <label >Informe sua URL Video </label><br>
         <hr>
-        <input type="text" name="url" placeholder="exemple: watch?v=NpdsdsTA4">
+        <input type="text" name="url" placeholder="exemple: https://www.youtube.com/watch?v=sgrujkya0XIjU">
     </form>
 </body>
 </html>
