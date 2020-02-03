@@ -40,7 +40,13 @@ cont=0
 for i in list_b:
     if cont == 20:
         break
-    print(f'Jan 2020: {i[0]}    Jan 2019: {i[1]}    Change: {i[2]}    Programming: {i[3]}    Language: {i[4]}    Ratings Change: {i[5]}')
+    print(f'''Jan 2020: {i[0]}    
+Jan 2019: {i[1]}    
+Change: {i[2]}    
+Programming: {i[3]}    
+Language: {i[4]}    
+Ratings Change: {i[5]}
+''')
     cont+=1
     
 
