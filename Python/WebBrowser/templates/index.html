@@ -13,10 +13,10 @@
             background-color: rgb(68, 143, 241);
             color: white;
             position: absolute;
-            top: 10%;
+            top: 5%;
             left: 5%;
             right: 5%;
-            padding: 150px;
+            padding: 100px;
             text-align: center;
             font-size: 50px;
             border-radius: 1em;
@@ -28,6 +28,16 @@
             text-align: center;
             border-radius: 15px;
             border: 0 none;
+            color: gray;
+        }
+        input[type='submit']{
+            width:450px;
+            height: 60px;
+            font-size: 30px;
+            text-align: center;
+            border-radius: 15px;
+            border: 0 none;
+            color: gray;
         }
         
 
@@ -39,7 +49,16 @@
     <form action="/redi" id="formulario">
         <label >Informe sua URL Video </label><br>
         <hr>
-        <input type="text" name="url" placeholder="exemple: https://www.youtube.com/watch?v=sgrujkya0XIjU">
+        <input type="text" name="url" value="" placeholder="exemplo: https://www.youtube.com/watch?v=sgrujkya0XIjU">
+        <hr>
+        <input type="submit">
+        <hr>
+        <label >Informe uma Pesquisa </label><br>
+        <hr>
+        <input type="text" name="search" value="" placeholder="exemplo: carro, casa, pet etc..">
+        <hr>
+        <input type="submit">
+
     </form>
 </body>
 </html>

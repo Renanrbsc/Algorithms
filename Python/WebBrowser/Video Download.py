@@ -24,10 +24,15 @@ def inicio():
 @app.route('/redi')
 def redirect_pag():
     url = request.args['url']
+    search = request.args['search']
+
     if "youtube" in url:
         link = url.split('=')
         link = f"https://www.y2mate.com/pt/youtube/{link[1]}"
+    elif "https://www." not in search or '' not in search:
+        link = f"https://www.y2mate.com/pt/search/{search}"
+    else:
+        return redirect('/')
     return redirect(link)
-
 
 app.run(debug=True)
