@@ -19,14 +19,14 @@ class TreinadorDao:
         treinador_all = self.cursor.fetchall()
         list_treinador = []
         for treinador in treinador_all:
-            treinador = TreinadorModel(treinador[1],treinador[2],treinador[3],treinador[4],treinador[0],treinador[5])
+            treinador = TreinadorModel(treinador[1],treinador[2],treinador[3],treinador[4],treinador[5],treinador[0])
             list_treinador.append(treinador.__dict__)
         return list_treinador
     
     def get_by_id(self, id):
         self.cursor.execute("SELECT * FROM TREINADOR WHERE ID = {}".format(id))
         treinador = self.cursor.fetchone()
-        train = TreinadorModel(treinador[1],treinador[2],treinador[3],treinador[4],treinador[0],treinador[5])
+        train = TreinadorModel(treinador[1],treinador[2],treinador[3],treinador[4],treinador[5],treinador[0])
         return train.__dict__
     
     def insert(self, treinador : TreinadorModel):
@@ -49,7 +49,7 @@ class TreinadorDao:
                     CIDADE = '{}',
                     ID_POKEMON = {}
                 WHERE id = {}
-         """.format(treinador.nome, treinador.sobrenome, treinador.idade, treinador.cidade, treinador.id_pokemon1, treinador.id))
+         """.format(treinador.nome, treinador.sobrenome, treinador.idade, treinador.cidade, treinador.id_pokemon, treinador.id))
         self.connection.commit()
         return treinador.__dict__
     
@@ -57,7 +57,4 @@ class TreinadorDao:
         self.cursor.execute("DELETE FROM TREINADOR WHERE ID = {}".format(id))
         self.connection.commit()
         return 'Removido o treinador de id: {}'.format(id)
-    
-    
-    
     

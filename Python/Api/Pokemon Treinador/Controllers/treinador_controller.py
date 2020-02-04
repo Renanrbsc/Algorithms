@@ -35,5 +35,3 @@ class TreinadorController(Resource):
     def delete(self, id):
         return self.dao.remove(id)
     
-    
-        

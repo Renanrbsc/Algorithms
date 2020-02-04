@@ -1,6 +1,5 @@
 [
     {
-      "id": 1,
       "nome": "Bulbasaur",
       "altura": 0.7,
       "peso": 6.9,
@@ -13,7 +12,6 @@
       "descricao": "Bulbasaur pode ser visto cochilando sob a luz do sol. Há uma semente nas costas. Ao absorver os raios do sol, a semente cresce progressivamente maior."
     },
     {
-      "id": 2,
       "nome": "Ivysaur",
       "altura": 10.0,
       "peso": 13.0,
@@ -26,7 +24,6 @@
       "descricao": "Há um botão nas costas deste Pokémon. Para suportar seu peso, as pernas e o tronco de Ivysaur ficam grossos e fortes. Se começar a passar mais tempo deitado sob a luz do sol, é um sinal de que o broto florescerá em uma grande flor em breve."
     },
     {
-      "id": 3,
       "nome": "Venusaur",
       "altura": 2.0,
       "peso": 100.0,

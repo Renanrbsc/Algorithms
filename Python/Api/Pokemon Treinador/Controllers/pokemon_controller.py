@@ -45,8 +45,3 @@ class PokemonController(Resource):
     def delete(self, id):
         msg = self.dao.remove(id)
         return msg
-
-
-
-    
-

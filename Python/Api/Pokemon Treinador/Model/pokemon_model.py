@@ -11,4 +11,3 @@ class PokemonModel:
         self.fraqueza = fraqueza
         self.fraqueza2 = fraqueza2
         self.descricao = descricao
-
