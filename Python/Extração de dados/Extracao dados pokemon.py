@@ -68,7 +68,7 @@ def description():
     description = str(soup.find_all("p", "version-y"))
     desc = description.split('                  ')
     desc = desc[1].split('\n ')
-    desc = str(desc[0])
+    desc = desc[0].replace('\n', '')
     return desc
 
 # -- Chamada das defs e retorno de valores em uma lista
