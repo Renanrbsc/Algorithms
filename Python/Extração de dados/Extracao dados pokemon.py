@@ -83,7 +83,10 @@ for we in weakness():
     dados_pokemon.append(we)
     
 dados_pokemon.append(description())
-
+j = 1
 # -- Exibindo na tela valores obtidos
-for i in dados_pokemon:
-    print(i)
+    print(f'-----Pokemon Code: {j}-----')
+    for i in dados_pokemon:
+        print(i)
+    print(f'----------------------------')
+    
