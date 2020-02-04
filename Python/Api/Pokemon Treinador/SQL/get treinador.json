@@ -1,0 +1,12 @@
+[
+    {
+      "id": 2,
+      "nome": "Ash",
+      "sobrenome": "Ketchum",
+      "idade": 10,
+      "cidade": "Palent",
+      "id_pokemon1": 1,
+      "id_pokemon2": 1,
+      "id_pokemon3": 2
+    }
+]
