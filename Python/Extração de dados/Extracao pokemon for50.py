@@ -8,7 +8,7 @@ import requests
 
 # -- Loop de requests para obter dados de varias paginas
 
-for j in range(1,3):
+for j in range(28,31):
 # -- Request recebe a URL da pagina
     pag_html = requests.get(f"https://www.pokemon.com/br/pokedex/{j}").text
 
@@ -92,7 +92,7 @@ for j in range(1,3):
     print(f'----------------------------')
     
     # -- salvando dados obtidos para Database
-    arq = open('Python\Extração de dados\dados_pokemon.txt','a')
+    arq = open('Python\Extração de dados\dados_pokemon.txt','a',encoding='utf-8')
     arq.write(';'.join(dados_pokemon)+'\n')
     arq.close()
      
