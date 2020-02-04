@@ -5,7 +5,8 @@ from Model.pokemon_model import PokemonModel
 class PokemonDao:
 
     def __init__(self):
-        self.connection = MySQLdb.connect(host='127.0.0.1',database='PadawanHBSIS',user='root')
+        #self.connection = MySQLdb.connect(host='127.0.0.1',database='PadawanHBSIS',user='root')
+        self.connection = MySQLdb.connect(host='mysql.padawans.dev',database='padawans16',user='padawans16',passwd="lr2019")
         self.cursor = self.connection.cursor()
 
     def get_all(self):

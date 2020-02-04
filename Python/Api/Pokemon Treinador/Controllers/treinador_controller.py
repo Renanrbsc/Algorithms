@@ -16,11 +16,9 @@ class TreinadorController(Resource):
         nome = request.json['nome']
         sobrenome = request.json['sobrenome']
         idade = int(request.json['idade'])
-        cidade = request.json['cidade']
-        id_pokemon1 = request.json['id_pokemon1']
-        id_pokemon2 = request.json['id_pokemon2']
-        id_pokemon3 = request.json['id_pokemon3']
-        treinador = TreinadorModel(nome,sobrenome,idade,cidade,id_pokemon1,id_pokemon2,id_pokemon3)
+        cidade = request.json['cidade']     
+        id_pokemon = request.json['id_pokemon']
+        treinador = TreinadorModel(nome, sobrenome, idade, cidade, id_pokemon)
         msg = self.dao.insert(treinador)
         return msg
     
@@ -29,10 +27,8 @@ class TreinadorController(Resource):
         sobrenome = request.json['sobrenome']
         idade = int(request.json['idade'])
         cidade = request.json['cidade']
-        id_pokemon1 = request.json['id_pokemon1']
-        id_pokemon2 = request.json['id_pokemon2']
-        id_pokemon3 = request.json['id_pokemon3']
-        treinador = TreinadorModel(nome,sobrenome,idade,cidade,id_pokemon1,id_pokemon2,id_pokemon3,id)
+        id_pokemon = request.json['id_pokemon']
+        treinador = TreinadorModel(nome,sobrenome,idade,cidade,id_pokemon,id)
         msg = self.dao.update(treinador)
         return msg
     
