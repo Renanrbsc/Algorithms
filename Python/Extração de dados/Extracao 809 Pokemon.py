@@ -8,7 +8,7 @@ import requests
 
 
 # -- Loop de requests para obter dados de varias paginas
-for j in range(1,810):
+for j in range(25,26):
 # -- Request recebe a URL da pagina
     pag_html = requests.get(f"https://www.pokemon.com/br/pokedex/{j}").text
 
@@ -35,18 +35,32 @@ for j in range(1,810):
         list_attribute = []
         
         attribute = soup.find_all("span", "attribute-value")
-        
+        # -- Altura
         h = str(attribute[0]).strip(' m</span class="attribute-value">')
-        list_attribute.append(h)
-        
+        list_attribute.append(h) 
+        # -- Peso 
         h = str(attribute[1]).strip(' kg</span class="attribute-value">')
         list_attribute.append(h)
-        
-        h = str(attribute[3]).strip('</span class="attribute-value">')
+        # -- Categoria
+        h = str(attribute[3]).replace('<span class="attribute-value">','')
+        h = h.replace('</span>','')
         list_attribute.append(h)
-        
-        h = str(attribute[4]).strip('</span class="attribute-value">')
-        list_attribute.append(h)
+        # -- Habilidade Principal
+        if len(attribute) >= 5:
+            h = str(attribute[4]).replace('<span class="attribute-value">','')
+            h = h.replace('</span>','')
+            list_attribute.append(h)
+        else:
+            h = ''
+            list_attribute.append(h)
+        # -- Habilidade Secundaria
+        if len(attribute) == 6:
+            h = str(attribute[5]).replace('<span class="attribute-value">','')
+            h = h.replace('</span>','')
+            list_attribute.append(h)
+        else:
+            h = ''
+            list_attribute.append(h)   
         return list_attribute
 
     def weakness():
@@ -54,14 +68,17 @@ for j in range(1,810):
         
         weakness = str(soup.find_all("div", "dtm-weaknesses"))
         a = str(weakness).split('<span>')
-        
+        # -- Fraqueza
         h = str(a[1]).split('\n\t')
         h = h[0]
         list_weakness.append(h)
-        
+        # -- Fraqueza 2
         if len(a) >= 3:
             t = str(a[2]).split('\n\t')
             t = t[0]
+            list_weakness.append(t)
+        else:
+            t = ''
             list_weakness.append(t)
         return list_weakness
 
