@@ -8,7 +8,7 @@ import requests
 
 
 # -- Loop de requests para obter dados de varias paginas
-for j in range(25,26):
+for j in range(1,810):
 # -- Request recebe a URL da pagina
     pag_html = requests.get(f"https://www.pokemon.com/br/pokedex/{j}").text
 
