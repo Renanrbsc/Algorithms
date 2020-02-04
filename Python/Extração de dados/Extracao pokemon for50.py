@@ -9,7 +9,7 @@ import requests
 # -- Loop de requests para obter dados de varias paginas
 for j in range(1,50):
 # -- Request recebe a URL da pagina
-    pag_html = requests.get(f"https://www.pokemon.com/br/pokedex/{i}").text
+    pag_html = requests.get(f"https://www.pokemon.com/br/pokedex/{j}").text
 
     # -- BeuatifulSoap estrai o html da pagina
     soup = BeautifulSoup(pag_html, 'html.parser')
