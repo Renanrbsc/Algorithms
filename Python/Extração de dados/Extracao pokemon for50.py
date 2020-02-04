@@ -7,7 +7,7 @@ import requests
 # -- Script criado para obter dados dos pokemons e montar um banco de dados apartir do mesmo
 
 # -- Loop de requests para obter dados de varias paginas
-for i in range(25,26):
+for i in range(1,50):
 # -- Request recebe a URL da pagina
     pag_html = requests.get(f"https://www.pokemon.com/br/pokedex/{i}").text
 
@@ -55,7 +55,7 @@ for i in range(25,26):
         
         weakness = str(soup.find_all("div", "dtm-weaknesses"))
         a = str(weakness).split('<span>')
-        print(a)
+        
         h = str(a[1]).split('\n\t')
         h = h[0]
         list_weakness.append(h)
