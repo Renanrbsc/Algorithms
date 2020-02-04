@@ -7,7 +7,8 @@ import requests
 # -- Script criado para obter dados dos pokemons e montar um banco de dados apartir do mesmo
 
 # -- Loop de requests para obter dados de varias paginas
-for j in range(1,50):
+
+for j in range(1,3):
 # -- Request recebe a URL da pagina
     pag_html = requests.get(f"https://www.pokemon.com/br/pokedex/{j}").text
 
@@ -36,11 +37,9 @@ for j in range(1,50):
         attribute = soup.find_all("span", "attribute-value")
         
         h = str(attribute[0]).strip(' m</span class="attribute-value">')
-        h = float(h)
         list_attribute.append(h)
         
         h = str(attribute[1]).strip(' kg</span class="attribute-value">')
-        h = float(h)
         list_attribute.append(h)
         
         h = str(attribute[3]).strip('</span class="attribute-value">')
@@ -91,4 +90,10 @@ for j in range(1,50):
     for i in dados_pokemon:
         print(i)
     print(f'----------------------------')
+    
+    # -- salvando dados obtidos para Database
+    arq = open('Python\Extração de dados\dados_pokemon.txt','a')
+    arq.write(';'.join(dados_pokemon)+'\n')
+    arq.close()
+     
     
