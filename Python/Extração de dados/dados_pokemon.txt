@@ -1,0 +1,809 @@
+Bulbasaur;Grass;0.7;6.9;Seed;Overgrow;Fire;Flying;Bulbasaur can be seen napping in bright sunlight.There is a seed on its back. By soaking up the sun's rays,the seed grows progressively larger.
+Ivysaur;Grass;1.0;13.0;Seed;Overgrow;Fire;Flying;There is a bud on this Pokémon's back. To support its weight,Ivysaur's legs and trunk grow thick and strong.If it starts spending more time lying in the sunlight,it's a sign that the bud will bloom into a large flower soon.
+Venusaur;Grass;2.0;100.0;Seed;Overgrow;Fire;Flying;There is a large flower on Venusaur's back. The flower is saidto take on vivid colors if it gets plenty of nutrition and sunlight.The flower's aroma soothes the emotions of people.
+Charmander;Fire;0.6;8.5;Lizard;Blaz;Ground;Rock;The flame that burns at the tip of its tail is an indicationof its emotions. The flame wavers when Charmanderis enjoying itself. If the Pokémon becomes enraged,the flame burns fiercely.
+Charmeleon;Fire;1.1;19.0;Flam;Blaz;Ground;Rock;Charmeleon mercilessly destroys its foes using its sharp claws.If it encounters a strong foe, it turns aggressive.In this excited state, the flame at the tip of its tail flares with abluish white color.
+Charizard;Fire;1.7;90.5;Flam;Blaz;Rock;Electric;Charizard flies around the sky in search of powerful opponents.It breathes fire of such great heat that it melts anything.However, it never turns its fiery breath on any opponentweaker than itself.
+Squirtle;Water;0.5;9.0;Tiny T;To;Electric;Grass;Squirtle's shell is not merely used for protection.The shell's rounded shape and the grooves on its surfacehelp minimize resistance in water, enabling this Pokémonto swim at high speeds.
+Wartortle;Water;1.0;22.5;T;To;Electric;Grass;Its tail is large and covered with a rich, thick fur. The tailbecomes increasingly deeper in color as Wartortle ages.The scratches on its shell are evidence of this Pokémon'stoughness as a battler.
+Blastoise;Water;1.6;85.5;Shellfish;To;Electric;Grass;Blastoise has water spouts that protrude from its shell.The water spouts are very accurate. They can shoot bullets ofwater with enough accuracy to strike empty cans from adistance of over 160 feet.
+Caterpie;Bug;0.3;2.9;Worm;Shield D;Fire;Flying;Caterpie has a voracious appetite. It can devour leaves biggerthan its body right before your eyes. From its antenna, thisPokémon releases a terrifically strong odor.
+Metapod;Bug;0.7;9.9;Cocoo;Shed Sk;Fire;Flying;The shell covering this Pokémon's body is as hard as aniron slab. Metapod does not move very much. It stays stillbecause it is preparing its soft innards for evolution insidethe hard shell.
+Butterfree;Bug;1.1;32.0;Butterfly;Compound Ey;Rock;Electric;Butterfree has a superior ability to search for delicious honeyfrom flowers. It can even search out, extract, and carry honeyfrom flowers that are blooming over six miles from its nest.
+Weedle;Bug;0.3;3.2;Hairy Bug;Shield D;Fire;Flying;Weedle has an extremely acute sense of smell. It is capable ofdistinguishing its favorite kinds of leaves from those it dislikesjust by sniffing with its big red proboscis (nose).
+Kakuna;Bug;0.6;10.0;Cocoo;Shed Sk;Fire;Flying;Kakuna remains virtually immobile as it clings to a tree.However, on the inside, it is extremely busy as it prepares forits coming evolution. This is evident from how hot the shellbecomes to the touch.
+Beedrill;Bug;1.0;29.5;Poison B;Swarm;Fire;Flying;Beedrill is extremely territorial. No one should ever approachits nest—this is for their own safety. If angered, they will attackin a furious swarm.
+Pidgey;Normal;0.3;1.8;Tiny Bird;Keen Ey;Electric;Ice;Pidgey has an extremely sharp sense of direction. It is capableof unerringly returning home to its nest, however far it may beremoved from its familiar surroundings.
+Pidgeotto;Normal;1.1;30.0;Bird;Keen Ey;Electric;Ice;Pidgeotto claims a large area as its own territory.This Pokémon flies around, patrolling its living space.If its territory is violated, it shows no mercy in thoroughlypunishing the foe with its sharp claws.
+Pidgeot;Normal;1.5;39.5;Bird;Keen Ey;Electric;Ice;This Pokémon has a dazzling plumage of beautifullyglossy feathers. Many Trainers are captivated by thestriking beauty of the feathers on its head, compellingthem to choose Pidgeot as their Pokémon.
+Rattata;Normal;0.3;3.5;Mo;Run Away;Fighting;Fairy;Rattata is cautious in the extreme. Even while it is asleep,it constantly listens by moving its ears around. It is not pickyabout where it lives—it will make its nest anywhere.
+Raticate;Normal;0.7;18.5;Mo;Run Away;Fighting;Fairy;Raticate's sturdy fangs grow steadily. To keep them grounddown, it gnaws on rocks and logs. It may even chew on thewalls of houses.
+Spearow;Normal;0.3;2.0;Tiny Bird;Keen Ey;Electric;Ice;Spearow has a very loud cry that can be heard overhalf a mile away. If its high, keening cry is heard echoing allaround, it is a sign that they are warning each other of danger.
+Fearow;Normal;1.2;38.0;Beak;Keen Ey;Electric;Ice;Fearow is recognized by its long neck and elongated beak.They are conveniently shaped for catching prey in soilor water. It deftly moves its long and skinny beak topluck prey.
+Ekans;Poison;2.0;6.9;Snak;Shed Sk;Ground;Psychic;Ekans curls itself up in a spiral while it rests. Assuming thisposition allows it to quickly respond to a threat from anydirection with a glare from its upraised head.
+Arbok;Poison;3.5;65.0;Co;Shed Sk;Ground;Psychic;This Pokémon is terrifically strong in order to constrict thingswith its body. It can even flatten steel oil drums.Once Arbok wraps its body around its foe, escaping itscrunching embrace is impossible.
+Pikachu;Electric;0.4;6.0;Mo;S;Ground;Whenever Pikachu comes across something new,it blasts it with a jolt of electricity. If you come across ablackened berry, it's evidence that this Pokémon mistook theintensity of its charge.
+Raichu;Electric;0.8;30.0;Mo;S;Ground;Ghost;If the electrical sacs become excessively charged,Raichu plants its tail in the ground and discharges.Scorched patches of ground will be found near thisPokémon's nest.
+Sandshrew;Ground;0.6;12.0;Mo;Sand V;Grass;Ice;Sandshrew's body is configured to absorb water without waste,enabling it to survive in an arid desert. This Pokémon curls upto protect itself from its enemies.
+Sandslash;Ground;1.0;29.5;Mo;Sand V;Grass;Ice;Sandslash's body is covered by tough spikes, which arehardened sections of its hide. Once a year, the old spikesfall out, to be replaced with new spikes that grow out frombeneath the old ones.
+Nidoran♀;Poison;0.4;7.0;Poison P;Poison Po;Ground;Psychic;Nidoran♀ has barbs that secrete a powerful poison.They are thought to have developed as protection forthis small-bodied Pokémon. When enraged, it releasesa horrible toxin from its horn.
+Nidorina;Poison;0.8;20.0;Poison P;Poison Po;Ground;Psychic;When Nidorina are with their friends or family, they keep theirbarbs tucked away to prevent hurting each other.This Pokémon appears to become nervous if separated fromthe others.
+Nidoqueen;Poison;1.3;60.0;D;Poison Po;Ground;Ice;Nidoqueen's body is encased in extremely hard scales.It is adept at sending foes flying with harsh tackles.This Pokémon is at its strongest when it is defending its young.
+Nidoran♂;Poison;0.5;9.0;Poison P;Poison Po;Ground;Psychic;Nidoran♂ has developed muscles for moving its ears. Thanksto them, the ears can be freely moved in any direction. Eventhe slightest sound does not escape this Pokémon's notice.
+Nidorino;Poison;0.9;19.5;Poison P;Poison Po;Ground;Psychic;Nidorino has a horn that is harder than a diamond. If it sensesa hostile presence, all the barbs on its back bristle up at once,and it challenges the foe with all its might.
+Nidoking;Poison;1.4;62.0;D;Poison Po;Ground;Ice;Nidoking's thick tail packs enormously destructive power.With one swing, it can topple a metal transmission tower.Once this Pokémon goes on a rampage, there is no stopping it.
+Clefairy;Fairy;0.6;7.5;Fairy;Cute Charm;Steel;Poison;On every night of a full moon, groups of this Pokémon comeout to play. When dawn arrives, the tired Clefairy return to theirquiet mountain retreats and go to sleep nestled up againsteach other.
+Clefable;Fairy;1.3;40.0;Fairy;Cute Charm;Steel;Poison;Clefable moves by skipping lightly as if it were flying using itswings. Its bouncy step lets it even walk on water. It is knownto take strolls on lakes on quiet, moonlit nights.
+Vulpix;Fire;0.6;9.9;Fox;Flash F;Ground;Rock;At the time of its birth, Vulpix has one white tail. The tailseparates into six if this Pokémon receives plenty of lovefrom its Trainer. The six tails become magnificently curled.
+Ninetales;Fire;1.1;19.9;Fox;Flash F;Ground;Rock;Ninetales casts a sinister light from its bright red eyes to gaintotal control over its foe's mind. This Pokémon is said to livefor a thousand years.
+Jigglypuff;Normal;0.5;5.5;Balloo;Cute Charm;Steel;Poison;Jigglypuff's vocal cords can freely adjust the wavelength of itsvoice. This Pokémon uses this ability to sing at precisely theright wavelength to make its foes most drowsy.
+Wigglytuff;Normal;1.0;12.0;Balloo;Cute Charm;Steel;Poison;Wigglytuff has large, saucerlike eyes. The surfaces of its eyesare always covered with a thin layer of tears. If any dust gets inthis Pokémon's eyes, it is quickly washed away.
+Zubat;Poison;0.8;7.5;B;Inner Fo;Electric;Ice;Zubat remains quietly unmoving in a dark spot during the brightdaylight hours. It does so because prolonged exposure to thesun causes its body to become slightly burned.
+Golbat;Poison;1.6;55.0;B;Inner Fo;Electric;Ice;Golbat loves to drink the blood of living things. It is particularlyactive in the pitch black of night. This Pokémon flits around inthe night skies, seeking fresh blood.
+Oddish;Grass;0.5;5.4;Weed;Chlorophy;Fire;Flying;During the daytime, Oddish buries itself in soil to absorbnutrients from the ground using its entire body.The more fertile the soil, the glossier its leaves become.
+Gloom;Grass;0.8;8.6;Weed;Chlorophy;Fire;Flying;Gloom releases a foul fragrance from the pistil of its flower.When faced with danger, the stench worsens.If this Pokémon is feeling calm and secure, it does notrelease its usual stinky aroma.
+Vileplume;Grass;1.2;18.6;Flow;Chlorophy;Fire;Flying;Vileplume's toxic pollen triggers atrocious allergy attacks.That's why it is advisable never to approach any attractiveflowers in a jungle, however pretty they may be.
+Paras;Bug;0.3;5.4;Mushroom;Effect Spo;Fire;Flying;Paras has parasitic mushrooms growing on its back calledtochukaso. They grow large by drawing nutrients from thisBug Pokémon host. They are highly valued as a medicinefor extending life.
+Parasect;Bug;1.0;29.5;Mushroom;Effect Spo;Fire;Flying;Parasect is known to infest large trees en masse and drainnutrients from the lower trunk and roots. When an infested treedies, they move onto another tree all at once.
+Venonat;Bug;1.0;30.0;I;Compound Ey;Fire;Flying;Venonat is said to have evolved with a coat of thin,stiff hair that covers its entire body for protection.It possesses large eyes that never fail to spot evenminuscule prey.
+Venomoth;Bug;1.5;12.5;Poison Moth;Shield D;Fire;Flying;Venomoth is nocturnal—it is a Pokémon that only becomesactive at night. Its favorite prey are small insects that gatheraround streetlights, attracted by the light in the darkness.
+Diglett;Ground;0.2;0.8;Mo;Sand V;Grass;Ice;Diglett are raised in most farms. The reason is simple—wherever this Pokémon burrows, the soil is left perfectly tilledfor planting crops. This soil is made ideal for growingdelicious vegetables.
+Dugtrio;Ground;0.7;33.3;Mo;Sand V;Grass;Ice;Dugtrio are actually triplets that emerged from one body.As a result, each triplet thinks exactly like the othertwo triplets. They work cooperatively to burrow endlessly.
+Meowth;Normal;0.4;4.2;Scratch C;Pick;Fighting;Fairy;Meowth withdraws its sharp claws into its paws to slinkily sneakabout without making any incriminating footsteps.For some reason, this Pokémon loves shiny coins thatglitter with light.
+Persian;Normal;1.0;32.0;Classy C;Tech;Fighting;Fairy;Persian has six bold whiskers that give it a look of toughness.The whiskers sense air movements to determine what is in thePokémon's surrounding vicinity. It becomes docile if grabbedby the whiskers.
+Psyduck;Water;0.8;19.6;Duck;Dam;Electric;Grass;Psyduck uses a mysterious power. When it does so, thisPokémon generates brain waves that are supposedly only seenin sleepers. This discovery spurred controversyamong scholars.
+Golduck;Water;1.7;76.6;Duck;Dam;Electric;Grass;The webbed flippers on its forelegs and hind legs and thestreamlined body of Golduck give it frightening speed.This Pokémon is definitely much faster than even the mostathletic swimmer.
+Mankey;Fighting;0.5;28.0;Pig Monkey;Vital S;Flying;Psychic;When Mankey starts shaking and its nasal breathing turnsrough, it's a sure sign that it is becoming angry. However,because it goes into a towering rage almost instantly,it is impossible for anyone to flee its wrath.
+Primeape;Fighting;1.0;32.0;Pig Monkey;Vital S;Flying;Psychic;When Primeape becomes furious, its blood circulation isboosted. In turn, its muscles are made even stronger.However, it also becomes much less intelligent at thesame time.
+Growlithe;Fire;0.7;19.0;Puppy;Intimid;Ground;Rock;Growlithe has a superb sense of smell. Once it smells anything,this Pokémon won't forget the scent, no matter what. It usesits advanced olfactory sense to determine the emotions ofother living things.
+Arcanine;Fire;1.9;155.0;Legendary;Intimid;Ground;Rock;Arcanine is known for its high speed. It is said to be capable ofrunning over 6,200 miles in a single day and night.The fire that blazes wildly within this Pokémon's body is itssource of power.
+Poliwag;Water;0.6;12.4;Tadpo;Dam;Electric;Grass;Poliwag has a very thin skin. It is possible to see thePokémon's spiral innards right through the skin.Despite its thinness, however, the skin is also very flexible.Even sharp fangs bounce right off it.
+Poliwhirl;Water;1.0;20.0;Tadpo;Dam;Electric;Grass;The surface of Poliwhirl's body is always wet and slick witha slimy fluid. Because of this slippery covering, it can easilyslip and slide out of the clutches of any enemy in battle.
+Poliwrath;Water;1.3;54.0;Tadpo;Dam;Electric;Flying;Poliwrath's highly developed, brawny muscles never growfatigued, however much it exercises. It is so tirelessly strong,this Pokémon can swim back and forth across the oceanwithout effort.
+Abra;Psychic;0.9;19.5;P;Inner Fo;Bug;Dark;Abra sleeps for eighteen hours a day. However, it can sensethe presence of foes even while it is sleeping. In such asituation, this Pokémon immediately teleports to safety.
+Kadabra;Psychic;1.3;56.5;P;Inner Fo;Bug;Dark;Kadabra emits a peculiar alpha wave if it develops a headache.Only those people with a particularly strong psyche can hopeto become a Trainer of this Pokémon.
+Alakazam;Psychic;1.5;48.0;P;Inner Fo;Bug;Dark;Alakazam's brain continually grows, making its head far tooheavy to support with its neck. This Pokémon holds its head upusing its psychokinetic power instead.
+Machop;Fighting;0.8;19.5;Superpow;G;Flying;Psychic;Machop's muscles are special—they never get sore no matterhow much they are used in exercise. This Pokémon hassufficient power to hurl a hundred adult humans.
+Machoke;Fighting;1.5;70.5;Superpow;G;Flying;Psychic;Machoke's thoroughly toned muscles possess the hardnessof steel. This Pokémon has so much strength, it can easilyhold aloft a sumo wrestler on just one finger.
+Machamp;Fighting;1.6;130.0;Superpow;G;Flying;Psychic;Machamp has the power to hurl anything aside. However,trying to do any work requiring care and dexterity causes itsarms to get tangled. This Pokémon tends to leap into actionbefore it thinks.
+Bellsprout;Grass;0.7;4.0;Flow;Chlorophy;Fire;Flying;Bellsprout's thin and flexible body lets it bend and sway toavoid any attack, however strong it may be. From its mouth,this Pokémon spits a corrosive fluid that melts even iron.
+Weepinbell;Grass;1.0;6.4;Flycatch;Chlorophy;Fire;Flying;Weepinbell has a large hook on its rear end. At night, thePokémon hooks on to a tree branch and goes to sleep.If it moves around in its sleep, it may wake up to find itselfon the ground.
+Victreebel;Grass;1.7;15.5;Flycatch;Chlorophy;Fire;Flying;Victreebel has a long vine that extends from its head.This vine is waved and flicked about as if it were an animal toattract prey. When an unsuspecting prey draws near, thisPokémon swallows it whole.
+Tentacool;Water;0.9;45.5;Jellyfish;Clear Body;Electric;Ground;Tentacool's body is largely composed of water. If it is removedfrom the sea, it dries up like parchment. If this Pokémonhappens to become dehydrated, put it back into the sea.
+Tentacruel;Water;1.6;55.0;Jellyfish;Clear Body;Electric;Ground;Tentacruel has large red orbs on its head. The orbs glowbefore lashing the vicinity with a harsh ultrasonic blast.This Pokémon's outburst creates rough waves around it.
+Geodude;Rock;0.4;20.0;Rock;Rock Head;Grass;Water;The longer a Geodude lives, the more its edges are chippedand worn away, making it more rounded in appearance.However, this Pokémon's heart will remain hard, craggy,and rough always.
+Graveler;Rock;1.0;105.0;Rock;Rock Head;Grass;Water;Graveler grows by feeding on rocks. Apparently, it prefers toeat rocks that are covered in moss. This Pokémon eats its waythrough a ton of rocks on a daily basis.
+Golem;Rock;1.4;300.0;Megato;Rock Head;Grass;Water;Golem live up on mountains. If there is a large earthquake,these Pokémon will come rolling down off the mountainsen masse to the foothills below.
+Ponyta;Fire;1.0;30.0;Fire Ho;Run Away;Ground;Rock;Ponyta is very weak at birth. It can barely stand up.This Pokémon becomes stronger by stumbling and falling tokeep up with its parent.
+Rapidash;Fire;1.7;95.0;Fire Ho;Run Away;Ground;Rock;Rapidash usually can be seen casually cantering in thefields and plains. However, when this Pokémon turns serious,its fiery manes flare and blaze as it gallops its way up to150 mph.
+Slowpoke;Water;1.2;36.0;Dopey;Oblivio;Bug;Dark;Slowpoke uses its tail to catch prey by dipping it in water atthe side of a river. However, this Pokémon often forgets whatit's doing and often spends entire days just loafing atwater's edge.
+Slowbro;Water;1.6;78.5;Hermit C;Oblivio;Bug;Dark;Slowbro's tail has a Shellder firmly attached with a bite.As a result, the tail can't be used for fishing anymore.This causes Slowbro to grudgingly swim and catchprey instead.
+Magnemite;Electric;0.3;6.0;Mag;Sturdy;Ground;Fire;Magnemite attaches itself to power lines to feed on electricity.If your house has a power outage, check your circuit breakers.You may find a large number of this Pokémon clinging to thebreaker box.
+Magneton;Electric;1.0;60.0;Mag;Sturdy;Ground;Fire;Magneton emits a powerful magnetic force that is fatal tomechanical devices. As a result, large cities sound sirensto warn citizens of large-scale outbreaks of this Pokémon.
+Farfetch'd;Normal;0.8;15.0;Wild Duck;Keen Ey;Electric;Ice;Farfetch'd is always seen with a stalk from a plant of somesort. Apparently, there are good stalks and bad stalks. ThisPokémon has been known to fight with others over stalks.
+Doduo;Normal;1.4;39.2;Twin Bird;Run Away;Electric;Ice;Doduo's two heads never sleep at the same time. Its twoheads take turns sleeping, so one head can always keepwatch for enemies while the other one sleeps.
+Dodrio;Normal;1.8;85.2;Triple Bird;Run Away;Electric;Ice;Watch out if Dodrio's three heads are looking in three separatedirections. It's a sure sign that it is on its guard. Don't go nearthis Pokémon if it's being wary—it may decide to peck you.
+Seel;Water;1.1;90.0;Sea Lio;Thick F;Electric;Grass;Seel hunts for prey in the frigid sea underneath sheets of ice.When it needs to breathe, it punches a hole through the icewith the sharply protruding section of its head.
+Dewgong;Water;1.7;120.0;Sea Lio;Thick F;Electric;Fighting;Dewgong loves to snooze on bitterly cold ice. The sight of thisPokémon sleeping on a glacier was mistakenly thought to be amermaid by a mariner long ago.
+Grimer;Poison;0.9;30.0;Sludg;Stench;Ground;Psychic;Grimer's sludgy and rubbery body can be forced through anyopening, however small it may be. This Pokémon enters sewerpipes to drink filthy wastewater.
+Muk;Poison;1.2;30.0;Sludg;Stench;Ground;Psychic;From Muk's body seeps a foul fluid that gives off anose-bendingly horrible stench. Just one drop of thisPokémon's body fluid can turn a pool stagnant and rancid.
+Shellder;Water;0.3;4.0;B;Shell Armo;Electric;Grass;At night, this Pokémon uses its broad tongue to burrow a holein the seafloor sand and then sleep in it. While it is sleeping,Shellder closes its shell, but leaves its tongue hanging out.
+Cloyster;Water;1.5;132.5;B;Shell Armo;Electric;Fighting;Cloyster is capable of swimming in the sea. It does so byswallowing water, then jetting it out toward the rear.This Pokémon shoots spikes from its shell using thesame system.
+Gastly;Ghost;1.3;0.1;G;L;Dark;Ghost;Gastly is largely composed of gaseous matter. When exposedto a strong wind, the gaseous body quickly dwindles away.Groups of this Pokémon cluster under the eaves of houses toescape the ravages of wind.
+Haunter;Ghost;1.6;0.1;G;L;Dark;Ghost;Haunter is a dangerous Pokémon. If one beckons you whilefloating in darkness, you must never approach it. This Pokémonwill try to lick you with its tongue and steal your life away.
+Gengar;Ghost;1.5;40.5;Shadow;L;Dark;Ghost;Sometimes, on a dark night, your shadow thrown by astreetlight will suddenly and startlingly overtake you.It is actually a Gengar running past you, pretending to beyour shadow.
+Onix;Rock;8.8;210.0;Rock Snak;Rock Head;Grass;Water;Onix has a magnet in its brain. It acts as a compass so that thisPokémon does not lose direction while it is tunneling.As it grows older, its body becomes increasingly rounderand smoother.
+Drowzee;Psychic;1.0;32.4;Hypno;Insom;Bug;Dark;If your nose becomes itchy while you are sleeping, it's a suresign that one of these Pokémon is standing above your pillowand trying to eat your dream through your nostrils.
+Hypno;Psychic;1.6;75.6;Hypno;Insom;Bug;Dark;Hypno holds a pendulum in its hand. The arcing movement andglitter of the pendulum lull the foe into a deep state ofhypnosis. While this Pokémon searches for prey, it polishesthe pendulum.
+Krabby;Water;0.4;6.5;River C;Shell Armo;Electric;Grass;Krabby live on beaches, burrowed inside holes dug into thesand. On sandy beaches with little in the way of food, thesePokémon can be seen squabbling with each otherover territory.
+Kingler;Water;1.3;60.0;P;Shell Armo;Electric;Grass;Kingler has an enormous, oversized claw. It waves this hugeclaw in the air to communicate with others. However, becausethe claw is so heavy, the Pokémon quickly tires.
+Voltorb;Electric;0.5;10.4;B;S;Ground;Voltorb was first sighted at a company that manufacturesPoké Balls. The link between that sighting and the factthat this Pokémon looks very similar to a Poké Ball remainsa mystery.
+Electrode;Electric;1.2;66.6;B;S;Ground;Electrode eats electricity in the atmosphere. On days whenlightning strikes, you can see this Pokémon exploding all overthe place from eating too much electricity.
+Exeggcute;Grass;0.4;2.5;Egg;Chlorophy;Bug;Dark;This Pokémon consists of six eggs that form a closely knitcluster. The six eggs attract each other and spin around.When cracks increasingly appear on the eggs, Exeggcute isclose to evolution.
+Exeggutor;Grass;2.0;120.0;Coco;Chlorophy;Bug;Dark;Exeggutor originally came from the tropics. Its headssteadily grow larger from exposure to strong sunlight.It is said that when the heads fall off, they group togetherto form Exeggcute.
+Cubone;Ground;0.4;6.5;Lonely;Rock Head;Grass;Ice;Cubone pines for the mother it will never see again.Seeing a likeness of its mother in the full moon, it cries.The stains on the skull the Pokémon wears are made by thetears it sheds.
+Marowak;Ground;1.0;45.0;Bone K;Rock Head;Grass;Ice;Marowak is the evolved form of a Cubone that has overcomeits sadness at the loss of its mother and grown tough.This Pokémon's tempered and hardened spirit is noteasily broken.
+Hitmonlee;Fighting;1.5;49.8;Kicking;Lim;Flying;Psychic;Hitmonlee's legs freely contract and stretch. Using thesespringlike legs, it bowls over foes with devastating kicks.After battle, it rubs down its legs and loosens the muscles toovercome fatigue.
+Hitmonchan;Fighting;1.4;50.2;Punching;Keen Ey;Flying;Psychic;Hitmonchan is said to possess the spirit of a boxer who hadbeen working toward a world championship. This Pokémon hasan indomitable spirit and will never give up in the faceof adversity.
+Lickitung;Normal;1.2;65.5;Licking;Oblivio;Fighting;Whenever Lickitung comes across something new, it willunfailingly give it a lick. It does so because it memorizes thingsby texture and by taste. It is somewhat put off by sour things.
+Koffing;Poison;0.6;1.0;Poison G;L;Psychic;If Koffing becomes agitated, it raises the toxicity of its internalgases and jets them out from all over its body. This Pokémonmay also overinflate its round body, then explode.
+Weezing;Poison;1.2;9.5;Poison G;L;Psychic;Weezing loves the gases given off by rotted kitchen garbage.This Pokémon will find a dirty, unkempt house and make it itshome. At night, when the people in the house are asleep, it willgo through the trash.
+Rhyhorn;Ground;1.0;115.0;Spik;Rock Head;Grass;Water;Rhyhorn runs in a straight line, smashing everything in its path.It is not bothered even if it rushes headlong into a block ofsteel. This Pokémon may feel some pain from the collision thenext day, however.
+Rhydon;Ground;1.9;120.0;D;Rock Head;Grass;Water;Rhydon's horn can crush even uncut diamonds. One sweepingblow of its tail can topple a building. This Pokémon's hide isextremely tough. Even direct cannon hits don't leave a scratch.
+Chansey;Normal;1.1;34.6;Egg;Natural C;Fighting;Chansey lays nutritionally excellent eggs on an everyday basis.The eggs are so delicious, they are easily and eagerlydevoured by even those people who have lost their appetite.
+Tangela;Grass;1.0;35.0;V;Chlorophy;Bug;Fire;Tangela's vines snap off easily if they are grabbed.This happens without pain, allowing it to make a quickgetaway. The lost vines are replaced by newly grown vines thevery next day.
+Kangaskhan;Normal;2.2;80.0;P;Early Bird;Fighting;Fighting;If you come across a young Kangaskhan playing by itself, youmust never disturb it or attempt to catch it. The babyPokémon's parent is sure to be in the area, and it will becomeviolently enraged at you.
+Horsea;Water;0.4;8.0;Drago;Swift Swim;Electric;Grass;Horsea eats small insects and moss off of rocks. If the oceancurrent turns fast, this Pokémon anchors itself by wrapping itstail around rocks or coral to prevent being washed away.
+Seadra;Water;1.2;25.0;Drago;Poison Po;Electric;Grass;Seadra sleeps after wriggling itself between the branches ofcoral. Those trying to harvest coral are occasionally stung bythis Pokémon's poison barbs if they fail to notice it.
+Goldeen;Water;0.6;15.0;Goldfish;Swift Swim;Electric;Grass;Goldeen is a very beautiful Pokémon with fins that billowelegantly in water. However, don't let your guard down aroundthis Pokémon—it could ram you powerfully with its horn.
+Seaking;Water;1.3;39.0;Goldfish;Swift Swim;Electric;Grass;In the autumn, Seaking males can be seen performingcourtship dances in riverbeds to woo females. During thisseason, this Pokémon's body coloration is at its most beautiful.
+Staryu;Water;0.8;34.5;Star Sh;Natural C;Electric;Grass;Staryu's center section has an organ called the core thatshines bright red. If you go to a beach toward the end ofsummer, the glowing cores of these Pokémon look like thestars in the sky.
+Starmie;Water;1.1;80.0;Mysterio;Natural C;Bug;Dark;Starmie's center section—the core—glows brightly in sevencolors. Because of its luminous nature, this Pokémon hasbeen given the nickname “the gem of the sea."
+Mr. Mime;Psychic;1.3;54.5;B;Soundproof;Ghost;Steel;Mr. Mime is a master of pantomime. Its gestures and motionsconvince watchers that something unseeable actually exists.Once the watchers are convinced, the unseeable thing existsas if it were real.
+Scyther;Bug;1.5;56.0;M;Swarm;Rock;Electric;Scyther is blindingly fast. Its blazing speed enhances theeffectiveness of the twin scythes on its forearms.This Pokémon's scythes are so effective, they can slicethrough thick logs in one wicked stroke.
+Jynx;Ice;1.4;40.6;Human Sh;Oblivio;Bug;Dark;Jynx walks rhythmically, swaying and shaking its hips as if itwere dancing. Its motions are so bouncingly alluring, peopleseeing it are compelled to shake their hips without giving anythought to what they are doing.
+Electabuzz;Electric;1.1;30.0;E;S;Ground;When a storm arrives, gangs of this Pokémon compete witheach other to scale heights that are likely to be stricken bylightning bolts. Some towns use Electabuzz in place oflightning rods.
+Magmar;Fire;1.3;44.5;Spitf;Flame Body;Ground;Rock;In battle, Magmar blows out intensely hot flames from allover its body to intimidate its opponent. This Pokémon'sfiery bursts create heat waves that ignite grass and treesin its surroundings.
+Pinsir;Bug;1.5;55.0;Stag B;Hyper C;Fire;Flying;Pinsir is astoundingly strong. It can grip a foe weighing twiceits weight in its horns and easily lift it. This Pokémon'smovements turn sluggish in cold places.
+Tauros;Normal;1.4;88.4;Wild B;Intimid;Fighting;This Pokémon is not satisfied unless it is rampaging at alltimes. If there is no opponent for Tauros to battle, it willcharge at thick trees and knock them down to calm itself.
+Magikarp;Water;0.9;10.0;Fish;Swift Swim;Electric;Grass;Magikarp is a pathetic excuse for a Pokémon that is onlycapable of flopping and splashing. This behavior promptedscientists to undertake research into it.
+Gyarados;Water;6.5;235.0;Atrocio;Intimid;Electric;Rock;When Magikarp evolves into Gyarados, its brain cells undergo astructural transformation. It is said that this transformation is toblame for this Pokémon's wildly violent nature.
+Lapras;Water;2.5;220.0;Transpo;Water Abso;Electric;Fighting;People have driven Lapras almost to the point of extinction.In the evenings, this Pokémon is said to sing plaintively as itseeks what few others of its kind still remain.
+Ditto;Normal;0.3;4.0;Transform;Lim;Fighting;Ditto rearranges its cell structure to transform itself into othershapes. However, if it tries to transform itself into somethingby relying on its memory, this Pokémon manages to getdetails wrong.
+Eevee;Normal;0.3;6.5;Evolutio;Run Away;Fighting;Eevee has an unstable genetic makeup that suddenly mutatesdue to the environment in which it lives. Radiation from variousstones causes this Pokémon to evolve.
+Vaporeon;Water;1.0;29.0;Bubble J;Water Abso;Electric;Grass;Vaporeon underwent a spontaneous mutation and grew finsand gills that allow it to live underwater. This Pokémon has theability to freely control water.
+Jolteon;Electric;0.8;24.5;Lightning;Volt Abso;Ground;Jolteon's cells generate a low level of electricity. This power isamplified by the static electricity of its fur, enabling thePokémon to drop thunderbolts. The bristling fur is made ofelectrically charged needles.
+Flareon;Fire;0.9;25.0;Flam;Flash F;Ground;Rock;Flareon's fluffy fur has a functional purpose—it releases heatinto the air so that its body does not get excessively hot.This Pokémon's body temperature can rise to a maximum of1,650 degrees Fahrenheit.
+Porygon;Normal;0.8;36.5;V;T;Fighting;Porygon is capable of reverting itself entirely back to programdata and entering cyberspace. This Pokémon is copy protectedso it cannot be duplicated by copying.
+Omanyte;Rock;0.4;7.5;S;Shell Armo;Grass;Electric;Omanyte is one of the ancient and long-since-extinct Pokémonthat have been regenerated from fossils by people. If attackedby an enemy, it withdraws itself inside its hard shell.
+Omastar;Rock;1.0;35.0;S;Shell Armo;Grass;Electric;Omastar uses its tentacles to capture its prey. It is believed tohave become extinct because its shell grew too large andheavy, causing its movements to become too slowand ponderous.
+Kabuto;Rock;0.5;11.5;Shellfish;Swift Swim;Grass;Electric;Kabuto is a Pokémon that has been regenerated from a fossil.However, in extremely rare cases, living examples have beendiscovered. The Pokémon has not changed at all for300 million years.
+Kabutops;Rock;1.3;40.5;Shellfish;Swift Swim;Grass;Electric;Kabutops swam underwater to hunt for its prey in ancienttimes. The Pokémon was apparently evolving from being awater dweller to living on land as evident from the beginningsof change in its gills and legs.
+Aerodactyl;Rock;1.8;59.0;Fo;Rock Head;Electric;Ice;Aerodactyl is a Pokémon from the age of dinosaurs. It wasregenerated from genetic material extracted from amber. It isimagined to have been the king of the skies in ancient times.
+Snorlax;Normal;2.1;460.0;Sleeping;Thick F;Fighting;Snorlax's typical day consists of nothing more than eating andsleeping. It is such a docile Pokémon that there are childrenwho use its expansive belly as a place to play.
+Articuno;Ice;1.7;55.4;Freez;P;Rock;Electric;Articuno is a legendary bird Pokémon that can control ice.The flapping of its wings chills the air. As a result, it is saidthat when this Pokémon flies, snow will fall.
+Zapdos;Electric;1.6;52.6;E;P;Ice;Rock;Zapdos is a legendary bird Pokémon that has the ability tocontrol electricity. It usually lives in thunderclouds.The Pokémon gains power if it is stricken by lightning bolts.
+Moltres;Fire;2.0;60.0;Flam;P;Rock;Electric;Moltres is a legendary bird Pokémon that has the ability tocontrol fire. If this Pokémon is injured, it is said to dip its bodyin the molten magma of a volcano to burn and heal itself.
+Dratini;Dragon;1.8;3.3;Drago;Shed Sk;Dragon;Ice;Dratini continually molts and sloughs off its old skin. It does sobecause the life energy within its body steadily builds to reachuncontrollable levels.
+Dragonair;Dragon;4.0;16.5;Drago;Shed Sk;Dragon;Ice;Dragonair stores an enormous amount of energy inside itsbody. It is said to alter weather conditions in its vicinity bydischarging energy from the crystals on its neck and tail.
+Dragonite;Dragon;2.2;210.0;Drago;Inner Fo;Ice;Dragon;Dragonite is capable of circling the globe in just 16 hours.It is a kindhearted Pokémon that leads lost and founderingships in a storm to the safety of land.
+Mewtwo;Psychic;2.0;122.0;G;P;Bug;Dark;Mewtwo is a Pokémon that was created by geneticmanipulation. However, even though the scientific power ofhumans created this Pokémon's body, they failed to endowMewtwo with a compassionate heart.
+Mew;Psychic;0.4;4.0;New S;Synchroniz;Bug;Dark;Mew is said to possess the genetic composition of allPokémon. It is capable of making itself invisible at will,so it entirely avoids notice even if it approaches people.
+Chikorita;Grass;0.9;6.4;Leaf;Overgrow;Bug;Fire;In battle, Chikorita waves its leaf around to keep the foe atbay. However, a sweet fragrance also wafts from the leaf,becalming the battling Pokémon and creating a cozy, friendlyatmosphere all around.
+Bayleef;Grass;1.2;15.8;Leaf;Overgrow;Bug;Fire;Bayleef's neck is ringed by curled-up leaves. Inside eachtubular leaf is a small shoot of a tree. The fragrance of thisshoot makes people peppy.
+Meganium;Grass;1.8;100.5;H;Overgrow;Bug;Fire;The fragrance of Meganium's flower soothes and calmsemotions. In battle, this Pokémon gives off more of itsbecalming scent to blunt the foe's fighting spirit.
+Cyndaquil;Fire;0.5;7.9;Fire Mo;Blaz;Ground;Rock;Cyndaquil protects itself by flaring up the flames on its back.The flames are vigorous if the Pokémon is angry. However, if itis tired, the flames splutter fitfully with incomplete combustion.
+Quilava;Fire;0.9;19.0;Volcano;Blaz;Ground;Rock;Quilava keeps its foes at bay with the intensity of its flames andgusts of superheated air. This Pokémon applies its outstandingnimbleness to dodge attacks even while scorching the foewith flames.
+Typhlosion;Fire;1.7;79.5;Volcano;Blaz;Ground;Rock;Typhlosion obscures itself behind a shimmering heat haze thatit creates using its intensely hot flames. This Pokémon createsblazing explosive blasts that burn everything to cinders.
+Totodile;Water;0.6;9.5;Big Jaw;To;Electric;Grass;Despite the smallness of its body, Totodile's jaws are verypowerful. While the Pokémon may think it is just playfullynipping, its bite has enough power to cause serious injury.
+Croconaw;Water;1.1;25.0;Big Jaw;To;Electric;Grass;Once Croconaw has clamped its jaws on its foe, it willabsolutely not let go. Because the tips of its fangs are forkedback like barbed fishhooks, they become impossible to removewhen they have sunk in.
+Feraligatr;Water;2.3;88.8;Big Jaw;To;Electric;Grass;Feraligatr intimidates its foes by opening its huge mouth.In battle, it will kick the ground hard with its thick and powerfulhind legs to charge at the foe at an incredible speed.
+Sentret;Normal;0.8;6.0;Sco;Keen Ey;Fighting;When Sentret sleeps, it does so while another stands guard.The sentry wakes the others at the first sign of danger.When this Pokémon becomes separated from its pack,it becomes incapable of sleep due to fear.
+Furret;Normal;1.8;32.5;Long Body;Keen Ey;Fighting;Furret has a very slim build. When under attack, it can slicklysquirm through narrow spaces and get away. In spite of itsshort limbs, this Pokémon is very nimble and fleet.
+Hoothoot;Normal;0.7;21.2;Ow;Keen Ey;Electric;Ice;Hoothoot has an internal organ that senses and tracks theearth's rotation. Using this special organ, this Pokémon beginshooting at precisely the same time every day.
+Noctowl;Normal;1.6;40.8;Ow;Keen Ey;Electric;Ice;Noctowl never fails at catching prey in darkness. This Pokémonowes its success to its superior vision that allows it to see inminimal light, and to its soft, supple wings that make no soundin flight.
+Ledyba;Bug;1.0;10.8;Five S;Swarm;Rock;Electric;Ledyba secretes an aromatic fluid from where its legs join itsbody. This fluid is used for communicating with others.This Pokémon conveys its feelings to others by altering thefluid's scent.
+Ledian;Bug;1.4;35.6;Five S;Swarm;Rock;Electric;It is said that in lands with clean air, where the stars fill thesky, there live Ledian in countless numbers. There is a goodreason for this—the Pokémon uses the light of the stars asits energy.
+Spinarak;Bug;0.5;8.5;String S;Swarm;Fire;Flying;The web spun by Spinarak can be considered its secondnervous system. It is said that this Pokémon can determinewhat kind of prey is touching its web just by the tiny vibrationsit feels through the web's strands.
+Ariados;Bug;1.1;33.5;Long Leg;Swarm;Fire;Flying;Ariados's feet are tipped with tiny hooked claws that enable itto scuttle on ceilings and vertical walls. This Pokémonconstricts the foe with thin and strong silk webbing.
+Crobat;Poison;1.8;75.0;B;Inner Fo;Electric;Ice;If this Pokémon is flying by fluttering only a pair of wings oneither the forelegs or hind legs, it's proof that Crobat has beenflying a long distance. It switches the wings it uses if it is tired.
+Chinchou;Water;0.5;12.0;Ang;Illum;Grass;Ground;Chinchou lets loose positive and negative electrical chargesfrom its two antennas to make its prey faint. This Pokémonflashes its electric lights to exchange signals with others.
+Lanturn;Water;1.2;22.5;Ligh;Illum;Grass;Ground;Lanturn is nicknamed “the deep-sea star" for its illuminatedantenna. This Pokémon produces light by causing a chemicalreaction between bacteria and its bodily fluids insidethe antenna.
+Pichu;Electric;0.3;2.0;Tiny Mo;S;Ground;Pichu charges itself with electricity more easily on days withthunderclouds or when the air is very dry. You can hear thecrackling of static electricity coming off this Pokémon.
+Cleffa;Fairy;0.3;3.0;Star Sh;Cute Charm;Steel;Poison;On nights with many shooting stars, Cleffa can be seendancing in a ring. They dance through the night and stop onlyat the break of day, when these Pokémon quench their thirstwith the morning dew.
+Igglybuff;Normal;0.3;1.0;Balloo;Cute Charm;Steel;Poison;Igglybuff's vocal cords are not sufficiently developed. It wouldhurt its throat if it were to sing too much. This Pokémongargles with freshwater from a clean stream.
+Togepi;Fairy;0.3;1.5;Spike B;Serene G;Steel;Poison;As its energy, Togepi uses the positive emotions ofcompassion and pleasure exuded by people and Pokémon.This Pokémon stores up feelings of happiness inside its shell,then shares them with others.
+Togetic;Fairy;0.6;3.2;H;Serene G;Electric;Ice;Togetic is said to be a Pokémon that brings good fortune.When the Pokémon spots someone who is pure of heart, it issaid to appear and share its happiness with that person.
+Natu;Psychic;0.2;2.0;Tiny Bird;Synchroniz;Dark;Electric;Natu cannot fly because its wings are not yet fully grown.If your eyes meet with this Pokémon's eyes, it will stare backintently at you. But if you move even slightly, it will hop awayto safety.
+Xatu;Psychic;1.5;15.0;My;Synchroniz;Dark;Electric;Xatu stands rooted and still in one spot all day long.People believe that this Pokémon does so out of fear of theterrible things it has foreseen in the future.
+Mareep;Electric;0.6;7.8;Woo;S;Ground;Mareep's fluffy coat of wool rubs together and builds a staticcharge. The more static electricity is charged, the more brightlythe lightbulb at the tip of its tail glows.
+Flaaffy;Electric;0.8;13.3;Woo;S;Ground;Flaaffy's wool quality changes so that it can generate a highamount of static electricity with a small amount of wool.The bare and slick parts of its hide are shieldedagainst electricity.
+Ampharos;Electric;1.4;61.5;Ligh;S;Ground;Fairy;Ampharos gives off so much light that it can be seen even fromspace. People in the old days used the light of this Pokémonto send signals back and forth with others far away.
+Bellossom;Grass;0.4;5.8;Flow;Chlorophy;Bug;Fire;When Bellossom gets exposed to plenty of sunlight, the leavesringing its body begin to spin around. This Pokémon's dancingis renowned in the southern lands.
+Marill;Water;0.4;8.5;Aqua Mo;Thick F;Electric;Grass;Marill's oil-filled tail acts much like a life preserver. If you seejust its tail bobbing on the water's surface, it's a sureindication that this Pokémon is diving beneath the water tofeed on aquatic plants.
+Azumarill;Water;0.8;28.5;Aqua R;Thick F;Electric;Grass;Azumarill's long ears are indispensable sensors. By focusing itshearing, this Pokémon can identify what kinds of prey arearound, even in rough and fast-running rivers.
+Sudowoodo;Rock;1.2;38.0;Imitatio;Rock Head;Fighting;Grass;Sudowoodo camouflages itself as a tree to avoid beingattacked by enemies. However, because its hands remaingreen throughout the year, the Pokémon is easily identifiedas a fake during the winter.
+Politoed;Water;1.1;33.9;Frog;Dam;Electric;Grass;The curled hair on Politoed's head is proof of its status as aking. It is said that the longer and more curled the hair, themore respect this Pokémon earns from its peers.
+Hoppip;Grass;0.4;0.5;Cottonweed;Chlorophy;Ice;Fire;This Pokémon drifts and floats with the wind. If it senses theapproach of strong winds, Hoppip links its leaves with otherHoppip to prepare against being blown away.
+Skiploom;Grass;0.6;1.0;Cottonweed;Chlorophy;Ice;Fire;Skiploom's flower blossoms when the temperature risesabove 64 degrees Fahrenheit. How much the flower opensdepends on the temperature. For that reason, this Pokémonis sometimes used as a thermometer.
+Jumpluff;Grass;0.8;3.0;Cottonweed;Chlorophy;Ice;Fire;Jumpluff rides warm southern winds to cross the sea and fly toforeign lands. The Pokémon descends to the ground when itencounters cold air while it is floating.
+Aipom;Normal;0.8;11.5;Long T;Run Away;Fighting;Aipom's tail ends in a hand-like appendage that can be cleverlymanipulated. However, because the Pokémon uses its tail somuch, its real hands have become rather clumsy.
+Sunkern;Grass;0.3;1.8;Seed;Chlorophy;Bug;Fire;Sunkern tries to move as little as it possibly can. It does sobecause it tries to conserve all the nutrients it has stored in itsbody for its evolution. It will not eat a thing, subsisting only onmorning dew.
+Sunflora;Grass;0.8;8.5;S;Chlorophy;Bug;Fire;Sunflora converts solar energy into nutrition. It moves aroundactively in the daytime when it is warm. It stops moving assoon as the sun goes down for the night.
+Yanma;Bug;1.2;38.0;Clear Wing;Compound Ey;Rock;Electric;Yanma is capable of seeing 360 degrees without having tomove its eyes. It is a great flier that is adept at making suddenstops and turning midair. This Pokémon uses its flying ability toquickly chase down targeted prey.
+Wooper;Water;0.4;8.5;Water Fish;Dam;Grass;Wooper usually lives in water. However, it occasionally comesout onto land in search of food. On land, it coats its body witha gooey, toxic film.
+Quagsire;Water;1.4;75.0;Water Fish;Dam;Grass;Quagsire hunts for food by leaving its mouth wide open inwater and waiting for its prey to blunder in unaware. Becausethe Pokémon does not move, it does not get very hungry.
+Espeon;Psychic;0.9;26.5;S;Synchroniz;Bug;Dark;Espeon is extremely loyal to any Trainer it considers tobe worthy. It is said that this Pokémon developed itsprecognitive powers to protect its Trainer from harm.
+Umbreon;Dark;1.0;27.0;Moonligh;Synchroniz;Fighting;Bug;Umbreon evolved as a result of exposure to the moon's waves.It hides silently in darkness and waits for its foes to make amove. The rings on its body glow when it leaps to attack.
+Murkrow;Dark;0.5;2.1;Dark;Insom;Electric;Ice;Murkrow was feared and loathed as the alleged bearer of illfortune. This Pokémon shows strong interest in anything thatsparkles or glitters. It will even try to steal rings from women.
+Slowking;Water;2.0;79.5;Roy;Oblivio;Bug;Dark;Slowking undertakes research every day in an effort to solvethe mysteries of the world. However, this Pokémon apparentlyforgets everything it has learned if the Shellder on its headcomes off.
+Misdreavus;Ghost;0.7;1.0;Screech;L;Dark;Ghost;Misdreavus frightens people with a creepy, sobbing cry.The Pokémon apparently uses its red spheres to absorb thefearful feelings of foes and turn them into nutrition.
+Unown;Psychic;0.5;5.0;Symbo;L;Bug;Dark;This Pokémon is shaped like ancient writing. It is a mystery asto which came first, the ancient writings or the various Unown.Research into this topic is ongoing but nothing is known.
+Wobbuffet;Psychic;1.3;28.5;P;Shadow Tag;Bug;Dark;If two or more Wobbuffet meet, they will turn competitiveand try to outdo each other's endurance. However, they maytry to see which one can endure the longest without food.Trainers need to beware of this habit.
+Girafarig;Normal;1.5;41.5;Long Neck;Inner Fo;Bug;Dark;Girafarig's rear head also has a brain, but it is small. The rearhead attacks in response to smells and sounds. Approachingthis Pokémon from behind can cause the rear head to suddenlylash out and bite.
+Pineco;Bug;0.6;7.2;Bagworm;Sturdy;Fire;Flying;Pineco hangs from a tree branch and patiently waits for prey tocome along. If the Pokémon is disturbed while eating bysomeone shaking its tree, it drops down to the ground andexplodes with no warning.
+Forretress;Bug;1.2;125.8;Bagworm;Sturdy;Fire;Forretress conceals itself inside its hardened steel shell.The shell is opened when the Pokémon is catching prey,but it does so at such a quick pace that the shell's insidecannot be seen.
+Dunsparce;Normal;1.5;14.0;Land Snak;Run Away;Fighting;Dunsparce has a drill for its tail. It uses this tail to burrow intothe ground backward. This Pokémon is known to make itsnest in complex shapes deep under the ground.
+Gligar;Ground;1.1;64.8;Fly Scorpio;Sand V;Ice;Water;Gligar glides through the air without a sound as if it weresliding. This Pokémon hangs on to the face of its foe usingits clawed hind legs and the large pincers on its forelegs, theninjects the prey with its poison barb.
+Steelix;Steel;9.2;400.0;Iron Snak;Rock Head;Fighting;Fire;Steelix lives even further underground than Onix.This Pokémon is known to dig toward the earth's core.There are records of this Pokémon reaching a depth of oversix-tenths of a mile underground.
+Snubbull;Fairy;0.6;7.8;Fairy;Run Away;Steel;Poison;By baring its fangs and making a scary face, Snubbull sendssmaller Pokémon scurrying away in terror. However, thisPokémon seems a little sad at making its foes flee.
+Granbull;Fairy;1.4;48.7;Fairy;Intimid;Steel;Poison;Granbull has a particularly well-developed lower jaw.The enormous fangs are heavy, causing the Pokémon to tip itshead back for balance. Unless it is startled, it will not try tobite indiscriminately.
+Qwilfish;Water;0.5;3.9;Balloo;Poison Po;Electric;Ground;Qwilfish sucks in water, inflating itself. This Pokémonuses the pressure of the water it swallowed to shoot toxicquills all at once from all over its body. It finds swimmingsomewhat challenging.
+Scizor;Bug;1.8;118.0;P;Swarm;Fire;Fire;Scizor has a body with the hardness of steel. It is not easilyfazed by ordinary sorts of attacks. This Pokémon flaps itswings to regulate its body temperature.
+Shuckle;Bug;0.6;20.5;Mold;Sturdy;Rock;Steel;Shuckle quietly hides itself under rocks, keeping its bodyconcealed inside its hard shell while eating berries it hasstored away. The berries mix with its body fluids to becomea juice.
+Heracross;Bug;1.5;54.0;Single Ho;Swarm;Flying;Fire;Heracross charges in a straight line at its foe, slips beneath thefoe's grasp, and then scoops up and hurls the opponent withits mighty horn. This Pokémon even has enough power totopple a massive tree.
+Sneasel;Dark;0.9;28.0;Sharp Claw;Keen Ey;Fighting;Bug;Sneasel scales trees by punching its hooked claws into thebark. This Pokémon seeks out unguarded nests and stealseggs for food while the parents are away.
+Teddiursa;Normal;0.6;8.8;Little B;Pick;Fighting;This Pokémon likes to lick its palms that are sweetened bybeing soaked in honey. Teddiursa concocts its own honeyby blending fruits and pollen collected by Beedrill.
+Ursaring;Normal;1.8;125.8;Hibernato;G;Fighting;In the forests inhabited by Ursaring, it is said that there aremany streams and towering trees where they gather food.This Pokémon walks through its forest gathering foodevery day.
+Slugma;Fire;0.7;35.0;L;Flame Body;Ground;Rock;Molten magma courses throughout Slugma's circulatorysystem. If this Pokémon is chilled, the magma cools andhardens. Its body turns brittle and chunks fall off, reducingits size.
+Magcargo;Fire;0.8;55.0;L;Flame Body;Ground;Water;Magcargo's shell is actually its skin that hardened as a resultof cooling. Its shell is very brittle and fragile—just touching itcauses it to crumble apart. This Pokémon returns to its originalsize by dipping itself in magma.
+Swinub;Ice;0.4;6.5;Pig;Oblivio;Fighting;Fire;Swinub roots for food by rubbing its snout against the ground.Its favorite food is a mushroom that grows under the cover ofdead grass. This Pokémon occasionally roots out hot springs.
+Piloswine;Ice;1.1;55.8;Sw;Oblivio;Fighting;Fire;Piloswine is covered by a thick coat of long hair that enables itto endure the freezing cold. This Pokémon uses its tusks todig up food that has been buried under ice.
+Corsola;Water;0.6;5.0;Co;Natural C;Grass;Electric;Corsola's branches glitter very beautifully in seven colors whenthey catch sunlight. If any branch breaks off, this Pokémongrows it back in just one night.
+Remoraid;Water;0.6;12.0;J;S;Electric;Grass;Remoraid sucks in water, then expels it at high velocity usingits abdominal muscles to shoot down flying prey. Whenevolution draws near, this Pokémon travels downstreamfrom rivers.
+Octillery;Water;0.9;28.5;J;S;Electric;Grass;Octillery grabs onto its foe using its tentacles. This Pokémontries to immobilize it before delivering the finishing blow. If thefoe turns out to be too strong, Octillery spews ink to escape.
+Delibird;Ice;0.9;16.0;Delivery;Vital S;Rock;Electric;Delibird carries its food bundled up in its tail. There once wasa famous explorer who managed to reach the peak of theworld's highest mountain, thanks to one of these Pokémonsharing its food.
+Mantine;Water;2.1;220.0;K;Water Abso;Electric;Rock;On sunny days, schools of Mantine can be seen elegantlyleaping over the sea's waves. This Pokémon is not botheredby the Remoraid that hitches rides.
+Skarmory;Steel;1.7;50.5;Armor Bird;Keen Ey;Electric;Fire;Skarmory is entirely encased in hard, protective armor.This Pokémon flies at close to 190 mph. It slashes foes withits wings that possess swordlike cutting edges.
+Houndour;Dark;0.6;10.8;Dark;Flash F;Fighting;Ground;Houndour hunt as a coordinated pack. They communicate witheach other using a variety of cries to corner their prey.This Pokémon's remarkable teamwork is unparalleled.
+Houndoom;Dark;1.4;35.0;Dark;Flash F;Fighting;Ground;In a Houndoom pack, the one with its horns raked sharplytoward the back serves a leadership role. These Pokémonchoose their leader by fighting among themselves.
+Kingdra;Water;1.8;152.0;Drago;Swift Swim;Dragon;Fairy;Kingdra lives at extreme ocean depths that are otherwiseuninhabited. It has long been believed that the yawning of thisPokémon creates spiraling ocean currents.
+Phanpy;Ground;0.5;33.5;Long No;Pick;Grass;Ice;For its nest, Phanpy digs a vertical pit in the ground at theedge of a river. It marks the area around its nest with its trunkto let the others know that the area has been claimed.
+Donphan;Ground;1.1;120.0;Armo;Sturdy;Grass;Ice;Donphan's favorite attack is curling its body into a ball, thencharging at its foe while rolling at high speed. Once it startsrolling, this Pokémon can't stop very easily.
+Porygon2;Normal;0.6;32.5;V;T;Fighting;Porygon2 was created by humans using the power of science.The man-made Pokémon has been endowed with artificialintelligence that enables it to learn new gestures and emotionson its own.
+Stantler;Normal;1.4;71.2;Big Ho;Intimid;Fighting;Stantler's magnificent antlers were traded at high prices asworks of art. As a result, this Pokémon was hunted close toextinction by those who were after the priceless antlers.
+Smeargle;Normal;1.2;58.0;P;Tech;Fighting;Smeargle marks the boundaries of its territory using a bodyfluid that leaks out from the tip of its tail. Over 5,000 differentmarks left by this Pokémon have been found.
+Tyrogue;Fighting;0.7;21.0;Scuff;G;Flying;Psychic;Tyrogue becomes stressed out if it does not get to train everyday. When raising this Pokémon, the Trainer must establishand uphold various training methods.
+Hitmontop;Fighting;1.4;48.0;Handstand;Intimid;Flying;Psychic;Hitmontop spins on its head at high speed, all the whiledelivering kicks. This technique is a remarkable mix of bothoffense and defense at the same time. The Pokémon travelsfaster spinning than it does walking.
+Smoochum;Ice;0.4;6.0;K;Oblivio;Bug;Dark;Smoochum actively runs about, but also falls quite often.Whenever the chance arrives, it will look for its reflection tomake sure its face hasn't become dirty.
+Elekid;Electric;0.6;23.5;E;S;Ground;Elekid stores electricity in its body. If it touches metal andaccidentally discharges all its built-up electricity, this Pokémonbegins swinging its arms in circles to recharge itself.
+Magby;Fire;0.7;21.4;Live Co;Flame Body;Ground;Rock;Magby's state of health is determined by observing the fire itbreathes. If the Pokémon is spouting yellow flames from itsmouth, it is in good health. When it is fatigued, black smokewill be mixed in with the flames.
+Miltank;Normal;1.2;75.5;Milk Cow;Thick F;Fighting;Miltank gives over five gallons of milk on a daily basis.Its sweet milk is enjoyed by children and grown-ups alike.People who can't drink milk turn it into yogurt and eatit instead.
+Blissey;Normal;1.5;46.8;H;Natural C;Fighting;Blissey senses sadness with its fluffy coat of fur. If it does so,this Pokémon will rush over to a sad person, no matter how faraway, to share a Lucky Egg that brings a smile to any face.
+Raikou;Electric;1.9;178.0;Thund;P;Ground;Raikou embodies the speed of lightning. The roars of thisPokémon send shock waves shuddering through the airand shake the ground as if lightning bolts had comecrashing down.
+Entei;Fire;2.1;198.0;Volcano;P;Ground;Rock;Entei embodies the passion of magma. This Pokémon isthought to have been born in the eruption of a volcano.It sends up massive bursts of fire that utterly consume all thatthey touch.
+Suicune;Water;2.0;187.0;Auro;P;Electric;Grass;Suicune embodies the compassion of a pure spring of water.It runs across the land with gracefulness. This Pokémon hasthe power to purify dirty water.
+Larvitar;Rock;0.6;72.0;Rock Sk;G;Grass;Water;Larvitar is born deep under the ground. To come up to thesurface, this Pokémon must eat its way through the soil above.Until it does so, Larvitar cannot see its parents.
+Pupitar;Rock;1.2;152.0;Hard Sh;Shed Sk;Grass;Water;Pupitar creates a gas inside its body that it compresses andforcefully ejects to propel itself like a jet. The body is verydurable—it avoids damage even if it hits solid steel.
+Tyranitar;Rock;2.0;202.0;Armo;Sand Stream;Fighting;Bug;Tyranitar is so overwhelmingly powerful, it can bring down awhole mountain to make its nest. This Pokémon wanders aboutin mountains seeking new opponents to fight.
+Lugia;Psychic;5.2;216.0;Diving;P;Dark;Electric;Lugia's wings pack devastating power—a light fluttering of itswings can blow apart regular houses. As a result, thisPokémon chooses to live out of sight deep under the sea.
+Ho-Oh;Fire;3.8;199.0;Rainbow;P;Rock;Electric;Ho-Oh's feathers glow in seven colors depending on the angleat which they are struck by light. These feathers are said tobring happiness to the bearers. This Pokémon is said to live atthe foot of a rainbow.
+Celebi;Psychic;0.6;5.0;Time T;Natural C;Bug;Dark;This Pokémon came from the future by crossing over time.It is thought that so long as Celebi appears, a bright andshining future awaits us.
+Treecko;Grass;0.5;5.0;Wood Gecko;Overgrow;Bug;Fire;Treecko has small hooks on the bottom of its feet that enableit to scale vertical walls. This Pokémon attacks by slammingfoes with its thick tail.
+Grovyle;Grass;0.9;21.6;Wood Gecko;Overgrow;Bug;Fire;The leaves growing out of Grovyle's body are convenient forcamouflaging it from enemies in the forest. This Pokémon is amaster at climbing trees in jungles.
+Sceptile;Grass;1.7;52.2;Fo;Overgrow;Bug;Fire;The leaves growing on Sceptile's body are very sharp edged.This Pokémon is very agile—it leaps all over the branches oftrees and jumps on its foe from above or behind.
+Torchic;Fire;0.4;2.5;Chick;Blaz;Ground;Rock;Torchic sticks with its Trainer, following behind withunsteady steps. This Pokémon breathes fire of over1,800 degrees Fahrenheit, including fireballs that leavethe foe scorched black.
+Combusken;Fire;0.9;19.5;Young Fow;Blaz;Flying;Ground;Combusken toughens up its legs and thighs by runningthrough fields and mountains. This Pokémon's legs possessboth speed and power, enabling it to dole out 10 kicks inone second.
+Blaziken;Fire;1.9;52.0;Blaz;Blaz;Flying;Ground;In battle, Blaziken blows out intense flames from its wrists andattacks foes courageously. The stronger the foe, the moreintensely this Pokémon's wrists burn.
+Mudkip;Water;0.4;7.6;Mud Fish;To;Electric;Grass;The fin on Mudkip's head acts as highly sensitive radar.Using this fin to sense movements of water and air, thisPokémon can determine what is taking place around itwithout using its eyes.
+Marshtomp;Water;0.7;28.0;Mud Fish;To;Grass;The surface of Marshtomp's body is enveloped by a thin, stickyfilm that enables it to live on land. This Pokémon plays in mudon beaches when the ocean tide is low.
+Swampert;Water;1.5;81.9;Mud Fish;To;Grass;Grass;Swampert is very strong. It has enough power to easily drag aboulder weighing more than a ton. This Pokémon also haspowerful vision that lets it see even in murky water.
+Poochyena;Dark;0.5;13.6;B;Run Away;Fighting;Bug;At first sight, Poochyena takes a bite at anything that moves.This Pokémon chases after prey until the victim becomesexhausted. However, it may turn tail if the prey strikes back.
+Mightyena;Dark;1.0;37.0;B;Intimid;Fighting;Bug;Mightyena gives obvious signals when it is preparing to attack.It starts to growl deeply and then flattens its body.This Pokémon will bite savagely with its sharply pointed fangs.
+Zigzagoon;Normal;0.4;17.5;Tiny Raccoo;Pick;Fighting;Zigzagoon restlessly wanders everywhere at all times.This Pokémon does so because it is very curious. It becomesinterested in anything that it happens to see.
+Linoone;Normal;0.5;32.5;Rushing;Pick;Fighting;Linoone always runs full speed and only in straight lines.If facing an obstacle, it makes a right-angle turn to evade it.This Pokémon is very challenged by gently curving roads.
+Wurmple;Bug;0.3;3.6;Worm;Shield D;Fire;Flying;Using the spikes on its rear end, Wurmple peels the bark offtrees and feeds on the sap that oozes out. This Pokémon'sfeet are tipped with suction pads that allow it to cling to glasswithout slipping.
+Silcoon;Bug;0.6;10.0;Cocoo;Shed Sk;Fire;Flying;Silcoon tethers itself to a tree branch using silk to keep fromfalling. There, this Pokémon hangs quietly while it awaitsevolution. It peers out of the silk cocoon through a small hole.
+Beautifly;Bug;1.0;28.4;Butterfly;Swarm;Rock;Electric;Beautifly's favorite food is the sweet pollen of flowers. If youwant to see this Pokémon, just leave a potted flower by anopen window. Beautifly is sure to come looking for pollen.
+Cascoon;Bug;0.7;11.5;Cocoo;Shed Sk;Fire;Flying;Cascoon makes its protective cocoon by wrapping its bodyentirely with a fine silk from its mouth. Once the silk goesaround its body, it hardens. This Pokémon prepares for itsevolution inside the cocoon.
+Dustox;Bug;1.2;31.6;Poison Moth;Shield D;Fire;Flying;Dustox is instinctively drawn to light. Swarms of this Pokémonare attracted by the bright lights of cities, where they wreakhavoc by stripping the leaves off roadside trees for food.
+Lotad;Water;0.5;2.6;Water Weed;Swift Swim;Bug;Flying;Lotad live in ponds and lakes, where they float on the surface.It grows weak if its broad leaf dies. On rare occasions, thisPokémon travels on land in search of clean water.
+Lombre;Water;1.2;32.5;Jolly;Swift Swim;Bug;Flying;Lombre is nocturnal—it will get active after dusk.It is also a mischief maker. When this Pokémonspots anglers, it tugs on their fishing lines frombeneath the surface and enjoys their consternation.
+Ludicolo;Water;1.5;55.0;Caref;Swift Swim;Bug;Flying;Ludicolo begins dancing as soon as it hears cheerful,festive music. This Pokémon is said to appear when ithears the singing of children on hiking outings.
+Seedot;Grass;0.5;4.0;Aco;Chlorophy;Bug;Fire;Seedot attaches itself to a tree branch using the top of itshead. It sucks moisture from the tree while hanging off thebranch. The more water it drinks, the glossier this Pokémon'sbody becomes.
+Nuzleaf;Grass;1.0;28.0;Wily;Chlorophy;Bug;Fire;Nuzleaf live in densely overgrown forests. They occasionallyventure out of the forest to startle people. This Pokémondislikes having its long nose pinched.
+Shiftry;Grass;1.3;59.6;Wicked;Chlorophy;Bug;Fire;Shiftry is a mysterious Pokémon that is said to live atoptowering trees dating back over a thousand years. It createsterrific windstorms with the fans it holds.
+Taillow;Normal;0.3;2.3;Tiny Swallow;G;Electric;Ice;Taillow courageously stands its ground against foes, howeverstrong they may be. This gutsy Pokémon will remain defianteven after a loss. On the other hand, it cries loudly if itbecomes hungry.
+Swellow;Normal;0.7;19.8;Swallow;G;Electric;Ice;Swellow flies high above our heads, making graceful arcsin the sky. This Pokémon dives at a steep angle as soon asit spots its prey. The hapless prey is tightly grasped bySwellow's clawed feet, preventing escape.
+Wingull;Water;0.6;9.5;Seag;Keen Ey;Electric;Rock;Wingull has the habit of carrying prey and valuables in its beakand hiding them in all sorts of locations. This Pokémon ridesthe winds and flies as if it were skating across the sky.
+Pelipper;Water;1.2;28.0;Water Bird;Keen Ey;Electric;Rock;Pelipper is a flying transporter that carries small Pokémon andeggs inside its massive bill. This Pokémon builds its nest onsteep cliffs facing the sea.
+Ralts;Psychic;0.4;6.6;Feeling;Synchroniz;Ghost;Steel;Ralts senses the emotions of people using the horns onits head. This Pokémon rarely appears before people.But when it does, it draws closer if it senses that the personhas a positive disposition.
+Kirlia;Psychic;0.8;20.2;Emotio;Synchroniz;Ghost;Steel;It is said that a Kirlia that is exposed to the positive emotionsof its Trainer grows beautiful. This Pokémon controlspsychokinetic powers with its highly developed brain.
+Gardevoir;Psychic;1.6;48.4;Em;Synchroniz;Ghost;Steel;Gardevoir has the ability to read the future. If it sensesimpending danger to its Trainer, this Pokémon is saidto unleash its psychokinetic energy at full power.
+Surskit;Bug;0.5;1.7;Pond Sk;Swift Swim;Electric;Flying;From the tips of its feet, Surskit secretes an oil that enables itto walk on water as if it were skating. This Pokémon feeds onmicroscopic organisms in ponds and lakes.
+Masquerain;Bug;0.8;3.6;Ey;Intimid;Rock;Electric;Masquerain intimidates enemies with the eyelike patternson its antennas. This Pokémon flaps its four wings to freely flyin any direction—even sideways and backwards—as if it werea helicopter.
+Shroomish;Grass;0.4;4.5;Mushroom;Effect Spo;Bug;Fire;Shroomish live in damp soil in the dark depths of forests.They are often found keeping still under fallen leaves.This Pokémon feeds on compost that is made up of fallen,rotted leaves.
+Breloom;Grass;1.2;39.2;Mushroom;Effect Spo;Flying;Fire;Breloom closes in on its foe with light and sprightly footwork,then throws punches with its stretchy arms. This Pokémon'sfighting technique puts boxers to shame.
+Slakoth;Normal;0.8;24.0;Slack;T;Fighting;Slakoth lolls around for over 20 hours every day. Because itmoves so little, it does not need much food. This Pokémon'ssole daily meal consists of just three leaves.
+Vigoroth;Normal;1.4;46.5;Wild Monkey;Vital S;Fighting;Vigoroth is always itching and agitated to go on a wildrampage. It simply can't tolerate sitting still for evena minute. This Pokémon's stress level rises if it can'tbe moving constantly.
+Slaking;Normal;2.0;130.5;Lazy;T;Fighting;Slaking spends all day lying down and lolling about. It eatsgrass growing within its reach. If it eats all the grass it canreach, this Pokémon reluctantly moves to another spot.
+Nincada;Bug;0.5;5.5;T;Compound Ey;Fire;Flying;Nincada lives underground for many years in completedarkness. This Pokémon absorbs nutrients from the roots oftrees. It stays motionless as it waits for evolution.
+Ninjask;Bug;0.8;12.0;Ninj;Speed Boo;Rock;Electric;Ninjask moves around at such a high speed that itcannot be seen, even while its crying can be clearly heard.For that reason, this Pokémon was long believed tobe invisible.
+Shedinja;Bug;0.8;1.2;Shed;Wonder Guard;Dark;Fire;Shedinja's hard body doesn't move—not even a twitch. In fact,its body appears to be merely a hollow shell. It is believed thatthis Pokémon will steal the spirit of anyone peering into itshollow body from its back.
+Whismur;Normal;0.6;16.3;Wh;Soundproof;Fighting;Normally, Whismur's voice is very quiet—it is barely audibleeven if one is paying close attention. However, if this Pokémonsenses danger, it starts crying at an earsplitting volume.
+Loudred;Normal;1.0;40.5;Big Vo;Soundproof;Fighting;Loudred's bellowing can completely decimate a wood-framehouse. It uses its voice to punish its foes. This Pokémon'sround ears serve as loudspeakers.
+Exploud;Normal;1.5;84.0;Loud No;Soundproof;Fighting;Exploud triggers earthquakes with the tremors it createsby bellowing. If this Pokémon violently inhales from theports on its body, it's a sign that it is preparing to let loosea huge bellow.
+Makuhita;Fighting;1.0;86.4;G;G;Flying;Psychic;Makuhita is tenacious—it will keep getting up and attackingits foe however many times it is knocked down. Every time itgets back up, this Pokémon stores more energy in its bodyfor evolving.
+Hariyama;Fighting;2.3;253.8;Arm Th;G;Flying;Psychic;Hariyama practices its straight-arm slaps in any number oflocations. One hit of this Pokémon's powerful, openhanded,straight-arm punches could snap a telephone pole in two.
+Azurill;Normal;0.2;2.0;Polka Do;Thick F;Steel;Poison;Azurill spins its tail as if it were a lasso, then hurls it far.The momentum of the throw sends its body flying, too.Using this unique action, one of these Pokémon managed tohurl itself a record 33 feet.
+Nosepass;Rock;1.0;97.0;Com;Sturdy;Fighting;Grass;Nosepass's magnetic nose is always pointed to the north.If two of these Pokémon meet, they cannot turn their faces toeach other when they are close because their magnetic nosesrepel one another.
+Skitty;Normal;0.6;11.0;K;Cute Charm;Fighting;Skitty has the habit of becoming fascinated by moving objectsand chasing them around. This Pokémon is known to chaseafter its own tail and become dizzy.
+Delcatty;Normal;1.1;32.6;Prim;Cute Charm;Fighting;Delcatty prefers to live an unfettered existence in which it cando as it pleases at its own pace. Because this Pokémon eatsand sleeps whenever it decides, its daily routines arecompletely random.
+Sableye;Dark;0.5;11.0;Dark;Keen Ey;Fairy;Fairy;Sableye lead quiet lives deep inside caverns.They are feared, however, because these Pokémon arethought to steal the spirits of people when their eyes burnwith a sinister glow in the darkness.
+Mawile;Steel;0.6;11.5;D;Intimid;Fire;Ground;Mawile's huge jaws are actually steel horns that have beentransformed. Its docile-looking face serves to lull its foe intoletting down its guard. When the foe least expects it, Mawilechomps it with its gaping jaws.
+Aron;Steel;0.4;60.0;Iron Armo;Rock Head;Fighting;Ground;This Pokémon has a body of steel. To make its body, Aronfeeds on iron ore that it digs from mountains. Occasionally,it causes major trouble by eating bridges and rails.
+Lairon;Steel;0.9;120.0;Iron Armo;Rock Head;Fighting;Ground;Lairon tempers its steel body by drinking highly nutritiousmineral springwater until it is bloated. This Pokémon makes itsnest close to springs of delicious water.
+Aggron;Steel;2.1;360.0;Iron Armo;Rock Head;Fighting;Ground;Aggron claims an entire mountain as its own territory.It mercilessly beats up anything that violates its environment.This Pokémon vigilantly patrols its territory at all times.
+Meditite;Fighting;0.6;11.2;Med;Pure Pow;Flying;Ghost;Meditite undertakes rigorous mental training deep in themountains. However, whenever it meditates, this Pokémonalways loses its concentration and focus. As a result,its training never ends.
+Medicham;Fighting;1.3;31.5;Med;Pure Pow;Flying;Ghost;It is said that through meditation, Medicham heightens energyinside its body and sharpens its sixth sense. This Pokémonhides its presence by merging itself with fields and mountains.
+Electrike;Electric;0.6;15.2;Lightning;S;Ground;Electrike stores electricity in its long body hair. This Pokémonstimulates its leg muscles with electric charges. These jolts ofpower give its legs explosive acceleration performance.
+Manectric;Electric;1.5;40.2;Discharg;S;Ground;Ground;Manectric is constantly discharging electricity from its mane.The sparks sometimes ignite forest fires. When it enters abattle, this Pokémon creates thunderclouds.
+Plusle;Electric;0.4;4.2;Cheering;P;Ground;Plusle always acts as a cheerleader for its partners.Whenever a teammate puts out a good effort in battle, thisPokémon shorts out its body to create the crackling noises ofsparks to show its joy.
+Minun;Electric;0.4;4.2;Cheering;M;Ground;Minun is more concerned about cheering on its partners thanits own safety. It shorts out the electricity in its body to createbrilliant showers of sparks to cheer on its teammates.
+Volbeat;Bug;0.7;17.7;Firefly;Swarm;Fire;Flying;With the arrival of night, Volbeat emits light from its tail.It communicates with others by adjusting the intensity andflashing of its light. This Pokémon is attracted by the sweetaroma of Illumise.
+Illumise;Bug;0.6;17.7;Firefly;Tinted L;Fire;Flying;Illumise attracts a swarm of Volbeat using a sweet fragrance.Once the Volbeat have gathered, this Pokémon leads thelit-up swarm in drawing geometric designs on the canvas ofthe night sky.
+Roselia;Grass;0.3;2.0;Tho;Poison Po;Fire;Flying;Roselia shoots sharp thorns as projectiles at any opponent thattries to steal the flowers on its arms. The aroma of thisPokémon brings serenity to living things.
+Gulpin;Poison;0.4;10.3;Stomach;Liquid Ooz;Ground;Psychic;Virtually all of Gulpin's body is its stomach. As a result, it canswallow something its own size. This Pokémon's stomachcontains a special fluid that digests anything.
+Swalot;Poison;1.7;80.0;Poison Bag;Liquid Ooz;Ground;Psychic;When Swalot spots prey, it spurts out a hideously toxic fluidfrom its pores and sprays the target. Once the prey hasweakened, this Pokémon gulps it down whole with itscavernous mouth.
+Carvanha;Water;0.8;20.8;Savag;Rough Sk;Bug;Electric;Carvanha's strongly developed jaws and its sharply pointedfangs pack the destructive power to rip out boat hulls.Many boats have been attacked and sunk by this Pokémon.
+Sharpedo;Water;1.8;88.8;B;Rough Sk;Bug;Electric;Nicknamed “the bully of the sea," Sharpedo is widely feared.Its cruel fangs grow back immediately if they snap off. Just oneof these Pokémon can thoroughly tear apart a supertanker.
+Wailmer;Water;2.0;130.0;Ball Wh;Oblivio;Electric;Grass;Wailmer's nostrils are located above its eyes. This playfulPokémon loves to startle people by forcefully snorting outseawater it stores inside its body out of its nostrils.
+Wailord;Water;14.5;398.0;Float Wh;Oblivio;Electric;Grass;Wailord is the largest of all identified Pokémon up to now.This giant Pokémon swims languorously in the vast open sea,eating massive amounts of food at once with its enormousmouth.
+Numel;Fire;0.7;24.0;Num;Oblivio;Water;Ground;Numel is extremely dull witted—it doesn't notice being hit.However, it can't stand hunger for even a second.This Pokémon's body is a seething cauldron of boiling magma.
+Camerupt;Fire;1.9;220.0;Eruptio;Magma Armo;Water;Ground;Camerupt has a volcano inside its body. Magma of18,000 degrees Fahrenheit courses through its body.Occasionally, the humps on this Pokémon's back erupt,spewing the superheated magma.
+Torkoal;Fire;0.5;80.4;Co;White Smok;Ground;Rock;Torkoal digs through mountains in search of coal. If it findssome, it fills hollow spaces on its shell with the coal and burnsit. If it is attacked, this Pokémon spouts thick black smoke tobeat a retreat.
+Spoink;Psychic;0.7;30.6;Bo;Own Tempo;Bug;Dark;Spoink bounces around on its tail. The shock of its bouncingmakes its heart pump. As a result, this Pokémon cannot affordto stop bouncing—if it stops, its heart will stop.
+Grumpig;Psychic;0.9;71.5;M;Own Tempo;Bug;Dark;Grumpig uses the black pearls on its body to amplify itspsychic power waves for gaining total control over its foe.When this Pokémon uses its special power, its snorting breathgrows labored.
+Spinda;Normal;1.1;5.0;Spot Pand;Tangled F;Fighting;All the Spinda that exist in the world are said to have utterlyunique spot patterns. The shaky, tottering steps of thisPokémon give it the appearance of dancing.
+Trapinch;Ground;0.7;15.0;Ant P;Arena T;Grass;Ice;Trapinch's nest is a sloped, bowl-like pit dug in sand.This Pokémon patiently waits for prey to tumble down the pit.Its giant jaws have enough strength to crush even boulders.
+Vibrava;Ground;1.1;15.3;Vibratio;L;Ice;Dragon;To make prey faint, Vibrava generates ultrasonic waves byvigorously making its two wings vibrate. This Pokémon'sultrasonic waves are so powerful, they can bring on headachesin people.
+Flygon;Ground;2.0;82.0;My;L;Ice;Dragon;Flygon is nicknamed “the elemental spirit of the desert."Because its flapping wings whip up a cloud of sand, thisPokémon is always enveloped in a sandstorm while flying.
+Cacnea;Grass;0.4;51.3;C;Sand V;Bug;Fire;Cacnea lives in arid locations such as deserts. It releases astrong aroma from its flower to attract prey. When prey comesnear, this Pokémon shoots sharp thorns from its body to bringthe victim down.
+Cacturne;Grass;1.3;77.4;Scarecrow;Sand V;Bug;Fire;During the daytime, Cacturne remains unmoving so that it doesnot lose any moisture to the harsh desert sun. This Pokémonbecomes active at night when the temperature drops.
+Swablu;Normal;0.4;1.2;Cotton Bird;Natural C;Electric;Ice;Swablu has light and fluffy wings that are like cottony clouds.This Pokémon is not frightened of people. It lands on theheads of people and sits there like a cotton-fluff hat.
+Altaria;Dragon;1.1;20.6;Humming;Natural C;Ice;Dragon;Altaria dances and wheels through the sky among billowing,cotton-like clouds. By singing melodies in its crystal-clearvoice, this Pokémon makes its listeners experience dreamywonderment.
+Zangoose;Normal;1.3;40.3;Cat F;Immunity;Fighting;Memories of battling its archrival Seviper are etched into everycell of Zangoose's body. This Pokémon adroitly dodgesattacks with incredible agility.
+Seviper;Poison;2.7;52.5;Fang Snak;Shed Sk;Ground;Psychic;Seviper shares a generations-long feud with Zangoose.The scars on its body are evidence of vicious battles.This Pokémon attacks using its sword-edged tail.
+Lunatone;Rock;1.0;168.0;Meteo;L;Bug;Dark;Lunatone was discovered at a location where a meteoroid fell.As a result, some people theorize that this Pokémon camefrom space. However, no one has been able to prove thistheory so far.
+Solrock;Rock;1.2;154.0;Meteo;L;Bug;Dark;Solrock is a new species of Pokémon that is said to have fallenfrom space. It floats in air and moves silently. In battle, thisPokémon releases intensely bright light.
+Barboach;Water;0.4;1.9;Whisk;Oblivio;Grass;Barboach's sensitive whiskers serve as a superb radar system.This Pokémon hides in mud, leaving only its two whiskersexposed while it waits for prey to come along.
+Whiscash;Water;0.9;23.6;Whisk;Oblivio;Grass;Whiscash is extremely territorial. Just one of these Pokémonwill claim a large pond as its exclusive territory. If a foeapproaches it, it thrashes about and triggers a massiveearthquake.
+Corphish;Water;0.6;11.5;Ruff;Shell Armo;Electric;Grass;Corphish were originally foreign Pokémon that were importedas pets. They eventually turned up in the wild. This Pokémon isvery hardy and has greatly increased its population.
+Crawdaunt;Water;1.1;32.8;Rog;Shell Armo;Bug;Electric;Crawdaunt has an extremely violent nature that compels it tochallenge other living things to battle. Other life-forms refuseto live in ponds inhabited by this Pokémon, making themdesolate places.
+Baltoy;Ground;0.5;21.5;Clay Do;L;Bug;Dark;Baltoy moves while spinning around on its one foot. Primitivewall paintings depicting this Pokémon living among peoplewere discovered in some ancient ruins.
+Claydol;Ground;1.5;108.0;Clay Do;L;Bug;Dark;Claydol are said to be dolls of mud made by primitive humansand brought to life by exposure to a mysterious ray.This Pokémon moves about while levitating.
+Lileep;Rock;1.0;23.8;Sea Lily;Suction C;Bug;Fighting;Lileep became extinct approximately a hundred million yearsago. This ancient Pokémon attaches itself to a rock on theseafloor and catches approaching prey using tentacles shapedlike flower petals.
+Cradily;Rock;1.5;60.4;B;Suction C;Bug;Fighting;Cradily roams around the ocean floor in search of food.This Pokémon freely extends its tree trunk-like neck andcaptures unwary prey using its eight tentacles.
+Anorith;Rock;0.7;12.5;Old Shrim;Battle Armo;Rock;Steel;Anorith was regenerated from a prehistoric fossil. This primitivePokémon once lived in warm seas. It grips its prey firmlybetween its two large claws.
+Armaldo;Rock;1.5;68.2;P;Battle Armo;Rock;Steel;Armaldo's tough armor makes all attacks bounce off. ThisPokémon's two enormous claws can be freely extended orcontracted. They have the power to punch right through asteel slab.
+Feebas;Water;0.6;7.4;Fish;Oblivio;Electric;Grass;Feebas's fins are ragged and tattered from the start of its life.Because of its shoddy appearance, this Pokémon is largelyignored. It is capable of living in both the sea and in rivers.
+Milotic;Water;6.2;162.0;Tend;Marvel S;Electric;Grass;Milotic is said to be the most beautiful of all the Pokémon.It has the power to becalm such emotions as anger andhostility to quell bitter feuding.
+Castform;Normal;0.3;0.8;Weath;Fo;Fighting;Water;Castform's appearance changes with the weather.This Pokémon gained the ability to use the vast power ofnature to protect its tiny body.
+Kecleon;Normal;1.0;22.0;Color Sw;Color Chang;Fighting;Kecleon is capable of changing its body colors at will to blendin with its surroundings. There is one exception—this Pokémoncan't change the zigzag pattern on its belly.
+Shuppet;Ghost;0.6;2.3;P;Insom;Dark;Ghost;Shuppet is attracted by feelings of jealousy and vindictiveness.If someone develops strong feelings of vengeance, thisPokémon will appear in a swarm and line up beneath the eavesof that person's home.
+Banette;Ghost;1.1;12.5;Mario;Insom;Dark;Ghost;Banette generates energy for laying strong curses by stickingpins into its own body. This Pokémon was originally a pitifulplush doll that was thrown away.
+Duskull;Ghost;0.8;15.0;Requiem;L;Dark;Ghost;Duskull can pass through any wall no matter how thick it maybe. Once this Pokémon chooses a target, it will doggedlypursue the intended victim until the break of dawn.
+Dusclops;Ghost;1.6;30.6;Becko;P;Dark;Ghost;Dusclops's body is completely hollow—there is nothing at allinside. It is said that its body is like a black hole. ThisPokémon will absorb anything into its body, but nothing willever come back out.
+Tropius;Grass;2.0;100.0;F;Chlorophy;Ice;Fire;The bunches of fruit around Tropius's neck are very popularwith children. This Pokémon loves fruit, and eats itcontinuously. Apparently, its love for fruit resulted in its ownoutgrowth of fruit.
+Chimecho;Psychic;0.6;1.0;Wind Chim;L;Bug;Dark;Chimecho makes its cries echo inside its hollow body.When this Pokémon becomes enraged, its cries result inultrasonic waves that have the power to knock foes flying.
+Absol;Dark;1.2;47.0;D;P;Fighting;Bug;Every time Absol appears before people, it is followed by adisaster such as an earthquake or a tidal wave. As a result,it came to be known as the disaster Pokémon.
+Wynaut;Psychic;0.6;14.0;Brigh;Shadow Tag;Bug;Dark;Wynaut can always be seen with a big, happy smile on its face.Look at its tail to determine if it is angry. When angered, thisPokémon will be slapping the ground with its tail.
+Snorunt;Ice;0.7;16.8;Snow H;Inner Fo;Fire;Fighting;Snorunt live in regions with heavy snowfall. In seasonswithout snow, such as spring and summer, this Pokémonsteals away to live quietly among stalactites and stalagmitesdeep in caverns.
+Glalie;Ice;1.5;256.5;F;Inner Fo;Fire;Fighting;Glalie has a body made of rock, which it hardens with an armorof ice. This Pokémon has the ability to freeze moisture in theatmosphere into any shape it desires.
+Spheal;Ice;0.8;39.5;C;Thick F;Electric;Fighting;Spheal is much faster rolling than walking to get around.When groups of this Pokémon eat, they all clap at once toshow their pleasure. Because of this, their mealtimes are noisy.
+Sealeo;Ice;1.1;87.6;Ball Ro;Thick F;Electric;Fighting;Sealeo has the habit of always juggling on the tip of its noseanything it sees for the first time. This Pokémon occasionallyentertains itself by balancing and rolling a Spheal on its nose.
+Walrein;Ice;1.4;150.6;Ice Break;Thick F;Electric;Fighting;Walrein's two massively developed tusks can totally shatterblocks of ice weighing 10 tons with one blow. This Pokémon'sthick coat of blubber insulates it from subzero temperatures.
+Clamperl;Water;0.4;52.5;B;Shell Armo;Electric;Grass;Clamperl's sturdy shell is not only good for protection—it isalso used for clamping and catching prey. A fully grownClamperl's shell will be scored with nicks and scratchesall over.
+Huntail;Water;1.7;27.0;Deep S;Swift Swim;Electric;Grass;Huntail's presence went unnoticed by people for a longtime because it lives at extreme depths in the sea.This Pokémon's eyes can see clearly even in the murkydark depths of the ocean.
+Gorebyss;Water;1.8;22.6;South S;Swift Swim;Electric;Grass;Gorebyss lives in the southern seas at extreme depths. Itsbody is built to withstand the enormous pressure of water atincredible depths. Because of this, this Pokémon's body isunharmed by ordinary attacks.
+Relicanth;Water;1.0;23.4;Longevity;Rock Head;Grass;Electric;Relicanth is a Pokémon species that existed for a hundredmillion years without ever changing its form. This ancientPokémon feeds on microscopic organisms with itstoothless mouth.
+Luvdisc;Water;0.6;8.7;Rendezvo;Swift Swim;Electric;Grass;Luvdisc live in shallow seas in the tropics. This heart-shapedPokémon earned its name by swimming after loving couples itspotted in the ocean's waves.
+Bagon;Dragon;0.6;42.1;Rock Head;Rock Head;Dragon;Ice;Bagon has a dream of one day soaring in the sky.In doomed efforts to fly, this Pokémon hurls itself off cliffs.As a result of its dives, its head has grown tough and as hardas tempered steel.
+Shelgon;Dragon;1.1;110.5;End;Rock Head;Dragon;Ice;Inside Shelgon's armor-like shell, cells are in the midst oftransformation to create an entirely new body. This Pokémon'sshell is extremely heavy, making its movements sluggish.
+Salamence;Dragon;1.5;102.6;Drago;Intimid;Ice;Dragon;Salamence came about as a result of a strong, long-helddream of growing wings. It is said that this powerful desiretriggered a sudden mutation in this Pokémon's cells,causing it to sprout its magnificent wings.
+Beldum;Steel;0.6;95.2;Iron B;Clear Body;Fire;Ground;Instead of blood, a powerful magnetic force coursesthroughout Beldum's body. This Pokémon communicateswith others by sending controlled pulses of magnetism.
+Metang;Steel;1.2;202.5;Iron Claw;Clear Body;Fire;Ground;When two Beldum fuse together, Metang is formed. The brainsof the Beldum are joined by a magnetic nervous system.By linking its brains magnetically, this Pokémon generatesstrong psychokinetic power.
+Metagross;Steel;1.6;550.0;Iron Leg;Clear Body;Fire;Ground;Metagross has four brains in total. Combined, the four brainscan breeze through difficult calculations faster than asupercomputer. This Pokémon can float in the air by tucking inits four legs.
+Regirock;Rock;1.7;230.0;Rock Peak;Clear Body;Fighting;Grass;Regirock was sealed away by people long ago. If thisPokémon's body is damaged in battle, it is said to seekout suitable rocks on its own to repair itself.
+Regice;Ice;1.8;175.0;Iceberg;Clear Body;Fire;Fighting;Regice's body was made during an ice age. The deep-frozenbody can't be melted, even by fire. This Pokémon controlsfrigid air of -328 degrees Fahrenheit.
+Registeel;Steel;1.9;205.0;Iro;Clear Body;Fighting;Fire;Registeel has a body that is harder than any kind of metal.Its body is apparently hollow. No one has any idea what thisPokémon eats.
+Latias;Dragon;1.4;40.0;Eo;L;Bug;Dark;Latias is highly sensitive to the emotions of people. If it sensesany hostility, this Pokémon ruffles the feathers all over its bodyand cries shrilly to intimidate the foe.
+Latios;Dragon;2.0;60.0;Eo;L;Bug;Dark;Latios has the ability to make others see an image of what ithas seen or imagines in its head. This Pokémon is intelligentand understands human speech.
+Kyogre;Water;4.5;352.0;Sea B;Drizz;Electric;Grass;Through Primal Reversion and with nature'sfull power, it will take back its true form. It cansummon storms that cause the sea levels to rise.
+Groudon;Ground;3.5;950.0;Co;Drough;Grass;Ice;Groudon is said to be the personification of the landitself. Legends tell of its many clashes against Kyogre,as each sought to gain the power of nature.
+Rayquaza;Dragon;7.0;206.5;Sky High;Air Lock;Ice;Dragon;Rayquaza is said to have lived for hundreds of millionsof years. Legends remain of how it put to restthe clash between Kyogre and Groudon.
+Jirachi;Steel;0.3;1.1;Wish;Serene G;Fire;Ground;A legend states that Jirachi will make true any wish that iswritten on notes attached to its head when it awakens. If thisPokémon senses danger, it will fight without awakening.
+Deoxys;Psychic;1.7;60.8;DNA;P;Bug;Dark;The DNA of a space virus underwent a sudden mutation uponexposure to a laser beam and resulted in Deoxys.The crystalline organ on this Pokémon's chest appears to beits brain.
+Turtwig;Grass;0.4;10.2;Tiny Leaf;Overgrow;Bug;Fire;Photosynthesis occurs across its body under thesun. The shell on its back is actually hardened soil.
+Grotle;Grass;1.1;97.0;Gro;Overgrow;Bug;Fire;It lives along water in forests. In the daytime,it leaves the forest to sunbathe its treed shell.
+Torterra;Grass;2.2;310.0;Co;Overgrow;Ice;Bug;Ancient people imagined that beneath the ground,a gigantic Torterra dwelled.
+Chimchar;Fire;0.5;6.2;Chim;Blaz;Ground;Rock;Its fiery rear end is fueled by gas made in its belly.Even rain can't extinguish the fire.
+Monferno;Fire;0.9;22.0;Playf;Blaz;Flying;Ground;It skillfully controls the intensity of the fire on itstail to keep its foes at an ideal distance.
+Infernape;Fire;1.2;55.0;Flam;Blaz;Flying;Ground;Its crown of fire is indicative of its fiery nature.It is beaten by none in terms of quickness.
+Piplup;Water;0.4;5.2;Peng;To;Electric;Grass;It doesn't like to be taken care of. It's difficult tobond with since it won't listen to its Trainer.
+Prinplup;Water;0.8;23.0;Peng;To;Electric;Grass;It lives alone, away from others. Apparently, everyone of them believes it is the most important.
+Empoleon;Water;1.7;84.5;Empero;To;Electric;Fighting;It swims as fast as a jet boat. The edges of itswings are sharp and can slice apart drifting ice.
+Starly;Normal;0.3;2.0;Starling;Keen Ey;Electric;Ice;They flock in great numbers. Though small, theyflap their wings with great power.
+Staravia;Normal;0.6;15.5;Starling;Intimid;Electric;Ice;They maintain huge flocks, although fierce scufflesbreak out between various flocks.
+Staraptor;Normal;1.2;24.9;Predato;Intimid;Electric;Ice;The muscles in its wings and legs are strong.It can easily fly while gripping a small Pokémon.
+Bidoof;Normal;0.5;20.0;Plump Mo;Sim;Fighting;With nerves of steel, nothing can perturb it. It ismore agile and active than it appears.
+Bibarel;Normal;1.0;31.5;B;Sim;Electric;Fighting;It busily makes its nest with stacks of branches androots it has cut up with its sharp incisors.
+Kricketot;Bug;0.3;2.2;Crick;Shed Sk;Fire;Flying;It chats with others using the sounds of its collidingantennae. These sounds are fall hallmarks.
+Kricketune;Bug;1.0;25.5;Crick;Swarm;Fire;Flying;It crosses its knifelike arms in front of its chestwhen it cries. It can compose melodies ad lib.
+Shinx;Electric;0.5;9.5;Flash;Intimid;Ground;The extension and contraction of its musclesgenerates electricity. It glows when in trouble.
+Luxio;Electric;0.9;30.5;Spark;Intimid;Ground;Its claws loose electricity with enough amperageto cause fainting. They live in small groups.
+Luxray;Electric;1.4;42.0;Gleam Ey;Intimid;Ground;When its eyes gleam gold, it can spot hidingprey—even those taking shelter behind a wall.
+Budew;Grass;0.2;1.2;Bud;Poison Po;Fire;Flying;When it feels the sun's warm touch, it opens its budto release pollen. It lives alongside clear pools.
+Roserade;Grass;0.9;14.5;Bouq;Poison Po;Fire;Flying;Luring prey with a sweet scent, it uses poison whipson its arms to poison, bind, and finish off the prey.
+Cranidos;Rock;0.9;31.5;Head B;Mold Break;Fighting;Grass;It was resurrected from an iron ball-like fossil.It downs prey with its headbutts.
+Rampardos;Rock;1.6;102.5;Head B;Mold Break;Fighting;Grass;Its skull withstands impacts of any magnitude. As aresult, its brain never gets the chance to grow.
+Shieldon;Rock;0.5;57.0;Shield;Sturdy;Fighting;Ground;It habitually polishes its face by rubbing it againsttree trunks. It is weak to attacks from behind.
+Bastiodon;Rock;1.3;149.5;Shield;Sturdy;Fighting;Ground;When they lined up side by side, no foe couldbreak through. They shielded their young inthat way.
+Burmy;Bug;0.2;3.4;Bagworm;Shed Sk;Fire;Flying;To shelter itself from cold, wintry winds, it coversitself with a cloak made of twigs and leaves.
+Wormadam;Bug;0.5;6.5;Bagworm;Anticipatio;Fire;Flying;Its appearance changes depending on where itevolved. The materials on hand become a part ofits body.
+Mothim;Bug;0.9;23.3;Moth;Swarm;Rock;Electric;It loves the honey of flowers and steals honeycollected by Combee.
+Combee;Bug;0.3;5.5;Tiny B;Honey Gath;Rock;Electric;The trio is together from birth. It constantly gathershoney from flowers to please Vespiquen.
+Vespiquen;Bug;1.2;38.5;Beeh;P;Rock;Electric;It houses its colony in cells in its body and releasesvarious pheromones to make those grubs do its bidding.
+Pachirisu;Electric;0.4;3.9;EleSq;Run Away;Ground;It makes fur balls that crackle with static electricity.It stores them with berries in tree holes.
+Buizel;Water;0.7;29.5;Sea W;Swift Swim;Electric;Grass;It swims by rotating its two tails like a screw.When it dives, its flotation sac collapses.
+Floatzel;Water;1.1;33.5;Sea W;Swift Swim;Electric;Grass;It floats using its well-developed flotation sac.It assists in the rescues of drowning people.
+Cherubi;Grass;0.4;3.3;Cherry;Chlorophy;Bug;Fire;Sunlight colors it red. When the small ball isdrained of nutrients, it shrivels to herald evolution.
+Cherrim;Grass;0.5;9.3;Blossom;Flower Gif;Bug;Fire;During times of strong sunlight, its bud blooms,its petals open fully, and it becomes very active.
+Shellos;Water;0.3;6.3;Sea Slug;Sticky Hold;Electric;Grass;Beware of pushing strongly on its squishy body,as it makes a mysterious purple fluid ooze out.
+Gastrodon;Water;0.9;29.9;Sea Slug;Sticky Hold;Grass;Grass;When its natural enemy attacks, it oozes purplefluid and escapes.
+Ambipom;Normal;1.2;20.3;Long T;Pick;Fighting;They work in large colonies and make rings bylinking their tails, apparently in friendship.
+Drifloon;Ghost;0.4;1.2;Balloo;Aftermath;Dark;Electric;A Pokémon formed by the spirits of people and Pokémon.It loves damp, humid seasons.
+Drifblim;Ghost;1.2;15.0;Blim;Aftermath;Dark;Electric;It carries people and Pokémon when it flies.But since it only drifts, it can end up anywhere.
+Buneary;Normal;0.4;5.5;R;Run Away;Fighting;Its ears are always rolled up. They can be forcefullyextended to shatter even a large boulder.
+Lopunny;Normal;1.2;33.3;R;Cute Charm;Fighting;Psychic;Extremely cautious, it quickly bounds off when itsenses danger.
+Mismagius;Ghost;0.9;4.4;Mag;L;Dark;Ghost;It chants incantations. While they usually tormenttargets, some chants bring happiness.
+Honchkrow;Dark;0.9;27.3;Big Bo;Insom;Electric;Ice;If one utters a deep cry, many Murkrow gatherquickly. For this, it is called “Summoner of Night.”
+Glameow;Normal;0.5;3.9;Catty;Lim;Fighting;It claws if displeased and purrs when affectionate.Its fickleness is very popular among some.
+Purugly;Normal;1.0;43.8;Tiger C;Own Tempo;Fighting;It would claim another Pokémon's nest as its ownif it finds a nest sufficiently comfortable.
+Chingling;Psychic;0.2;0.6;B;L;Bug;Dark;Each time it hops, it makes a ringing sound.It deafens foes by emitting high-frequency cries.
+Stunky;Poison;0.4;19.2;Skunk;Stench;Ground;It sprays a foul fluid from its rear. Its stenchspreads over a mile radius, driving Pokémon away.
+Skuntank;Poison;1.0;38.0;Skunk;Stench;Ground;It sprays a vile-smelling fluid from the tip of its tailto attack. Its range is over 160 feet.
+Bronzor;Steel;0.5;60.5;Bronz;L;Fire;Ground;Ancient people believed that the pattern onBronzor's back contained a mysterious power.
+Bronzong;Steel;1.3;187.0;Bronze B;L;Fire;Ground;In ages past, this Pokémon was revered as abringer of rain. It was found buried in the ground.
+Bonsly;Rock;0.5;15.0;Bo;Rock Head;Fighting;Grass;It prefers arid environments. It leaks water from itseyes to adjust its body's fluid levels.
+Mime Jr.;Psychic;0.6;13.0;Mim;Soundproof;Ghost;Steel;In an attempt to confuse its enemy, it mimics theenemy's movements. Then it wastes no time inmaking itself scarce!
+Happiny;Normal;0.6;24.4;Playho;Natural C;Fighting;It carries a round, egg-shaped rock in its bellypouch and gives the rock to its friends.
+Chatot;Normal;0.5;1.9;Music No;Keen Ey;Electric;Ice;It mimics the cries of other Pokémon to trick theminto thinking it's one of them. This way they won'tattack it.
+Spiritomb;Ghost;1.0;108.0;Forbidd;P;Fairy;A Pokémon that was formed by 108 spirits. It isbound to a fissure in an odd keystone.
+Gible;Dragon;0.7;20.5;Land Shark;Sand V;Ice;Dragon;It nests in horizontal holes warmed by geothermalheat. Foes who get too close can expect to bepounced on and bitten.
+Gabite;Dragon;1.4;56.0;C;Sand V;Ice;Dragon;It loves sparkly things. It seeks treasures in cavesand hoards the loot in its nest.
+Garchomp;Dragon;1.9;95.0;Mach;Sand V;Ice;Dragon;When it folds up its body and extends its wings,it looks like a jet plane. It flies at sonic speed.
+Munchlax;Normal;0.6;105.0;Big E;Pick;Fighting;It hides food under its long body hair. However,it forgets it has hidden the food.
+Riolu;Fighting;0.7;20.2;Emanatio;Inner Fo;Flying;Psychic;It uses the shapes of auras, which changeaccording to emotion, to communicate with others.
+Lucario;Fighting;1.2;54.0;A;Inner Fo;Fighting;Fire;By catching the aura emanating from others, it canread their thoughts and movements.
+Hippopotas;Ground;0.8;49.5;Hippo;Sand Stream;Grass;Ice;It lives in arid places. Instead of perspiration,it expels grainy sand from its body.
+Hippowdon;Ground;2.0;300.0;Heavyweigh;Sand Stream;Grass;Ice;It brandishes its gaping mouth in a display offearsome strength. It raises vast quantities of sandwhile attacking.
+Skorupi;Poison;0.8;12.0;Scorpio;S;Fire;Flying;It grips prey with its tail claws and injects poison.It tenaciously hangs on until the poison takes.
+Drapion;Poison;1.3;61.5;Ogre Scorpio;S;Ground;It takes pride in its strength. Even though it cantear foes apart, it finishes them off withpowerful poison.
+Croagunk;Poison;0.7;23.0;Toxic Mouth;Dry Sk;Psychic;Flying;Its cheeks hold poison sacs. It tries to catch foesoff guard to jab them with toxic fingers.
+Toxicroak;Poison;1.3;44.4;Toxic Mouth;Dry Sk;Psychic;Flying;It has a poison sac at its throat. When it croaks,the stored poison is churned for greater potency.
+Carnivine;Grass;1.4;27.0;Bug Catch;L;Bug;Fire;It attracts prey with its sweet-smelling saliva, thenchomps down. It takes a whole day to eat prey.
+Finneon;Water;0.4;7.0;Wing Fish;Swift Swim;Electric;Grass;The line running down its side can store sunlight.It shines vividly at night.
+Lumineon;Water;1.2;24.0;Neo;Swift Swim;Electric;Grass;It lives on the deep-sea floor. It attracts prey byflashing the patterns on its four tail fins.
+Mantyke;Water;1.0;65.0;K;Water Abso;Electric;Rock;The pattern on its back varies by region.It often swims in a school of Remoraid.
+Snover;Grass;1.0;50.5;Frost T;Snow Warning;Fire;Bug;During cold seasons, it migrates to the mountain'slower reaches. It returns to the snow-coveredsummit in the spring.
+Abomasnow;Grass;2.2;135.5;Frost T;Snow Warning;Fire;Bug;It blankets wide areas in snow by whipping upblizzards. It is also known as “The Ice Monster.”
+Weavile;Dark;1.1;34.0;Sharp Claw;P;Fighting;Bug;It lives in snowy regions. It carves patterns in treeswith its claws as a signal to others.
+Magnezone;Electric;1.2;180.0;Magnet A;Sturdy;Ground;Fire;Sometimes the magnetism emitted by Magnezone istoo strong, making them attract each other so theycannot move.
+Lickilicky;Normal;1.7;140.0;Licking;Oblivio;Fighting;It wraps things with its extensible tongue. Gettingtoo close to it will leave you soaked with drool.
+Rhyperior;Ground;2.4;282.8;D;Lightning Rod;Grass;Water;From holes in its palms, it fires out Geodude.Its carapace can withstand volcanic eruptions.
+Tangrowth;Grass;2.0;128.6;V;Chlorophy;Bug;Fire;It ensnares prey by extending arms made of vines.Losing arms to predators does not trouble it.
+Electivire;Electric;1.8;138.6;Thunderbo;Motor D;Ground;As its electric charge amplifies, blue sparks beginto crackle between its horns.
+Magmortar;Fire;1.6;68.0;B;Flame Body;Ground;Rock;It blasts fireballs of over 3,600 degrees Fahrenheitfrom the ends of its arms. It lives involcanic craters.
+Togekiss;Fairy;1.5;38.0;J;Serene G;Electric;Ice;As everyone knows, it visits peaceful regions,bringing them gifts of kindness andsweet blessings.
+Yanmega;Bug;1.9;51.5;Ogre D;Tinted L;Rock;Electric;It prefers to battle by biting apart foes' headsinstantly while flying by at high speed.
+Leafeon;Grass;1.0;25.5;Verd;Leaf Guard;Bug;Fire;When you see Leafeon asleep in a patch ofsunshine, you'll know it is using photosynthesisto produce clean air.
+Glaceon;Ice;0.8;25.9;Fresh Snow;Snow Cloak;Fire;Fighting;By controlling its body heat, it can freeze theatmosphere around it to make adiamond-dust flurry.
+Gliscor;Ground;2.0;42.5;Fang Scorpio;Sand V;Ice;Water;It observes prey while hanging inverted frombranches. When the chance presents itself,it swoops!
+Mamoswine;Ice;2.5;291.0;Twin Tusk;Oblivio;Fighting;Fire;A frozen Mamoswine was dug from ice dating back10,000 years. This Pokémon has been around along, long, long time.
+Porygon-Z;Normal;0.9;34.0;V;Adaptability;Fighting;Additional software was installed to make it a betterPokémon. It began acting oddly, however.
+Gallade;Psychic;1.6;52.0;Blad;Steadf;Flying;Ghost;Because it can sense what its foe is thinking,its attacks burst out first, fast, and fierce.
+Probopass;Rock;1.4;340.0;Com;Sturdy;Fighting;Ground;It exudes strong magnetism from all over.It controls three small units called Mini-Noses.
+Dusknoir;Ghost;2.2;106.6;G;P;Dark;Ghost;It is said to take lost spirits into its pliant body andguide them home.
+Froslass;Ice;1.3;26.6;Snow Land;Snow Cloak;Dark;Fire;It freezes foes with an icy breath nearly-60 degrees Fahrenheit. What seems to be its bodyis actually hollow.
+Rotom;Electric;0.3;0.3;Plasm;L;Ghost;Dark;Research continues on this Pokémon, which couldbe the power source of a unique motor.
+Uxie;Psychic;0.3;0.3;Knowledg;L;Bug;Dark;Known as “The Being of Knowledge.” It is said thatit can wipe out the memory of those who seeits eyes.
+Mesprit;Psychic;0.3;0.3;Emotio;L;Bug;Dark;Known as “The Being of Emotion.” It taughthumans the nobility of sorrow, pain, and joy.
+Azelf;Psychic;0.3;0.3;Willpow;L;Bug;Dark;Known as “The Being of Willpower.” It sleeps at thebottom of a lake to keep the world in balance.
+Dialga;Steel;5.4;683.0;Tempo;P;Fighting;Ground;A Pokémon spoken of in legend. It is said that timebegan moving when Dialga was born.
+Palkia;Water;4.2;336.0;S;P;Dragon;Fairy;It is said to live in a gap in the spatial dimensionparallel to ours. It appears in mythology.
+Heatran;Fire;1.7;430.0;Lava Dom;Flash F;Ground;Fighting;It dwells in volcanic caves. It digs in with itscross-shaped feet to crawl on ceilings and walls.
+Regigigas;Normal;3.7;420.0;Colo;Slow S;Fighting;It is said to have made Pokémon that look likeitself from a special ice mountain, rocks,and magma.
+Giratina;Ghost;4.5;750.0;Renegad;P;Dark;Dragon;This Pokémon is said to live in a world on thereverse side of ours, where common knowledge isdistorted and strange.
+Cresselia;Psychic;1.5;85.6;L;L;Bug;Dark;Shiny particles are released from its wings like aveil. It is said to represent the crescent moon.
+Phione;Water;0.4;3.1;Sea Drif;Hydratio;Electric;Grass;When the water warms, they inflate the flotation sacon their heads and drift languidly on the seain packs.
+Manaphy;Water;0.3;1.4;Seafaring;Hydratio;Electric;Grass;It is born with a wondrous power that lets it bondwith any kind of Pokémon.
+Darkrai;Dark;1.5;50.5;Pitch-Black;Bad Dream;Fighting;Bug;It chases people and Pokémon from its territory bycausing them to experience deep,nightmarish slumbers.
+Shaymin;Grass;0.2;2.1;Gratitud;Natural C;Bug;Fire;It can dissolve toxins in the air to instantlytransform ruined land into a lush field of flowers.
+Arceus;Normal;3.2;320.0;Alph;Multity;Fighting;Psychic;According to the legends of Sinnoh, this Pokémonemerged from an egg and shaped all there is inthis world.
+Victini;Psychic;0.4;4.0;Victory;Victory S;Water;Ground;This Pokémon brings victory. It is said that Trainerswith Victini always win, regardless of the typeof encounter.
+Snivy;Grass;0.6;8.1;Grass Snak;Overgrow;Fire;Ice;Being exposed to sunlight makes its movementsswifter. It uses vines more adeptly than its hands.
+Servine;Grass;0.8;16.0;Grass Snak;Overgrow;Fire;Ice;It moves along the ground as if sliding. Its swiftmovements befuddle its foes, and it then attackswith a vine whip.
+Serperior;Grass;3.3;63.0;Reg;Overgrow;Fire;Ice;It only gives its all against strong opponents whoare not fazed by the glare from Serperior'snoble eyes.
+Tepig;Fire;0.5;9.9;Fire Pig;Blaz;Water;Ground;It can deftly dodge its foe's attacks while shootingfireballs from its nose. It roasts berries before iteats them.
+Pignite;Fire;1.0;55.5;Fire Pig;Blaz;Water;Ground;The more it eats, the more fuel it has to make thefire in its stomach stronger. This fills it with evenmore power.
+Emboar;Fire;1.6;150.0;Mega Fire Pig;Blaz;Water;Ground;It can throw a fire punch by setting its fists on firewith its fiery chin. It cares deeply about its friends.
+Oshawott;Water;0.5;5.9;Sea O;To;Grass;Electric;The scalchop on its stomach isn't just used forbattle—it can be used to break open hard berriesas well.
+Dewott;Water;0.8;24.5;D;To;Grass;Electric;Strict training is how it learns its flowingdouble-scalchop technique.
+Samurott;Water;1.5;94.6;Formid;To;Grass;Electric;In the time it takes a foe to blink, it can draw andsheathe the seamitars attached to its front legs.
+Patrat;Normal;0.5;11.6;Sco;Keen Ey;Fighting;Using food stored in cheek pouches, they can keepwatch for days. They use their tails to communicatewith others.
+Watchog;Normal;1.1;27.0;Looko;Keen Ey;Fighting;Using luminescent matter, it makes its eyes andbody glow and stuns attacking opponents.
+Lillipup;Normal;0.4;4.1;Puppy;Pick;Fighting;The long hair around its face provides an amazingradar that lets it sense subtle changes inits surroundings.
+Herdier;Normal;0.9;14.7;Loyal Dog;Intimid;Fighting;This very loyal Pokémon helps Trainers, and it alsotakes care of other Pokémon.
+Stoutland;Normal;1.2;61.0;Big-Hearted;Intimid;Fighting;It rescues people stranded by blizzards in themountains. Its shaggy fur shields it from the cold.
+Purrloin;Dark;0.4;10.1;Devio;Lim;Fighting;Bug;Its cute act is a ruse. When victims let down theirguard, they find their items taken. It attacks withsharp claws.
+Liepard;Dark;1.1;37.5;C;Lim;Fighting;Bug;Their beautiful form comes from the muscles theyhave developed. They run silently in the night.
+Pansage;Grass;0.6;10.5;Grass Monkey;Gluttony;Fire;Ice;It shares the leaf on its head with weary-lookingPokémon. These leaves are known to relieve stress.
+Simisage;Grass;1.1;30.5;Thorn Monkey;Gluttony;Fire;Ice;It attacks enemies with strikes of its thorn-coveredtail. This Pokémon is wild tempered.
+Pansear;Fire;0.6;11.0;High Tem;Gluttony;Water;Ground;Very intelligent, it roasts berries before eating them.It likes to help people.
+Simisear;Fire;1.0;28.0;Em;Gluttony;Water;Ground;A flame burns inside its body. It scatters embersfrom its head and tail to sear its opponents.
+Panpour;Water;0.6;13.5;Spray;Gluttony;Grass;Electric;The water stored inside the tuft on its head is fullof nutrients. It waters plants with it using its tail.
+Simipour;Water;1.0;29.0;Gey;Gluttony;Grass;Electric;The high-pressure water expelled from its tail is sopowerful, it can destroy a concrete wall.
+Munna;Psychic;0.6;23.3;Dream E;Synchroniz;Bug;Ghost;This Pokémon appears before people and Pokémonwho are having nightmares and eats those dreams.
+Musharna;Psychic;1.1;60.5;Drowsing;Synchroniz;Bug;Ghost;The mist emanating from their foreheads is packedwith the dreams of people and Pokémon.
+Pidove;Normal;0.3;2.1;Tiny Pigeo;Super Luck;Electric;Ice;This very forgetful Pokémon will wait for a neworder from its Trainer even though it alreadyhas one.
+Tranquill;Normal;0.6;15.0;Wild Pigeo;Super Luck;Electric;Ice;Many people believe that, deep in the forest whereTranquill live, there is a peaceful place where thereis no war.
+Unfezant;Normal;1.2;29.0;Proud;Super Luck;Electric;Ice;Males swing their head plumage to threatenopponents. The females' flying abilities surpassthose of the males.
+Blitzle;Electric;0.8;29.8;Electrified;Lightning Rod;Ground;When thunderclouds cover the sky, it will appear.It can catch lightning with its mane and storethe electricity.
+Zebstrika;Electric;1.6;79.5;Thunderbo;Lightning Rod;Ground;When this ill-tempered Pokémon runs wild, itshoots lightning from its mane in all directions.
+Roggenrola;Rock;0.4;18.0;M;Sturdy;Water;Grass;Its ear is hexagonal in shape. Compressedunderground, its body is as hard as steel.
+Boldore;Rock;0.9;102.0;O;Sturdy;Water;Grass;Because its energy was too great to be contained,the energy leaked and formed orange crystals.
+Gigalith;Rock;1.7;260.0;Compressed;Sturdy;Water;Grass;The solar rays it absorbs are processed in itsenergy core and fired as a ball of light.
+Woobat;Psychic;0.4;2.1;B;Unaw;Electric;Ice;Its habitat is dark forests and caves. It emitsultrasonic waves from its nose to learn aboutits surroundings.
+Swoobat;Psychic;0.9;10.5;Courting;Unaw;Electric;Ice;It shakes its tail vigorously when it emits ultrasonicwaves strong enough to reduce concrete to rubble.
+Drilbur;Ground;0.3;8.5;Mo;Sand Rush;Water;Grass;It makes its way swiftly through the soil by puttingboth claws together and rotating at high speed.
+Excadrill;Ground;0.7;40.4;S;Sand Rush;Fire;Water;It can help in tunnel construction. Its drill hasevolved into steel strong enough to bore throughiron plates.
+Audino;Normal;1.1;31.0;Hearing;H;Fighting;Steel;Using the feelers on its ears, it can tell howsomeone is feeling or when an egg might hatch.
+Timburr;Fighting;0.6;12.5;M;G;Flying;Psychic;These Pokémon appear at building sites and helpout with construction. They always carrysquared logs.
+Gurdurr;Fighting;1.2;40.0;M;G;Flying;Psychic;With strengthened bodies, they skillfully wield steelbeams to take down buildings.
+Conkeldurr;Fighting;1.4;87.0;M;G;Flying;Psychic;It is thought that Conkeldurr taught humans how tomake concrete more than 2,000 years ago.
+Tympole;Water;0.5;4.5;Tadpo;Hydratio;Grass;Electric;By vibrating its cheeks, it emits sound wavesimperceptible to humans and warns othersof danger.
+Palpitoad;Water;0.8;17.0;Vibratio;Hydratio;Grass;When they vibrate the bumps on their heads, theycan make waves in water or earthquake-likevibrations on land.
+Seismitoad;Water;1.5;62.0;Vibratio;Swift Swim;Grass;It increases the power of its punches by vibratingthe bumps on its fists. It can turn a boulder torubble with one punch.
+Throh;Fighting;1.3;55.5;Judo;G;Flying;Psychic;When it tightens its belt, it becomes stronger. WildThroh use vines to weave their own belts.
+Sawk;Fighting;1.4;51.0;K;Inner Fo;Flying;Psychic;Desiring the strongest karate chop, they secludethemselves in mountains and train without sleeping.
+Sewaddle;Bug;0.3;2.5;Sewing;Swarm;Fire;Flying;This Pokémon makes clothes for itself. It chews upleaves and sews them with sticky thread extrudedfrom its mouth.
+Swadloon;Bug;0.5;7.3;Leaf-Wrapped;Chlorophy;Fire;Flying;Forests where Swadloon live have superb foliagebecause the nutrients they make from fallen leavesnourish the plant life.
+Leavanny;Bug;1.2;20.5;Nurturing;Swarm;Fire;Flying;Upon finding a small Pokémon, it weaves clothingfor it from leaves by using the sticky silk secretedfrom its mouth.
+Venipede;Bug;0.4;5.3;Centiped;Swarm;Fire;Flying;It discovers what is going on around it by using thefeelers on its head and tail. It is brutally aggressive.
+Whirlipede;Bug;1.2;58.5;Curliped;Swarm;Fire;Flying;Protected by a hard shell, it spins its body like awheel and crashes furiously into its enemies.
+Scolipede;Bug;2.5;200.5;Megaped;Swarm;Fire;Flying;It clasps its prey with the claws on its neck until itstops moving. Then it finishes it off withdeadly poison.
+Cottonee;Grass;0.3;0.6;Cotton Puff;Prank;Fire;Ice;When attacked, it escapes by shooting cotton fromits body. The cotton serves as a decoy to distractthe attacker.
+Whimsicott;Grass;0.7;6.6;Windveiled;Prank;Fire;Ice;They appear along with whirlwinds. They pullpranks, such as moving furniture and leaving ballsof cotton in homes.
+Petilil;Grass;0.5;6.6;B;Chlorophy;Fire;Ice;The leaves on its head are very bitter. Eating oneof these leaves is known to refresh a tired body.
+Lilligant;Grass;1.1;16.3;Flowering;Chlorophy;Fire;Ice;The fragrance of the garland on its head has arelaxing effect. It withers if a Trainer does not takegood care of it.
+Basculin;Water;1.0;18.0;Ho;Reck;Grass;Electric;Red- and blue-striped Basculin are very violent andalways fighting. They are also remarkably tasty.
+Sandile;Ground;0.7;15.2;Desert Cro;Intimid;Water;Grass;It moves along below the sand's surface, exceptfor its nose and eyes. A dark membrane shields itseyes from the sun.
+Krokorok;Ground;1.0;33.4;Desert Cro;Intimid;Water;Grass;They live in groups of a few individuals. Protectivemembranes shield their eyes from sandstorms.
+Krookodile;Ground;1.5;96.3;Intimidatio;Intimid;Water;Grass;Very violent Pokémon, they try to clamp down onanything that moves in front of their eyes.
+Darumaka;Fire;0.6;37.5;Zen Charm;H;Water;Ground;Darumaka's droppings are hot, so people used toput them in their clothes to keep themselves warm.
+Darmanitan;Fire;1.3;92.9;Blazing;Sheer Fo;Water;Ground;When one is injured in a fierce battle, it hardensinto a stone-like form. Then it meditates andsharpens its mind.
+Maractus;Grass;1.0;28.0;C;Chlorophy;Fire;Ice;It uses an up-tempo song and dance to drive awaythe bird Pokémon that prey on its flower seeds.
+Dwebble;Bug;0.3;14.5;Rock I;Sturdy;Water;Rock;It makes a hole in a suitable rock. If that rockbreaks, the Pokémon remains agitated until itlocates a replacement.
+Crustle;Bug;1.4;200.0;Stone Hom;Sturdy;Water;Rock;It possesses legs of enormous strength, enabling itto carry heavy slabs for many days, even whencrossing arid land.
+Scraggy;Dark;0.6;11.8;Shedding;Shed Sk;Fighting;Flying;Its skin has a rubbery elasticity, so it can reducedamage by defensively pulling its skin up toits neck.
+Scrafty;Dark;1.1;30.0;Hoodlum;Shed Sk;Fighting;Flying;It pulls up its shed skin to protect itself whileit kicks. The bigger the crest, the more respectedit is.
+Sigilyph;Psychic;1.4;14.0;Avianoid;Magic Guard;Electric;Ice;The guardians of an ancient city, they use theirpsychic power to attack enemies that invadetheir territory.
+Yamask;Ghost;0.5;1.5;S;Mummy;Ghost;Dark;These Pokémon arose from the spirits of peopleinterred in graves. Each retains memories of itsformer life.
+Cofagrigus;Ghost;1.7;76.5;Coff;Mummy;Ghost;Dark;It has been said that they swallow those who gettoo close and turn them into mummies. They like toeat gold nuggets.
+Tirtouga;Water;0.7;16.5;Proto;Sturdy;Grass;Electric;About 100 million years ago, these Pokémon swamin oceans. It is thought they also went on land toattack prey.
+Carracosta;Water;1.2;81.0;Proto;Sturdy;Grass;Electric;They can live both in the ocean and on land. A slapfrom one of them is enough to open a hole in thebottom of a tanker.
+Archen;Rock;0.5;9.5;First Bird;Def;Water;Electric;Revived from a fossil, this Pokémon is thought tobe the ancestor of all bird Pokémon.
+Archeops;Rock;1.4;32.0;First Bird;Def;Water;Electric;They are intelligent and will cooperate to catchprey. From the ground, they use a running start totake flight.
+Trubbish;Poison;0.6;31.0;Trash Bag;Stench;Ground;Psychic;The combination of garbage bags and industrialwaste caused the chemical reaction that createdthis Pokémon.
+Garbodor;Poison;1.9;107.3;Trash H;Stench;Ground;Psychic;It clenches opponents with its left arm and finishesthem off with foul-smelling poison gas belched fromits mouth.
+Zorua;Dark;0.7;12.5;Tricky Fox;Illusio;Fighting;Bug;It changes so it looks just like its foe, tricks it, andthen uses that opportunity to flee.
+Zoroark;Dark;1.6;81.1;Illusion Fox;Illusio;Fighting;Bug;Each has the ability to fool a large group of peoplesimultaneously. They protect their lair withillusory scenery.
+Minccino;Normal;0.4;5.8;Chinch;Cute Charm;Fighting;Minccino greet each other by grooming one anotherthoroughly with their tails.
+Cinccino;Normal;0.5;7.5;Scarf;Cute Charm;Fighting;Their white fur feels amazing to touch. Their furrepels dust and prevents static electricity frombuilding up.
+Gothita;Psychic;0.4;5.8;Fixatio;Frisk;Bug;Ghost;Their ribbonlike feelers increase their psychicpower. They are always staring at something.
+Gothorita;Psychic;0.7;18.0;M;Frisk;Bug;Ghost;Starlight is the source of their power. At night,they mark star positions by using psychic powerto float stones.
+Gothitelle;Psychic;1.5;44.0;Astral Body;Frisk;Bug;Ghost;Starry skies thousands of light-years away arevisible in the space distorted by their intensepsychic power.
+Solosis;Psychic;0.3;1.0;C;Magic Guard;Bug;Ghost;Because their bodies are enveloped in a specialliquid, they are fine in any environment, no matterhow severe.
+Duosion;Psychic;0.6;8.0;Mito;Magic Guard;Bug;Ghost;Since they have two divided brains, at times theysuddenly try to take two different actions at once.
+Reuniclus;Psychic;1.0;20.1;Multiplying;Magic Guard;Bug;Ghost;They use psychic power to control their arms,which are made of a special liquid. They can crushboulders psychically.
+Ducklett;Water;0.5;5.5;Water Bird;Keen Ey;Electric;Rock;When attacked, it uses its feathers to splash water,escaping under cover of the spray.
+Swanna;Water;1.3;24.2;White Bird;Keen Ey;Electric;Rock;Despite their elegant appearance, they can flaptheir wings strongly and fly for thousands of miles.
+Vanillite;Ice;0.4;5.7;Fresh Snow;Ice Body;Fire;Fighting;The temperature of their breath is -58 degreesFahrenheit. They create snow crystals and makesnow fall in the areas around them.
+Vanillish;Ice;1.1;41.0;Icy Snow;Ice Body;Fire;Fighting;They cool down the surrounding air and create iceparticles, which they use to freeze their foes.
+Vanilluxe;Ice;1.3;57.5;Snowstorm;Ice Body;Fire;Fighting;If both heads get angry simultaneously, thisPokémon expels a blizzard, burying everythingin snow.
+Deerling;Normal;0.6;19.5;Seaso;Chlorophy;Fire;Ice;Their coloring changes according to the seasonsand can be slightly affected by the temperature andhumidity as well.
+Sawsbuck;Normal;1.9;92.5;Seaso;Chlorophy;Fire;Ice;They migrate according to the seasons. People cantell the season by looking at Sawsbuck's horns.
+Emolga;Electric;0.4;5.0;Sky Sq;S;Ice;Rock;They live on treetops and glide using the inside ofa cape-like membrane while discharging electricity.
+Karrablast;Bug;0.5;5.9;Clamping;Shed Sk;Fire;Flying;These mysterious Pokémon evolve when theyreceive electrical stimulation while they are in thesame place as Shelmet.
+Escavalier;Bug;1.0;33.0;Cavalry;Swarm;Fire;Wearing the shell covering they stole from Shelmet,they defend themselves and attack with two lances.
+Foongus;Grass;0.2;1.0;Mushroom;Effect Spo;Fire;Ice;It lures people in with its Poké Ball pattern, thenreleases poison spores. Why it resembles aPoké Ball is unknown.
+Amoonguss;Grass;0.6;10.5;Mushroom;Effect Spo;Fire;Ice;They show off their Poké Ball caps to lure prey,but very few Pokémon are fooled by this.
+Frillish;Water;1.2;33.0;Floating;Water Abso;Grass;Electric;They paralyze prey with poison, then drag themdown to their lairs, five miles below the surface.
+Jellicent;Water;2.2;135.0;Floating;Water Abso;Grass;Electric;Its body is mostly seawater. It's said there's acastle of ships Jellicent have sunk on the seafloor.
+Alomomola;Water;1.2;31.6;Caring;Hydratio;Grass;Electric;Floating in the open sea is how they live.When they find a wounded Pokémon,they embrace it and bring it to shore.
+Joltik;Bug;0.1;0.6;Attaching;Compound Ey;Fire;Rock;Since it can't generate its own electricity, it sticksonto large-bodied Pokémon and absorbsstatic electricity.
+Galvantula;Bug;0.8;14.3;EleSpid;Compound Ey;Fire;Rock;They employ an electrically charged web to traptheir prey. While it is immobilized by shock,they leisurely consume it.
+Ferroseed;Grass;0.6;18.8;Thorn Seed;Iron B;Fire;Fighting;When threatened, it attacks by shooting a barrageof spikes, which gives it a chance to escape byrolling away.
+Ferrothorn;Grass;1.0;110.0;Thorn Pod;Iron B;Fire;Fighting;By swinging around its three spiky feelers andshooting spikes, it can obliterate an opponent.
+Klink;Steel;0.3;21.0;G;P;Fire;Fighting;Interlocking two bodies and spinning aroundgenerates the energy they need to live.
+Klang;Steel;0.6;51.0;G;P;Fire;Fighting;By changing the direction in which it rotates,it communicates its feelings to others. When angry,it rotates faster.
+Klinklang;Steel;0.6;81.0;G;P;Fire;Fighting;The gear with the red core is rotated at high speedfor a rapid energy charge.
+Tynamo;Electric;0.2;0.3;EleFish;L;None;While one alone doesn't have much power, a chainof many Tynamo can be as powerful as lightning.
+Eelektrik;Electric;1.2;22.0;EleFish;L;None;It wraps itself around its prey and paralyzes it withelectricity from the round spots on its sides.Then it chomps.
+Eelektross;Electric;2.1;80.5;EleFish;L;None;With their sucker mouths, they suck in prey.Then they use their fangs to shock the preywith electricity.
+Elgyem;Psychic;0.5;9.0;C;Synchroniz;Bug;Ghost;It uses its strong psychic power to squeeze itsopponent's brain, causing unendurable headaches.
+Beheeyem;Psychic;1.0;34.5;C;Synchroniz;Bug;Ghost;Apparently, it communicates by flashing its threefingers, but those patterns haven't been decoded.
+Litwick;Ghost;0.3;3.1;Cand;Flash F;Water;Ground;While shining a light and pretending to be a guide,it leeches off the life force of any who follow it.
+Lampent;Ghost;0.6;13.0;Lam;Flash F;Water;Ground;The spirits it absorbs fuel its baleful fire. It hangsaround hospitals waiting for people to pass on.
+Chandelure;Ghost;1.0;34.3;Luring;Flash F;Water;Ground;Being consumed in Chandelure's flame burns upthe spirit, leaving the body behind.
+Axew;Dragon;0.6;18.0;Tusk;Rivalry;Ice;Dragon;They use their tusks to crush the berries they eat.Repeated regrowth makes their tusks strongand sharp.
+Fraxure;Dragon;1.0;36.0;Axe Jaw;Rivalry;Ice;Dragon;Their tusks can shatter rocks. Territory battlesbetween Fraxure can be intensely violent.
+Haxorus;Dragon;1.8;105.5;Axe Jaw;Rivalry;Ice;Dragon;They are kind but can be relentless when defendingterritory. They challenge foes with tusks that cancut steel.
+Cubchoo;Ice;0.5;8.5;Ch;Snow Cloak;Fire;Fighting;Its nose is always running. It sniffs the snot back upbecause the mucus provides the raw material forits moves.
+Beartic;Ice;2.6;260.0;Freezing;Snow Cloak;Fire;Fighting;They love the cold seas of the north. They createpathways across the ocean waters by freezing theirown breath.
+Cryogonal;Ice;1.1;148.0;Crystallizing;L;Fire;Fighting;They are born in snow clouds. They use chainsmade of ice crystals to capture prey.
+Shelmet;Bug;0.4;7.7;S;Hydratio;Fire;Flying;When it and Karrablast are together, and bothreceive electrical stimulation, they both evolve.
+Accelgor;Bug;0.8;25.3;Shell O;Hydratio;Fire;Flying;Having removed its heavy shell, it becomes verylight and can fight with ninja-like movements.
+Stunfisk;Ground;0.7;11.0;T;S;Water;Grass;Its skin is very hard, so it is unhurt even if steppedon by sumo wrestlers. It smiles whentransmitting electricity.
+Mienfoo;Fighting;0.9;20.0;Martial A;Inner Fo;Flying;Psychic;It takes pride in the speed at which it can usemoves. What it loses in power, it makes up forin quantity.
+Mienshao;Fighting;1.4;35.5;Martial A;Inner Fo;Flying;Psychic;It wields the fur on its arms like a whip. Its armattacks come with such rapidity that they cannoteven be seen.
+Druddigon;Dragon;1.6;139.0;C;Rough Sk;Ice;Dragon;It races through narrow caves, using its sharp clawsto catch prey. The skin on its face is harder thana rock.
+Golett;Ground;1.0;92.0;Automato;Iron F;Water;Grass;The energy that burns inside it enables it to move,but no one has yet been able to identifythis energy.
+Golurk;Ground;2.8;330.0;Automato;Iron F;Water;Grass;It is said that Golurk were ordered to protectpeople and Pokémon by the ancient people whomade them.
+Pawniard;Dark;0.5;10.2;Sharp Blad;Inner Fo;Fighting;Fire;Blades comprise this Pokémon's entire body.If battling dulls the blades, it sharpens them onstones by the river.
+Bisharp;Dark;1.6;70.0;Sword Blad;Inner Fo;Fighting;Fire;This pitiless Pokémon commands a group ofPawniard to hound prey into immobility. It thenmoves in to finish the prey off.
+Bouffalant;Normal;1.6;94.6;Bash Buffalo;Reck;Fighting;They charge wildly and headbutt everything.Their headbutts have enough destructive force toderail a train.
+Rufflet;Normal;0.5;10.5;Eag;Keen Ey;Electric;Ice;They crush berries with their talons. They bravelystand up to any opponent, no matter how strongit is.
+Braviary;Normal;1.5;41.0;V;Keen Ey;Electric;Ice;For the sake of its friends, this brave warrior of thesky will not stop battling, even if injured.
+Vullaby;Dark;0.5;9.0;Diapered;Big Peck;Electric;Ice;Its wings are too tiny to allow it to fly. As the timeapproaches for it to evolve, it discards the bonesit was wearing.
+Mandibuzz;Dark;1.2;39.5;Bone V;Big Peck;Electric;Ice;They fly in circles around the sky. When they spotprey, they attack and carry it back to their nestwith ease.
+Heatmor;Fire;1.4;58.0;A;Flash F;Water;Ground;Using their very hot, flame-covered tongues,they burn through Durant's steel bodies andconsume their insides.
+Durant;Bug;0.3;33.0;Iron A;Swarm;Fire;Individuals each play different roles in drivingHeatmor, their natural predator, away fromtheir colony.
+Deino;Dark;0.8;17.3;I;H;Ice;Fighting;They cannot see, so they tackle and bite to learnabout their surroundings. Their bodies are coveredin wounds.
+Zweilous;Dark;1.4;50.0;Ho;H;Ice;Fighting;The two heads do not get along. Whichever headeats more than the other gets to be the leader.
+Hydreigon;Dark;1.8;160.0;B;L;Ice;Fighting;The heads on their arms do not have brains.They use all three heads to consume anddestroy everything.
+Larvesta;Bug;1.1;28.8;Torch;Flame Body;Rock;Water;Said to have been born from the sun, it spews firefrom its horns and encases itself in a cocoon of firewhen it evolves.
+Volcarona;Bug;1.6;46.0;S;Flame Body;Rock;Water;A sea of fire engulfs the surroundings of theirbattles, since they use their six wings to scattertheir ember scales.
+Cobalion;Steel;2.1;250.0;Iron W;Justified;Fire;Fighting;It has a body and heart of steel. Its glare issufficient to make even an unruly Pokémon obey it.
+Terrakion;Rock;1.9;260.0;C;Justified;Water;Grass;Its charge is strong enough to break through agiant castle wall in one blow. This Pokémon isspoken of in legends.
+Virizion;Grass;2.0;200.0;Grassland;Justified;Flying;Fire;Its head sprouts horns as sharp as blades. Usingwhirlwind-like movements, it confounds and swiftlycuts opponents.
+Tornadus;Flying;1.5;63.0;Cyclo;Prank;Electric;Ice;The lower half of its body is wrapped in a cloud ofenergy. It zooms through the sky at 200 mph.
+Thundurus;Electric;1.5;61.0;Bolt Strik;Prank;Ice;Rock;The spikes on its tail discharge immense bolts oflightning. It flies around the Unova region firing offlightning bolts.
+Reshiram;Dragon;3.2;330.0;Vast Wh;Turboblaz;Ground;Rock;This legendary Pokémon can scorch the world withfire. It helps those who want to build a worldof truth.
+Zekrom;Dragon;2.9;345.0;Deep Black;Teravo;Ice;Ground;This legendary Pokémon can scorch the world withlightning. It assists those who want to build anideal world.
+Landorus;Ground;1.5;68.0;Abund;Sand Fo;Ice;Water;Lands visited by Landorus grant such bountifulcrops that it has been hailed as “The Guardian ofthe Fields.”
+Kyurem;Dragon;3.0;325.0;Boundary;P;Fighting;Rock;This legendary ice Pokémon waits for a hero to fillin the missing parts of its body with truth or ideals.
+Keldeo;Water;1.4;48.5;Co;Justified;Flying;Grass;It crosses the world, running over the surfaces ofoceans and rivers. It appears at scenic waterfronts.
+Meloetta;Normal;0.6;6.5;Melody;Serene G;Bug;Dark;The melodies sung by Meloetta have the power tomake Pokémon that hear them happy or sad.
+Genesect;Bug;1.5;82.5;Paleozo;Download;Fire;This ancient bug Pokémon was altered by TeamPlasma. They upgraded the cannon on its back.
+Chespin;Grass;0.4;9.0;Spiny N;Overgrow;Fire;Flying;The quills on its head are usually soft.When it flexes them, the points becomeso hard and sharp that they can pierce rock.
+Quilladin;Grass;0.7;29.0;Spiny Armo;Overgrow;Fire;Flying;It relies on its sturdy shell to deflect predators'attacks. It counterattacks with its sharp quills.
+Chesnaught;Grass;1.6;90.0;Spiny Armo;Overgrow;Fire;Psychic;Its Tackle is forceful enough to flip a 50-ton tank.It shields its allies from danger with its own body.
+Fennekin;Fire;0.4;9.4;Fox;Blaz;Water;Rock;Eating a twig fills it with energy,and its roomy ears give vent to airhotter than 390 degrees Fahrenheit.
+Braixen;Fire;1.0;14.5;Fox;Blaz;Water;Rock;It has a twig stuck in its tail. Withfriction from its tail fur, it sets thetwig on fire and launches into battle.
+Delphox;Fire;1.5;39.0;Fox;Blaz;Ghost;Dark;It gazes into the flame at the tip ofits branch to achieve a focused state,which allows it to see into the future.
+Froakie;Water;0.3;7.0;Bubble Frog;To;Grass;Electric;It secretes flexible bubbles from its chest and back.The bubbles reduce the damage it would otherwisetake when attacked.
+Frogadier;Water;0.6;10.9;Bubble Frog;To;Grass;Electric;It can throw bubble-covered pebbles with precisecontrol, hitting empty cans up to a hundred feet away.
+Greninja;Water;1.5;40.0;Ninj;To;Fairy;Grass;It creates throwing stars out of compressed water.When it spins them and throws them at high speed,these stars can split metal in two.
+Bunnelby;Normal;0.4;5.0;Digging;Pick;Fighting;They use their large ears to dig burrows.They will dig the whole night through.
+Diggersby;Normal;1.0;42.4;Digging;Pick;Water;Grass;With their powerful ears, they can heftboulders of a ton or more with ease.They can be a big help at construction sites.
+Fletchling;Normal;0.3;1.7;Tiny Ro;Big Peck;Ice;Electric;These friendly Pokémon send signalsto one another with beautiful chirpsand tail-feather movements.
+Fletchinder;Fire;0.7;16.0;Em;Flame Body;Water;Rock;From its beak, it expels embers that setthe tall grass on fire. Then it pounces onthe bewildered prey that pop out of the grass.
+Talonflame;Fire;1.2;24.5;Scorching;Flame Body;Water;Rock;In the fever of an exciting battle, itshowers embers from the gaps betweenits feathers and takes to the air.
+Scatterbug;Bug;0.3;2.5;Scatterd;Shield D;Fire;Flying;When under attack from bird Pokémon,it spews a poisonous black powderthat causes paralysis on contact.
+Spewpa;Bug;0.3;8.4;Scatterd;Shed Sk;Fire;Flying;It lives hidden within thicket shadows.When predators attack, it quickly bristles the furcovering its body in an effort to threaten them.
+Vivillon;Bug;1.2;17.0;S;Shield D;Fire;Flying;Vivillon with many different patterns arefound all over the world. These patternsare affected by the climate of their habitat.
+Litleo;Fire;0.6;13.5;Lion C;Rivalry;Rock;Water;The stronger the opponent it faces,the more heat surges from its maneand the more power flows through its body.
+Pyroar;Fire;1.5;81.5;Roy;Rivalry;Water;Rock;The male with the largest mane of fireis the leader of the pride.
+Flabébé;Fairy;0.1;0.1;Single Bloom;Flower V;Steel;Poison;It draws out and controls the hidden powerof flowers. The flower Flabébé holdsis most likely part of its body.
+Floette;Fairy;0.2;0.9;Single Bloom;Flower V;Steel;Poison;It flutters around fields of flowers and cares forflowers that are starting to wilt. It drawsout the hidden power of flowers to battle.
+Florges;Fairy;1.1;10.0;Gard;Flower V;Steel;Poison;It claims exquisite flower gardens as its territory,and it obtains power from basking in the energyemitted by flowering plants.
+Skiddo;Grass;0.9;31.0;Mo;Sap S;Fire;Flying;Thought to be one of the first Pokémon to live inharmony with humans, it has a placid disposition.
+Gogoat;Grass;1.7;91.0;Mo;Sap S;Fire;Flying;It can tell how its Trainer is feeling bysubtle shifts in the grip on its horns.This empathic sense lets them run as if one being.
+Pancham;Fighting;0.6;8.0;Playf;Iron F;Psychic;Flying;It does its best to be taken seriously by its enemies,but its glare is not sufficiently intimidating.Chewing on a leaf is its trademark.
+Pangoro;Fighting;2.1;136.0;Daunting;Iron F;Flying;Fairy;Although it possesses a violent temperament,it won't put up with bullying. It uses the leaf inits mouth to sense the movements of its enemies.
+Furfrou;Normal;1.2;28.0;Pood;Fur Co;Fighting;Fighting;Trimming its fluffy fur not only makesit more elegant but also increases theswiftness of its movements.
+Espurr;Psychic;0.3;3.5;R;Keen Ey;Ghost;Dark;The organ that emits its intense psychic power issheltered by its ears to keep power from leaking out.
+Meowstic;Psychic;0.6;8.5;Co;Keen Ey;Ghost;Dark;When in danger, it raises its ears andreleases enough psychic power togrind a 10-ton truck into dust.
+Honedge;Steel;0.8;2.0;Sword;No Guard;Fire;Ghost;Apparently this Pokémon is born when adeparted spirit inhabits a sword. It attaches itselfto people and drinks their life force.
+Doublade;Steel;0.8;4.5;Sword;No Guard;Fire;Ghost;When Honedge evolves, it divides into two swords,which cooperate via telepathy to coordinate attacksand slash their enemies to ribbons.
+Aegislash;Steel;1.7;53.0;Royal Sword;Stance Chang;Fire;Ghost;Generations of kings were attended by thesePokémon, which used their spectral power tomanipulate and control people and Pokémon.
+Spritzee;Fairy;0.2;0.5;Perfum;H;Steel;Poison;It emits a scent that enraptures thosewho smell it. This fragrance changesdepending on what it has eaten.
+Aromatisse;Fairy;0.8;15.5;Frag;H;Steel;Poison;It devises various scents, pleasant and unpleasant,and emits scents that its enemies dislike in orderto gain an edge in battle.
+Swirlix;Fairy;0.4;3.5;Cotton Candy;Sweet V;Steel;Poison;To entangle its opponents in battle, it extrudeswhite threads as sweet and sticky as cotton candy.
+Slurpuff;Fairy;0.8;5.0;Mering;Sweet V;Steel;Poison;It can distinguish the faintest of scents.It puts its sensitive sense of smell to useby helping pastry chefs in their work.
+Inkay;Dark;0.4;3.5;Revolving;Suction C;Fairy;Bug;Opponents who stare at the flashing of thelight-emitting spots on its body becomedazed and lose their will to fight.
+Malamar;Dark;1.5;47.0;Overturning;Suction C;Fairy;Bug;It wields the most compelling hypnotic powersof any Pokémon, and it forces others to dowhatever it wants.
+Binacle;Rock;0.5;31.0;Two-Handed;S;Electric;Fighting;Two Binacle live together on one rock.When they fight, one of them will moveto a different rock.
+Barbaracle;Rock;1.3;96.0;Co;S;Electric;Fighting;When they evolve, two Binacle multiply into seven.They fight with the power of seven Binacle.
+Skrelp;Poison;0.5;7.3;Mock K;Poison Po;Psychic;Electric;Camouflaged as rotten kelp, they sprayliquid poison on prey that approachesunawares and then finish it off.
+Dragalge;Poison;1.8;81.5;Mock K;Poison Po;Psychic;Dragon;Their poison is strong enough to eat throughthe hull of a tanker, and they spit it indiscriminatelyat anything that enters their territory.
+Clauncher;Water;0.5;8.3;Water G;Mega Launch;Grass;Electric;They knock down flying prey by firingcompressed water from their massiveclaws like shooting a pistol.
+Clawitzer;Water;1.3;35.3;Howitz;Mega Launch;Grass;Electric;Their enormous claws launch cannonballs ofwater powerful enough to pierce tanker hulls.
+Helioptile;Electric;0.5;6.0;Generato;Sand V;Fighting;Ground;They make their home in deserts. They cangenerate their energy from basking in the sun,so eating food is not a requirement.
+Heliolisk;Electric;1.0;21.0;Generato;Sand V;Fighting;Ground;They flare their frills and generate energy.A single Heliolisk can generate sufficientelectricity to power a skyscraper.
+Tyrunt;Rock;0.8;26.0;Royal H;Strong Jaw;Steel;Ice;This Pokémon was restored from a fossil.If something happens that it doesn't like,it throws a tantrum and runs wild.
+Tyrantrum;Rock;2.5;270.0;Despo;Strong Jaw;Steel;Ice;Thanks to its gargantuan jaws, which could shredthick metal plates as if they were paper, it wasinvincible in the ancient world it once inhabited.
+Amaura;Rock;1.3;25.2;Tund;Refrig;Steel;Fighting;This ancient Pokémon was restoredfrom part of its body that had beenfrozen in ice for over 100 million years.
+Aurorus;Rock;2.7;225.0;Tund;Refrig;Steel;Fighting;The diamond-shaped crystals on its bodyexpel air as cold as -240 degrees Fahrenheit,surrounding its enemies and encasing them in ice.
+Sylveon;Fairy;1.0;23.5;Intertwining;Cute Charm;Steel;Poison;It sends a soothing aura from itsribbonlike feelers to calm fights.
+Hawlucha;Fighting;0.8;21.5;Wrestling;Lim;Electric;Psychic;Although its body is small, its proficientfighting skills enable it to keep up withbig bruisers like Machamp and Hariyama.
+Dedenne;Electric;0.2;2.2;A;Pick;Poison;Ground;Its whiskers serve as antennas. By sending andreceiving electrical waves, it can communicatewith others over vast distances.
+Carbink;Rock;0.3;5.7;Jew;Clear Body;Steel;Water;Born from the temperatures and pressuresdeep underground, it fires beams from thestone in its head.
+Goomy;Dragon;0.3;2.8;Soft T;Hydratio;Fairy;Ice;The weakest Dragon-type Pokémon,it lives in damp, shady places, so itsbody doesn't dry out.
+Sliggoo;Dragon;0.8;17.5;Soft T;Hydratio;Fairy;Ice;It drives away opponents by excreting asticky liquid that can dissolve anything.Its eyes devolved, so it can't see anything.
+Goodra;Dragon;2.0;150.5;Drago;Hydratio;Fairy;Ice;This very friendly Dragon-type Pokémonwill hug its beloved Trainer, leavingthat Trainer covered in sticky slime.
+Klefki;Steel;0.2;3.0;Key Ring;Prank;Fire;Ground;These key collectors threaten any attackersby fiercely jingling their keys at them.
+Phantump;Ghost;0.4;7.0;Stum;Natural C;Ghost;Fire;These Pokémon are created whenspirits possess rotten tree stumps.They prefer to live in abandoned forests.
+Trevenant;Ghost;1.5;71.0;Elder T;Natural C;Ghost;Fire;It can control trees at will. It will trap peoplewho harm the forest, so they can never leave.
+Pumpkaboo;Ghost;0.4;5.0;Pumpk;Pick;Ghost;Fire;The pumpkin body is inhabited by a spirittrapped in this world. As the sun sets,it becomes restless and active.
+Gourgeist;Ghost;0.9;12.5;Pumpk;Pick;Ghost;Fire;Singing in eerie voices, they wandertown streets on the night of the new moon.Anyone who hears their song is cursed.
+Bergmite;Ice;1.0;99.5;Ice Chunk;Own Tempo;Fire;Steel;It blocks opponents' attacks with theice that shields its body. It uses cold airto repair any cracks with new ice.
+Avalugg;Ice;2.0;505.0;Iceberg;Own Tempo;Fire;Steel;Its ice-covered body is as hard as steel.Its cumbersome frame crushes anything thatstands in its way.
+Noibat;Flying;0.5;8.0;Sound W;Frisk;Ice;Rock;They live in pitch-black caves. Their enormous earscan emit ultrasonic waves of 200,000 hertz.
+Noivern;Flying;1.5;85.0;Sound W;Frisk;Fairy;Dragon;They fly around on moonless nightsand attack careless prey. Nothing canbeat them in a battle in the dark.
+Xerneas;Fairy;3.0;215.0;Lif;Fairy A;Steel;Poison;Legends say it can share eternal life.It slept for a thousand years in the formof a tree before its revival.
+Yveltal;Dark;5.8;203.0;Destructio;Dark A;Electric;Ice;When this legendary Pokémon's wings andtail feathers spread wide and glow red,it absorbs the life force of living creatures.
+Zygarde;Dragon;5.0;305.0;Ord;Aura Break;Fairy;Ice;This is Zygarde's form when it has gathered 50% of its cells. It wipes out all those who oppose it, showing not a shred of mercy.
+Diancie;Rock;0.7;8.8;Jew;Clear Body;Steel;Water;A sudden transformation of Carbink,its pink, glimmering body is said to bethe loveliest sight in the whole world.
+Hoopa;Psychic;0.5;9.0;Mischief;Mag;Ghost;Dark;In its true form, it possesses a huge amount of power. Legends of its avarice tell how it once carried off an entire castle to gain the treasure hidden within.
+Volcanion;Fire;1.7;195.0;Steam;Water Abso;Ground;Electric;It lets out billows of steam and disappears intothe dense fog. It's said to live in mountainswhere humans do not tread.
+Rowlet;Grass;0.3;1.5;Grass Q;Overgrow;Fire;Flying;This wary Pokémon uses photosynthesis tostore up energy during the day, while becomingactive at night.
+Dartrix;Grass;0.7;16.0;Blade Q;Overgrow;Fire;Flying;A bit of a dandy, it spends its free timepreening its wings. Its preoccupation with anydirt on its plumage can leave it unable to battle.
+Decidueye;Grass;1.6;36.6;Arrow Q;Overgrow;Ghost;Fire;It fires arrow quills from its wings with suchprecision, they can pierce a pebble at distancesover a hundred yards.
+Litten;Fire;0.4;4.3;Fire C;Blaz;Water;Ground;While grooming itself, it builds up fur inside itsstomach. It sets the fur alight and spews fieryattacks, which change based on how it coughs.
+Torracat;Fire;0.7;25.0;Fire C;Blaz;Water;Ground;At its throat, it bears a bell of fire. The bell ringsbrightly whenever this Pokémon spits fire.
+Incineroar;Fire;1.8;83.0;H;Blaz;Water;Ground;This Pokémon has a violent, selfish disposition.If it's not in the mood to listen, it will ignore itsTrainer's orders with complete nonchalance.
+Popplio;Water;0.4;7.5;Sea Lio;To;Grass;Electric;This Pokémon snorts body fluids from its nose,blowing balloons to smash into its foes.It's famous for being a hard worker.
+Brionne;Water;0.6;17.5;Pop S;To;Grass;Electric;A skillful dancer, it creates a sequence of waterballoons as it dances, and briskly bombardsits enemies.
+Primarina;Water;1.8;44.0;Solo;To;Grass;Electric;It controls its water balloons with song. Themelody is learned from others of its kind and ispassed down from one generation to the next.
+Pikipek;Normal;0.3;1.2;Woodpeck;Keen Ey;Electric;Ice;It can peck at a rate of 16 times a second todrill holes in trees. It uses the holes for foodstorage and for nesting.
+Trumbeak;Normal;0.6;14.8;Bugle Beak;Keen Ey;Electric;Ice;It eats berries and stores their seeds in itsbeak. When it encounters enemies or prey,it fires off all the seeds in a burst.
+Toucannon;Normal;1.1;26.0;Canno;Keen Ey;Electric;Ice;When it battles, its beak heats up. Thetemperature can easily exceed 212 degreesFahrenheit, causing severe burns when it hits.
+Yungoos;Normal;0.4;6.0;Loitering;Strong Jaw;Fighting;With its sharp fangs, it will bite anything.It did not originally live in Alola but wasimported from another region.
+Gumshoos;Normal;0.7;14.2;Stakeo;Strong Jaw;Fighting;When it finds a trace of its prey, it patientlystakes out the location...but it's always snoozingby nightfall.
+Grubbin;Bug;0.4;4.4;L;Swarm;Fire;Flying;Its strong jaw enables it to scrape trees andslurp out the sap. It normally lives underground.
+Charjabug;Bug;0.5;10.5;Battery;Battery;Fire;Rock;Its body is capable of storing electricity. Oncamping trips, people are grateful to haveone around.
+Vikavolt;Bug;1.5;45.0;Stag B;L;Fire;Rock;It zips around, on sharp lookout for an opening.It concentrates electrical energy within its largejaws and uses it to zap its enemies.
+Crabrawler;Fighting;0.6;7.0;Boxing;Hyper C;Psychic;Flying;While guarding its weak points with its pincers,it looks for an opening and unleashes punches.When it loses, it foams at the mouth and faints.
+Crabominable;Fighting;1.7;180.0;Woolly C;Hyper C;Steel;Fire;It aimed for the top but got lost and ended upon a snowy mountain. Being forced to endurethe cold, this Pokémon evolved and grew fur.
+Oricorio;Fire;0.6;3.4;Dancing;D;Water;Electric;It beats its wings together to create fire.As it moves in the steps of its beautiful dance,it bathes opponents in intense flames.
+Cutiefly;Bug;0.1;0.2;Bee Fly;Shield D;Fire;Steel;It feeds on the nectar and pollen of flowers.Because it's able to sense auras, it can identifywhich flowers are about to bloom.
+Ribombee;Bug;0.2;0.5;Bee Fly;Shield D;Fire;Steel;It rolls up pollen into puffs. It makes manydifferent varieties, some used as food andothers used in battle.
+Rockruff;Rock;0.5;9.2;Puppy;Keen Ey;Water;Steel;It's considered to be a good Pokémon forbeginners because of its friendliness, but itsdisposition grows rougher as it grows up.
+Lycanroc;Rock;0.8;25.0;Wolf;Keen Ey;Water;Steel;Its quick movements confuse its enemies.Well equipped with claws and fangs, it also usesthe sharp rocks in its mane as weapons.
+Wishiwashi;Water;0.2;0.3;Small Fry;Schooling;Grass;Electric;When it's in trouble, its eyes moisten and beginto shine. The shining light attracts its comrades,and they stand together against their enemies.
+Mareanie;Poison;0.4;8.0;Brutal S;Lim;Psychic;Electric;It plunges the poison spike on its head into itsprey. When the prey has weakened, Mareaniedeals the finishing blow with its 10 tentacles.
+Toxapex;Poison;0.7;14.5;Brutal S;Lim;Psychic;Electric;Toxapex crawls along the ocean floor on its12 legs. It leaves a trail of Corsola bitsscattered in its wake.
+Mudbray;Ground;1.0;110.0;Donkey;Own Tempo;Water;Grass;The mud stuck to Mudbray's hooves enhancesits grip and its powerful running gait.
+Mudsdale;Ground;2.5;920.0;Draft Ho;Own Tempo;Water;Grass;It spits a mud that provides resistance to bothwind and rain, so the walls of old houses wereoften coated with it.
+Dewpider;Water;0.3;4.0;Water B;Water B;Flying;Electric;It crawls onto the land in search of food.Its water bubble allows it to breathe andprotects its soft head.
+Araquanid;Water;1.8;82.0;Water B;Water B;Flying;Electric;It delivers headbutts with the water bubbleon its head. Small Pokémon get sucked intothe bubble, where they drown.
+Fomantis;Grass;0.3;1.5;Sickle G;Leaf Guard;Fire;Flying;During the day, it sleeps and soaks up light.When night falls, it walks around lookingfor a safer place to sleep.
+Lurantis;Grass;0.9;18.5;Bloom Sick;Leaf Guard;Fire;Flying;It requires a lot of effort to maintain Lurantis'svivid coloring, but some collectors enjoy thiswork and treat it as their hobby.
+Morelull;Grass;0.2;1.5;Illuminating;Effect Spo;Steel;Fire;It scatters spores that flicker and glow. Anyoneseeing these lights falls into a deep slumber.
+Shiinotic;Grass;1.0;11.5;Illuminating;Effect Spo;Steel;Fire;Forests where Shiinotic live are treacherous toenter at night. People confused by its strangelights can never find their way home again.
+Salandit;Poison;0.6;4.8;Toxic Lizard;Corrosio;Water;Psychic;It burns its bodily fluids to create a poisonousgas. When its enemies become disoriented frominhaling the gas, it attacks them.
+Salazzle;Poison;1.2;22.2;Toxic Lizard;Corrosio;Water;Psychic;For some reason, only females have been found.It creates a reverse harem of male Salandit thatit lives with.
+Stufful;Normal;0.5;6.8;Flailing;Klutz;Psychic;Flying;Despite its adorable appearance, when it getsangry and flails about, its arms and legs couldknock a pro wrestler sprawling.
+Bewear;Normal;2.1;135.0;Strong Arm;Klutz;Psychic;Flying;This immensely dangerous Pokémonpossesses overwhelming physical strength.Its habitat is generally off-limits.
+Bounsweet;Grass;0.3;3.2;F;Oblivio;Fire;Flying;A delectable aroma pours from its body.They are often swallowed whole by Toucannonlured by that wafting deliciousness.
+Steenee;Grass;0.7;8.2;F;Oblivio;Fire;Flying;The sepals on its head developed to protect itsbody. These are quite hard, so even if peckedby bird Pokémon, this Pokémon is totally fine.
+Tsareena;Grass;1.2;21.4;F;Leaf Guard;Fire;Flying;Its long, striking legs aren't just for show but tobe used to kick with skill. In victory, it shows offby kicking the defeated, laughing boisterously.
+Comfey;Fairy;0.1;0.3;Posy Pick;Flower V;Steel;Poison;It attaches flowers to its highly nutritious vine.This revitalizes the flowers, and they give offan aromatic scent.
+Oranguru;Normal;1.5;76.0;Sag;Inner Fo;Dark;Bug;Known for its extreme intelligence, this Pokémonwill look down on inexperienced Trainers, so it'sbest suited to veteran Trainers.
+Passimian;Fighting;2.0;82.8;Teamwork;R;Psychic;Flying;They form groups of roughly 20 individuals.Their mutual bond is remarkable—they will neverlet down a comrade.
+Wimpod;Bug;0.5;12.0;Turn T;Wimp O;Flying;Electric;This Pokémon is a coward. As it desperatelydashes off, the flailing of its many legs leaves asparkling clean path in its wake.
+Golisopod;Bug;2.0;108.0;Hard S;Emergency Ex;Flying;Electric;With a flashing slash of its giant sharp claws,it cleaves seawater—or even air—right in two.
+Sandygast;Ghost;0.5;70.0;Sand H;Water Compactio;Ghost;Dark;Born from a sand mound playfully built by achild, this Pokémon embodies the grudges ofthe departed.
+Palossand;Ghost;1.3;250.0;Sand C;Water Compactio;Ghost;Dark;Possessed people controlled by this Pokémontransformed its sand mound into a castle. As itevolved, its power to curse grew ever stronger.
+Pyukumuku;Water;0.3;1.2;Sea Cucum;Innards O;Grass;Electric;It lives in shallow seas, such as areas near abeach. It can eject its internal organs, which ituses to engulf its prey or battle enemies.
+Type: Null;Normal;1.9;120.5;Synth;Battle Armo;Fighting;The heavy control mask it wears suppresses itsintrinsic capabilities. This Pokémon has somehidden special power.
+Silvally;Normal;2.3;100.5;Synth;RKS System;Fighting;Its trust in its partner is what awakens it.This Pokémon is capable of changing its type,a flexibility that is well displayed in battle.
+Minior;Rock;0.3;40.0;Meteo;Shields Dow;Steel;Water;Originally making its home in the ozone layer,it hurtles to the ground when the shell enclosingits body grows too heavy.
+Komala;Normal;0.4;19.9;Drowsing;Comato;Fighting;It is born asleep, and it dies asleep. All itsmovements are apparently no more than theresults of it tossing and turning in its dreams.
+Turtonator;Fire;2.0;212.0;Blast T;Shell Armo;Ground;Rock;The shell on its back is chemically unstableand explodes violently if struck. The hole in itsstomach is its weak point.
+Togedemaru;Electric;0.3;3.3;Roly-Poly;Lightning Rod;Fire;Fighting;The spiny fur on its back is normally at rest.When this Pokémon becomes agitated, its furstands on end and stabs into its attackers.
+Mimikyu;Ghost;0.2;0.7;Disg;Disg;Ghost;Steel;Its actual appearance is unknown. A scholarwho saw what was under its rag wasoverwhelmed by terror and died from the shock.
+Bruxish;Water;0.9;19.0;Gnash Teeth;Strong Jaw;Ghost;Dark;When it unleashes its psychic power from theprotuberance on its head, the grating soundof grinding teeth echoes through the area.
+Drampa;Normal;3.0;185.0;Placid;Sap S;Fairy;Fighting;It has a compassionate personality, but if it isangered, it completely destroys its surroundingswith its intense breath.
+Dhelmise;Ghost;3.9;210.0;Sea C;Steelwork;Ghost;Fire;Swinging its massive anchor, it can KO Wailordin a single blow. What appears to be greenseaweed is actually its body.
+Jangmo-o;Dragon;0.6;29.7;Scaly;Soundproof;Fairy;Ice;It expresses its feelings by smackingits scales. Metallic sounds echo throughthe tall mountains where Jangmo-o lives.
+Hakamo-o;Dragon;1.2;47.0;Scaly;Soundproof;Fairy;Flying;It leaps at its prey with a courageous shout.Its scaly punches tear its opponents to shreds.
+Kommo-o;Dragon;1.6;78.2;Scaly;Soundproof;Fairy;Flying;When it spots enemies, it threatens them byjingling the scales on its tail. Weak opponentswill crack and flee in panic.
+Tapu Koko;Electric;1.8;20.5;Land S;Electric Surg;Poison;Ground;This guardian deity of Melemele is brimming withcuriosity. It summons thunderclouds and storestheir lightning inside its body.
+Tapu Lele;Psychic;1.2;18.6;Land S;Psychic Surg;Ghost;Steel;This guardian deity of Akala is guilelessly cruel.The fragrant aroma of flowers is the source ofits energy.
+Tapu Bulu;Grass;1.9;45.5;Land S;Grassy Surg;Steel;Fire;It pulls large trees up by the roots and swingsthem around. It causes vegetation to grow,and then it absorbs energy from the growth.
+Tapu Fini;Water;1.3;21.2;Land S;Misty Surg;Grass;Electric;The dense fog it creates brings the downfalland destruction of its confused enemies.Ocean currents are the source of its energy.
+Cosmog;Psychic;0.2;0.1;N;Unaw;Ghost;Dark;Its body is gaseous and frail. It slowly grows asit collects dust from the atmosphere.
+Cosmoem;Psychic;0.1;999.9;Proto;Sturdy;Ghost;Dark;Motionless as if dead, its body is faintly warm tothe touch. In the distant past, it was called thecocoon of the stars.
+Solgaleo;Psychic;3.4;230.0;S;Full Metal Body;Ghost;Fire;It is said to live in another world. The intenselight it radiates from the surface of its body canmake the darkest of nights light up like midday.
+Lunala;Psychic;4.0;120.0;Moo;Shadow Shield;Ghost;Dark;It is said to be a female evolution of Cosmog.When its third eye activates, away it flies toanother world.
+Nihilego;Rock;1.2;55.5;P;Beast Boo;Steel;Water;One of several mysterious Ultra Beasts. Peopleon the street report observing those infestedby it suddenly becoming violent.
+Buzzwole;Bug;2.4;333.6;Swo;Beast Boo;Fire;Psychic;This Ultra Beast appeared from another world.It shows off its body, but whether that displayis a boast or a threat remains unclear.
+Pheromosa;Bug;1.8;25.0;Lissom;Beast Boo;Fire;Psychic;One of the dangerous Ultra Beasts, it has beenspotted running across the land atterrific speeds.
+Xurkitree;Electric;3.8;100.0;Glowing;Beast Boo;Ground;One of the mysterious life-forms known as UltraBeasts. Astonishing electric shocks emanatefrom its entire body, according to witnesses.
+Celesteela;Steel;9.2;999.9;Launch;Beast Boo;Fire;Electric;It appeared from the Ultra Wormhole. Witnessesobserved it flying across the sky at high speed.
+Kartana;Grass;0.3;0.1;Drawn Sword;Beast Boo;Fire;Fighting;This Ultra Beast came from the Ultra Wormhole.It seems not to attack enemies on its own, butits sharp body is a dangerous weapon in itself.
+Guzzlord;Dark;5.5;888.0;Junkivo;Beast Boo;Fairy;Fighting;It has gobbled mountains and swallowed wholebuildings, according to reports. It's one of theUltra Beasts.
+Necrozma;Psychic;2.4;230.0;Prism;Prism Armo;Ghost;Dark;Reminiscent of the Ultra Beasts, this life-form,apparently asleep underground, is thought tohave come from another world in ancient times.
+Magearna;Steel;1.0;80.5;Artif;Soul-H;Fire;Ground;This artificial Pokémon, constructed more than500 years ago, can understand human speechbut cannot itself speak.
+Marshadow;Fighting;0.7;22.2;Gloomdw;Tech;Ghost;Psychic;It slips into the shadows of others and mimicstheir powers and movements. As it improves, itbecomes stronger than those it's imitating.
+Poipole;Poison;0.6;1.8;Poison P;Beast Boo;Psychic;Ground;This Ultra Beast is well enough liked to bechosen as a first partner in its own world.
+Naganadel;Poison;3.6;150.0;Poison P;Beast Boo;Psychic;Ground;It stores hundreds of liters of poisonous liquidinside its body. It is one of the organisms knownas UBs.
+Stakataka;Rock;5.5;820.0;Ram;Beast Boo;Water;Fighting;It appeared from an Ultra Wormhole. Each oneappears to be made up of many life-formsstacked one on top of each other.
+Blacephalon;Fire;1.8;13.0;Firework;Beast Boo;Water;Ghost;It slithers toward people. Then, without warning,it triggers the explosion of its own head.It's apparently one kind of Ultra Beast.
+Zeraora;Electric;1.5;44.5;Thund;Volt Abso;Ground;It electrifies its claws and tears its opponents apart with them. Even if they dodge its attack, they'll be electrocuted by the flying sparks.
+Meltan;Steel;0.2;8.0;Hex Nut;None;Fire;Fighting;It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.
+Melmetal;Steel;2.5;800.0;Hex Nut;None;Fire;Fighting;Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.
