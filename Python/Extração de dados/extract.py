@@ -13,7 +13,7 @@ pag_html = requests.get("https://www.tiobe.com/tiobe-index/").text
 
 #
 soup = BeautifulSoup(pag_html, 'html.parser')
-# print(soup.prettify())
+#print(soup.prettify())
 
 # ------- Obtendo os valores de linhas e colunas --------
 
@@ -23,7 +23,7 @@ for column in soup.find_all('td'): # Busca as colunas da tabela html
     data = string.strip('</td>') # retira caracters da string
     data_list.append(data) # adiciona o dado em uma lista
 
-print(data_list)
+#print(data_list)
 
 cont=0
 list_a = [] 
