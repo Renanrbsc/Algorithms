@@ -58,9 +58,10 @@ def weakness():
     h = h[0]
     list_weakness.append(h)
     
-    t = str(a[2]).split('\n\t')
-    t = t[0]
-    list_weakness.append(t)
+    if len(a) >= 3:
+        t = str(a[2]).split('\n\t')
+        t = t[0]
+        list_weakness.append(t)
     return list_weakness
 
 def description():
