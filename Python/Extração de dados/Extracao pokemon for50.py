@@ -7,7 +7,7 @@ import requests
 # -- Script criado para obter dados dos pokemons e montar um banco de dados apartir do mesmo
 
 # -- Loop de requests para obter dados de varias paginas
-for i in range(1,50):
+for j in range(1,50):
 # -- Request recebe a URL da pagina
     pag_html = requests.get(f"https://www.pokemon.com/br/pokedex/{i}").text
 
@@ -87,7 +87,8 @@ for i in range(1,50):
     dados_pokemon.append(description())
 
     # -- Exibindo na tela valores obtidos
+    print(f'-----Pokemon Code: {j}-----')
     for i in dados_pokemon:
         print(i)
-    print('')
+    print(f'----------------------------')
     
