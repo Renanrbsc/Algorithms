@@ -14,31 +14,31 @@ class PokemonController(Resource):
 
     def post(self):
         nome = request.json['nome']
+        tipo = request.json['tipo']
         altura = float(request.json['altura'])
         peso = float(request.json['peso'])
         categoria = request.json['categoria']
         habilidade = request.json['habilidade']
         habilidade2 = request.json['habilidade2']
-        tipo = request.json['tipo']
         fraqueza = request.json['fraqueza']
         fraqueza2 = request.json['fraqueza2']
         descricao = request.json['descricao']
-        pokemon = PokemonModel(nome,altura,peso,categoria,habilidade,habilidade2,tipo,fraqueza,fraqueza2,descricao)
+        pokemon = PokemonModel(nome,tipo,altura,peso,categoria,habilidade,habilidade2,fraqueza,fraqueza2,descricao)
         msg = self.dao.insert(pokemon)
         return msg
 
     def put(self, id):
         nome = request.json['nome']
+        tipo = request.json['tipo']
         altura = float(request.json['altura'])
         peso = float(request.json['peso'])
         categoria = request.json['categoria']
         habilidade = request.json['habilidade']
         habilidade2 = request.json['habilidade2']
-        tipo = request.json['tipo']
         fraqueza = request.json['fraqueza']
         fraqueza2 = request.json['fraqueza2']
         descricao = request.json['descricao']
-        pokemon = PokemonModel(nome,altura,peso,categoria,habilidade,habilidade2,tipo,fraqueza,fraqueza2,descricao, id)
+        pokemon = PokemonModel(nome,tipo,altura,peso,categoria,habilidade,habilidade2,fraqueza,fraqueza2,descricao, id)
         msg = self.dao.update(pokemon)
         return msg
 

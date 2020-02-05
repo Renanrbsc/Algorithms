@@ -6,11 +6,16 @@ class PokemonDao:
 
     def __init__(self):
         #self.connection = MySQLdb.connect(host='127.0.0.1',database='PadawanHBSIS',user='root')
-        self.connection = MySQLdb.connect(host='mysql.padawans.dev',database='padawans16',user='padawans16',passwd="lr2019")
+        self.host = 'mysql.padawans.dev'
+        self.database = 'padawans16'
+        self.user = self.database
+        self.passwd = 'lr2019'
+        self.table = 'POKEMON'
+        self.connection = MySQLdb.connect(host=self.host,database=self.database,user=self.user,passwd=self.passwd)
         self.cursor = self.connection.cursor()
 
     def get_all(self):
-        self.cursor.execute("SELECT * FROM POKEMON")
+        self.cursor.execute(f"SELECT * FROM {self.table}")
         pokemon_all = self.cursor.fetchall()
         list_pokemon = []
         for pokemon in pokemon_all:
@@ -19,44 +24,46 @@ class PokemonDao:
         return list_pokemon
 
     def get_by_id(self, id):
-        self.cursor.execute("SELECT * FROM POKEMON WHERE ID = {}".format(id))
+        self.cursor.execute(f"SELECT * FROM {self.table} WHERE ID = {id}")
         pokemon = self.cursor.fetchone()
         poke = PokemonModel(pokemon[1],pokemon[2],pokemon[3],pokemon[4],pokemon[5],pokemon[6],pokemon[7],pokemon[8],pokemon[9],pokemon[10],pokemon[0])
         return poke.__dict__
 
     def insert(self, pokemon:PokemonModel):
-        self.cursor.execute("""
-            INSERT INTO POKEMON
-            (nome,altura,peso,categoria,habilidade,habilidade2,tipo,fraqueza,fraqueza2,descricao) 
-            VALUES('{}',{},{},'{}','{}','{}','{}','{}','{}','{}')""".format(pokemon.nome, pokemon.altura, pokemon.peso, pokemon.categoria, pokemon.habilidade, pokemon.habilidade2, pokemon.tipo, pokemon.fraqueza, pokemon.fraqueza2, pokemon.descricao))
+        self.cursor.execute(f"""
+            INSERT INTO {self.table}
+                (nome,tipo,altura,peso,categoria,habilidade,habilidade2,fraqueza,fraqueza2,descricao) 
+            VALUES
+                ('{pokemon.nome}','{pokemon.tipo}',{pokemon.altura},{pokemon.peso},'{pokemon.categoria}','{pokemon.habilidade}','{pokemon.habilidade2}','{pokemon.fraqueza}','{pokemon.fraqueza2}','{pokemon.descricao}')
+        """)
         self.connection.commit()
         id = self.cursor.lastrowid
         pokemon.id = id
         return pokemon.__dict__
 
     def update(self, pokemon:PokemonModel):
-        self.cursor.execute("""
-            UPDATE POKEMON 
+        self.cursor.execute(f"""
+            UPDATE {self.table} 
                 SET 
-                    NOME = '{}',
-                    ALTURA = {},
-                    PESO = {},
-                    CATEGORIA = '{}',
-                    HABILIDADE = '{}',
-                    HABILIDADE2 = '{}',
-                    TIPO = '{}',
-                    FRAQUEZA = '{}',
-                    FRAQUEZA2 = '{}',
-                    DESCRICAO = '{}'
-                WHERE ID = {}
-         """.format(pokemon.nome, pokemon.altura, pokemon.peso, pokemon.categoria, pokemon.habilidade, pokemon.habilidade2, pokemon.tipo, pokemon.fraqueza, pokemon.fraqueza2, pokemon.descricao, pokemon.id))
+                    NOME = '{pokemon.nome}',
+                    TIPO = '{pokemon.tipo}',
+                    ALTURA = {pokemon.altura},
+                    PESO = {pokemon.peso},
+                    CATEGORIA = '{pokemon.categoria}',
+                    HABILIDADE = '{pokemon.habilidade}',
+                    HABILIDADE2 = '{pokemon.habilidade2}',
+                    FRAQUEZA = '{pokemon.fraqueza}',
+                    FRAQUEZA2 = '{pokemon.fraqueza2}',
+                    DESCRICAO = '{pokemon.descricao}'
+                WHERE ID = {pokemon.id}
+        """)
         self.connection.commit()
         return pokemon.__dict__
 
     def remove(self, id):
-        self.cursor.execute("DELETE FROM POKEMON WHERE ID = {}".format(id))
+        self.cursor.execute(f"DELETE FROM {self.table} WHERE ID = {id}")
         self.connection.commit()
-        return 'Removido o pokemon de id: {}'.format(id)
+        return f'Removido o pokemon de id: {id}'
 
 
 
