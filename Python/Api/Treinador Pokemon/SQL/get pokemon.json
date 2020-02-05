@@ -1,0 +1,38 @@
+[
+    {
+      "nome": "Bulbasaur",
+      "tipo": "Grama",
+      "altura": 0.7,
+      "peso": 6.9,
+      "categoria": "Semente",
+      "habilidade": "Overgrow",
+      "habilidade2": "",
+      "fraqueza": "Fogo",
+      "fraqueza2": "Voador",
+      "descricao": "Bulbasaur pode ser visto cochilando sob a luz do sol. Há uma semente nas costas. Ao absorver os raios do sol, a semente cresce progressivamente maior."
+    },
+    {
+      "nome": "Ivysaur",
+      "tipo": "Grama",
+      "altura": 10.0,
+      "peso": 13.0,
+      "categoria": "Semente",
+      "habilidade": "Overgrow",
+      "habilidade2": "",
+      "fraqueza": "Fogo",
+      "fraqueza2": "Voador",
+      "descricao": "Há um botão nas costas deste Pokémon. Para suportar seu peso, as pernas e o tronco de Ivysaur ficam grossos e fortes. Se começar a passar mais tempo deitado sob a luz do sol, é um sinal de que o broto florescerá em uma grande flor em breve."
+    },
+    {
+      "nome":"Venusaur",
+      "tipo":"Grama",
+      "altura":2.0,
+      "peso":100.0,
+      "categoria":"Semente",
+      "habilidade":"Overgrow",
+      "habilidade2":"",
+      "fraqueza":"Fogo",
+      "fraqueza2":"Voador",
+      "descricao":"Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas."
+    }
+  ]

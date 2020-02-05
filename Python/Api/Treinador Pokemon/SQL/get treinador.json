@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nome": "Ash",
+    "sobrenome": "Ketchum",
+    "idade": 10,
+    "cidade": "Palent",
+    "id_pokemon": 10
+  },
+  {
+    "id": 2,
+    "nome": "Misty",
+    "sobrenome": " ",
+    "idade": 10,
+    "cidade": "Cerulean",
+    "id_pokemon": 175
+  }
+]
