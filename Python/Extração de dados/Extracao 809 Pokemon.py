@@ -113,4 +113,3 @@ for j in range(1,810):
     arq.write(';'.join(dados_pokemon)+'\n')
     arq.close()
      
-    
