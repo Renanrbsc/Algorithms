@@ -599,15 +599,9 @@ Ferrothorn;Grass;1.0;110.0;Thorn Pod;Iron Barbs;;Fire;Fighting;By swinging aroun
 Klink;Steel;0.3;21.0;Gear;Plus;Minus;Fire;Fighting;Interlocking two bodies and spinning aroundgenerates the energy they need to live.
 Klang;Steel;0.6;51.0;Gear;Plus;Minus;Fire;Fighting;By changing the direction in which it rotates,it communicates its feelings to others. When angry,it rotates faster.
 Klinklang;Steel;0.6;81.0;Gear;Plus;Minus;Fire;Fighting;The gear with the red core is rotated at high speedfor a rapid energy charge.
-Tynamo;Electric;0.2;0.3;EleFish;Levitate;;None</span></li>
-</ul>
-</div>];;While one alone doesn't have much power, a chainof many Tynamo can be as powerful as lightning.
-Eelektrik;Electric;1.2;22.0;EleFish;Levitate;;None</span></li>
-</ul>
-</div>];;It wraps itself around its prey and paralyzes it withelectricity from the round spots on its sides.Then it chomps.
-Eelektross;Electric;2.1;80.5;EleFish;Levitate;;None</span></li>
-</ul>
-</div>];;With their sucker mouths, they suck in prey.Then they use their fangs to shock the preywith electricity.
+Tynamo;Electric;0.2;0.3;EleFish;Levitate;;None;;While one alone doesn't have much power, a chainof many Tynamo can be as powerful as lightning.
+Eelektrik;Electric;1.2;22.0;EleFish;Levitate;;None;;It wraps itself around its prey and paralyzes it withelectricity from the round spots on its sides.Then it chomps.
+Eelektross;Electric;2.1;80.5;EleFish;Levitate;;None;;With their sucker mouths, they suck in prey.Then they use their fangs to shock the preywith electricity.
 Elgyem;Psychic;0.5;9.0;Cerebral;Synchronize;Telepathy;Bug;Ghost;It uses its strong psychic power to squeeze itsopponent's brain, causing unendurable headaches.
 Beheeyem;Psychic;1.0;34.5;Cerebral;Synchronize;Telepathy;Bug;Ghost;Apparently, it communicates by flashing its threefingers, but those patterns haven't been decoded.
 Litwick;Ghost;0.3;3.1;Candle;Flash Fire;Flame Body;Water;Ground;While shining a light and pretending to be a guide,it leeches off the life force of any who follow it.
