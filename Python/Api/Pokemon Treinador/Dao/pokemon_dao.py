@@ -9,34 +9,32 @@ class PokemonDao(DatabaseConfig):
         super().__init__('POKEMON')
 
     def get_all(self):
-        self.cursor.execute(f"SELECT * FROM {self.table}")
-        pokemon_all = self.cursor.fetchall()
+        pokemon_all = super().get_all()
         list_pokemon = []
         for pokemon in pokemon_all:
-            pokemon = PokemonModel(pokemon[1],pokemon[2],pokemon[3],pokemon[4],pokemon[5],pokemon[6],pokemon[7],pokemon[8],pokemon[9],pokemon[10],pokemon[0])
+            pokemon = PokemonModel(pokemon[1],pokemon[2],pokemon[3],pokemon[4],pokemon[5],pokemon[6],
+                                   pokemon[7],pokemon[8],pokemon[9],pokemon[10],pokemon[0])
             list_pokemon.append(pokemon.__dict__)
         return list_pokemon
 
     def get_by_id(self, id):
-        self.cursor.execute(f"SELECT * FROM {self.table} WHERE ID = {id}")
-        pokemon = self.cursor.fetchone()
-        poke = PokemonModel(pokemon[1],pokemon[2],pokemon[3],pokemon[4],pokemon[5],pokemon[6],pokemon[7],pokemon[8],pokemon[9],pokemon[10],pokemon[0])
+        pokemon = super().get_by_id(id)
+        poke = PokemonModel(pokemon[1],pokemon[2],pokemon[3],pokemon[4],pokemon[5],pokemon[6],
+                            pokemon[7],pokemon[8],pokemon[9],pokemon[10],pokemon[0])
         return poke.__dict__
 
     def insert(self, pokemon:PokemonModel):
-        self.cursor.execute(f"""
+        command_sql = (f"""
             INSERT INTO {self.table}
                 (nome,tipo,altura,peso,categoria,habilidade,habilidade2,fraqueza,fraqueza2,descricao) 
             VALUES
                 ('{pokemon.nome}','{pokemon.tipo}',{pokemon.altura},{pokemon.peso},'{pokemon.categoria}','{pokemon.habilidade}','{pokemon.habilidade2}','{pokemon.fraqueza}','{pokemon.fraqueza2}','{pokemon.descricao}')
         """)
-        self.connection.commit()
-        id = self.cursor.lastrowid
-        pokemon.id = id
+        pokemon.id = super().insert(command_sql)
         return pokemon.__dict__
 
     def update(self, pokemon:PokemonModel):
-        self.cursor.execute(f"""
+        command_sql = (f"""
             UPDATE {self.table} 
                 SET 
                     NOME = '{pokemon.nome}',
@@ -51,13 +49,12 @@ class PokemonDao(DatabaseConfig):
                     DESCRICAO = '{pokemon.descricao}'
                 WHERE ID = {pokemon.id}
         """)
-        self.connection.commit()
+        super().update(command_sql)
         return pokemon.__dict__
 
     def remove(self, id):
-        self.cursor.execute(f"DELETE FROM {self.table} WHERE ID = {id}")
-        self.connection.commit()
-        return f'Removido o pokemon de id: {id}'
+        return super().remove(id)
+
 
 
 

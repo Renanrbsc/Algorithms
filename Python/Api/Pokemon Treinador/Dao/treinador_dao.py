@@ -13,8 +13,7 @@ class TreinadorDao(DatabaseConfig):
     # --- Retorna uma lista de tuplas e cada tupla convertida em dicionario de classe Model
     # --- Adicionado cada dicionario na lista que retorna
     def get_all(self):
-        self.cursor.execute(f"SELECT * FROM {self.table}")
-        treinador_all = self.cursor.fetchall()
+        treinador_all = super().get_all()
         list_treinador = []
         for treinador in treinador_all:
             treinador = TreinadorModel(treinador[1],treinador[2],treinador[3],treinador[4],treinador[5],treinador[0])
@@ -22,25 +21,22 @@ class TreinadorDao(DatabaseConfig):
         return list_treinador
     
     def get_by_id(self, id):
-        self.cursor.execute(f"SELECT * FROM {self.table} WHERE ID = {id}")
-        treinador = self.cursor.fetchone()
+        treinador = super().get_by_id(id)
         train = TreinadorModel(treinador[1],treinador[2],treinador[3],treinador[4],treinador[5],treinador[0])
         return train.__dict__
     
     def insert(self, treinador : TreinadorModel):
-        self.cursor.execute(f"""
+        command_sql = (f"""
             INSERT INTO {self.table} 
                 (NOME, SOBRENOME, IDADE, CIDADE, ID_POKEMON) 
             VALUES
                 ('{treinador.nome}','{treinador.sobrenome}',{treinador.idade},'{treinador.cidade}',{treinador.id_pokemon})
         """)
-        self.connection.commit()
-        id = self.cursor.lastrowid
-        treinador.id = id
+        treinador.id = super().insert(command_sql)
         return treinador.__dict__
     
     def update(self, treinador : TreinadorModel):
-        self.cursor.execute(f"""
+        command_sql = (f"""
             UPDATE {self.table} 
                 SET 
                     NOME = '{treinador.nome}',
@@ -50,11 +46,9 @@ class TreinadorDao(DatabaseConfig):
                     ID_POKEMON = {treinador.id_pokemon}
                 WHERE id = {treinador.id}
          """)
-        self.connection.commit()
+        super().update(command_sql)
         return treinador.__dict__
     
     def remove(self, id):
-        self.cursor.execute(f"DELETE FROM {self.table} WHERE ID = {id}")
-        self.connection.commit()
-        return 'Removido o treinador de id: {}'.format(id)
+        return super().remove(id)
     
