@@ -1,6 +1,3 @@
-import sys
-sys.path.append('C:/Users/900159/Documents/GitHub/TrabalhosPython/Aula42 03-02')
-sys.path.append('C:/Users/Usuario/Documents/GitHub/TrabalhosPython/Aula42 03-02')
 from flask import Flask, render_template
 from flask_restful import Api
 

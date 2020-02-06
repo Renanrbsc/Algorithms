@@ -1,7 +1,3 @@
-import sys
-
-sys.path.append(r'C:\Users\Usuario\Documents\GitHub\Desbravando-Algoritmos\Python\Api\Produtos')
-
 from flask import Flask
 from flask_restful import Api
 
