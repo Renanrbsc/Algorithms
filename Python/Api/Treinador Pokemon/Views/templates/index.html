@@ -1,12 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Inicio</title>
-</head>
-<body>
-    <h1 style="text-align: center; font-size: 100px; padding: 100px;">Registros Banco de dados</h1>
-</body>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Inicio</title>
+
+            <style>
+                h1{
+                    text-align: center;
+                    font-size: 100px;
+                    padding: 100px;
+                }
+                img{
+                    padding: 50px;
+                }
+                label{
+                    font-size:20px;
+                    padding: 57px;
+                }
+                div{
+                    padding-left: 37%;
+                }
+            </style>
+    </head>
+    <body>
+        <h1 style="text-align: center; font-size: 100px; padding: 100px;">Database Pokedex</h1>
+
+        <div>
+            <label>Pokemon</label>
+            <label>Treinador</label><br>
+        </div>
+        <div>
+            <a href="/api/pokemon">
+            <img src="static/pokemon.png" width="100px" height="100px"></a>
+
+            <a href="/api/treinador">
+            <img src="static/treinador.png" width="100px" height="100px"></a>
+        </div>
+    </body>
 </html>

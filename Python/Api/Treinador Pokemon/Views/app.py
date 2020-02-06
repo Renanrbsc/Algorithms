@@ -1,7 +1,3 @@
-import sys
-
-sys.path.append(r'C:\Users\900159\Documents\GitHub\Desbravando-Algoritmos\Python\Api\Treinador Pokemon')
-sys.path.append(r'C:\Users\Usuario\Documents\GitHub\Desbravando-Algoritmos\Python\Api\Treinador Pokemon')
 
 from flask import Flask, render_template
 from flask_restful import Api
