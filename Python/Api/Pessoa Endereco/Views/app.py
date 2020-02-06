@@ -16,8 +16,10 @@ api.add_resource(PessoaController, '/api/pessoa/<int:codigo>', endpoint='people'
 api.add_resource(EnderecoController, '/api/endereco', endpoint='enderecos')
 api.add_resource(EnderecoController, '/api/endereco/<int:id>', endpoint='endereco')
 
+
 @app.route('/')
 def index():
     return render_template('index.html')
+
 
 app.run(debug=True)
