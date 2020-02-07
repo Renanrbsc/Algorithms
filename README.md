@@ -1,2 +1,2 @@
-# Machine-Learning
+# Desbravando-Algoritmos
 Repositório para uso com bibliotecas voltadas a Inteligencia artificial com diferentes linguagens...
