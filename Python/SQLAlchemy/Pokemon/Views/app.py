@@ -1,12 +1,3 @@
-# # ORM
-# # ---- SqlAlchemy
-# # ---- Instalação do framework
-# # --- pip3 install sqlalchemy
-#
-# # ---- Conector do Mysql
-# # ---- Instalação do conector do Mysql
-# # ---- pip3 install mysql-connector-python
-
 from Controller.pokemon_controller import PokemonController
 from Model.pokemon_model import PokemonModel
 
