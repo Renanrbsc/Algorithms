@@ -1,13 +1,23 @@
-def decimal_para_binario(numero):
-    decimal = ''
+class ConversorBinario:
 
-    while numero != 0:
-        decimal = decimal + str(numero % 2)
-        numero = int(numero / 2)
+    def __init__(self):
+        self.binario = ''
 
-    return decimal[::-1]
+    def decimal_para_binario(self, numero):
 
+        while numero != 0:
+            self.binario = self.binario + str(numero % 2)
+            numero = int(numero / 2)
 
-numero = int(input("informe um numero: "))
+        return self.binario[::-1]
 
-print(f'Valor referente em binario: {decimal_para_binario(numero)}')
+    def main(self):
+
+        numero = int(input("informe um numero: "))
+
+        print(f'Valor referente em binario: {self.decimal_para_binario(numero)}')
+
+if __name__ == "__main__":
+    conversor = ConversorBinario()
+    conversor.main()
+
