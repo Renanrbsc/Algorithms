@@ -1,3 +1,6 @@
+import sys
+sys.path.append(r"C:\Users\Usuario\Documents\GitHub\Desbravando-Algoritmos\Python\SQLAlchemy\Pokemon")
+
 from Controller.pokemon_controller import PokemonController
 from Model.pokemon_model import PokemonModel
 
