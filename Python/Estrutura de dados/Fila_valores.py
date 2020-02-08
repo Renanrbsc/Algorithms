@@ -18,9 +18,7 @@ class Fila:
     def direcao_da_fila(self):
         return f"      <---<---<---<---<---<---<---<---<---<---\n"
 
-
     def main(self):
-        fila = Fila()
 
         for i in range(0, 10):
             self.adicionar_valor_final_da_fila(random.randint(10, 99))
