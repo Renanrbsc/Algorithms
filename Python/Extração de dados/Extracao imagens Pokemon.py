@@ -1,6 +1,10 @@
-from bs4 import BeautifulSoup
+import sys
+
+sys.path.append(r"C:\Users\Usuario\Documents\GitHub\Desbravando-Algoritmos\Python\Extração de dados")
+
 import requests
 import urllib.request, urllib.parse, urllib.error
+from bs4 import BeautifulSoup
 
 '''
 # A biblioteca BeatifulSoup permite a construção de uma árvore
@@ -8,8 +12,7 @@ a partir de vários elementos de uma página HTML e fornece
 uma simples interface para acessar estes elementos.
 # A biblioteca requests é para realizar pedidos HTTP.
 '''
- 
- 
+
 
 class DataPokemons:
     """Extração de dados pagina Pokedex Pokemon
@@ -20,7 +23,6 @@ class DataPokemons:
     def __init__(self):
         self.pag_html = ''
         self.soup = None
-        self.url = ''
 
     def request(self, j):
         self.pag_html = requests.get(f"https://www.pokemon.com/br/pokedex/{j}").text
@@ -33,26 +35,31 @@ class DataPokemons:
     # -- defs utilizadas para se obter dados especificos das tags
     # -- Utilizado metodo de extração por tags que continham class=""
 
+    def title(self):
+        """Obtendo Nome do Pokemon atraves da tag title do html"""
+
+        title = str(self.soup.find_all("div", "pokedex-pokemon-pagination-title"))
+        t = title.split('\n')
+        t = str(t[2].strip(" "))
+        return t
+
     def Imagens(self):
         """Obtendo Imagens dos Pokemon atraves da tag profile-images do html"""
 
-        list_image = []
-
         image = str(self.soup.find_all("div", "profile-images"))
         a = image.split('src="')
-        a = str(a[1]).replace('"/>','')
-        a = str(a).replace('</div>]','')
-        a = str(a).replace('\n','')
-             
+        a = str(a[1]).replace('"/>', '')
+        a = str(a).replace('</div>]', '')
+        a = str(a).replace('\n', '')
+
         return a
 
-    def download_image(self, url_new, j):
-        self.url = f"{url_new}"
-          
-        print("baixando com urllib2")
-        f = urllib.request.urlopen(self.url)
+    def download_image(self, url_new, title):
+        url = f"{url_new}"
+
+        f = urllib.request.urlopen(url)
         data = f.read()
-        with open(f"Desbravando-Algoritmos\Python\Extração de dados\Images\{str(j)}.png", "wb") as code:
+        with open(f"Images_pokemon\{title}.png", "wb") as code:
             code.write(data)
 
     def main(self):
@@ -61,15 +68,14 @@ class DataPokemons:
         salvamos em um txt"""
 
         # -- Loop de requests para obter dados das paginas necessarias
-        for j in range(1, 810):
-
+        for j in range(1, 3):
             self.request(j)
             url_new = self.Imagens()
-            self.download_image(url_new, j)
-            
+            self.download_image(url_new, self.title())
+
             # -- Exibindo na tela valores obtidos
             print(f'-----Pokemon Image Code: {j}-----')
-                print(url_new)
+            print(url_new)
             print(f'----------------------------')
 
 
