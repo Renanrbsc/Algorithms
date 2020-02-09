@@ -1,5 +1,9 @@
-from bs4 import BeautifulSoup
+import sys
 import requests
+import urllib.request, urllib.parse, urllib.error
+from bs4 import BeautifulSoup
+
+sys.path.append(r"C:\Users\Usuario\Documents\GitHub\Desbravando-Algoritmos\Python\Extração de dados")
 
 '''
 # A biblioteca BeatifulSoup permite a construção de uma árvore
@@ -7,6 +11,7 @@ a partir de vários elementos de uma página HTML e fornece
 uma simples interface para acessar estes elementos.
 # A biblioteca requests é para realizar pedidos HTTP.
 '''
+
 
 class DataPokemons:
     """Extração de dados pagina Pokedex Pokemon
@@ -17,7 +22,6 @@ class DataPokemons:
     def __init__(self):
         self.pag_html = ''
         self.soup = None
-        self.dados_pokemon = []
 
     def request(self):
         self.pag_html = requests.get(f"https://www.pokemon.com/br/pokedex/001").text
@@ -112,28 +116,63 @@ class DataPokemons:
         desc = desc[0].replace('\n', '')
         return desc
 
+    def Imagens(self):
+        """Obtendo Imagens dos Pokemon atraves da tag profile-images do html"""
+
+        image = str(self.soup.find_all("div", "profile-images"))
+        a = image.split('src="')
+        a = str(a[1]).replace('"/>', '')
+        a = str(a).replace('</div>]', '')
+        a = str(a).replace('\n', '')
+
+        return a
+
+    def download_image(self, url_new, title):
+        """Usando a biblioteca urllib para obter as imagens requesitadas
+        e renomeando as mesmas"""
+
+        url = f"{url_new}"
+
+        f = urllib.request.urlopen(url)
+        data = f.read()
+        with open(f"Images_pokemon\{title}.png", "wb") as code:
+            code.write(data)
+
+    def save_data(self, dados_pokemon):
+        # -- salvando dados obtidos para Database
+        with open('dados_pokemon.txt', 'a', encoding='utf-8') as arquivo:
+            arquivo.write(';'.join(dados_pokemon) + '\n')
+
     def main(self):
         """Atraves dos dados obtidos podemos mostra-los na tela por ordem"""
 
-    # -- Chamada das defs e retorno de valores em uma lista
+        # -- Chamada das defs e retorno de valores em uma lista
+        dados_pokemon = []
 
         self.request()
 
-        self.dados_pokemon.append(self.title())
-        self.dados_pokemon.append(self.type_pokemon())
+        title = self.title()
+        dados_pokemon.append(title)
+        dados_pokemon.append(self.type_pokemon())
 
         for at in self.attribute():
-            self.dados_pokemon.append(at)
+            dados_pokemon.append(at)
 
         for we in self.weakness():
-            self.dados_pokemon.append(we)
+            dados_pokemon.append(we)
 
-        self.dados_pokemon.append(self.description())
+        dados_pokemon.append(self.description())
+
+        url_new = self.Imagens()
+        self.download_image(url_new, title)
+
+        self.save_data(dados_pokemon)
 
         # -- Exibindo na tela valores obtidos
         print(f'-----Pokemon Code: 1-----')
-        for i in self.dados_pokemon:
+        for i in dados_pokemon:
             print(i)
+        print(url_new)
         print(f'----------------------------')
 
 
