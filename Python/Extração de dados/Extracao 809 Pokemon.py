@@ -1,5 +1,9 @@
-from bs4 import BeautifulSoup
+import sys
 import requests
+import urllib.request, urllib.parse, urllib.error
+from bs4 import BeautifulSoup
+
+sys.path.append(r"C:\Users\Usuario\Documents\GitHub\Desbravando-Algoritmos\Python\Extração de dados")
 
 '''
 # A biblioteca BeatifulSoup permite a construção de uma árvore
@@ -112,6 +116,33 @@ class DataPokemons:
         desc = desc[0].replace('\n', '')
         return desc
 
+    def Imagens(self):
+        """Obtendo Imagens dos Pokemon atraves da tag profile-images do html"""
+
+        image = str(self.soup.find_all("div", "profile-images"))
+        a = image.split('src="')
+        a = str(a[1]).replace('"/>', '')
+        a = str(a).replace('</div>]', '')
+        a = str(a).replace('\n', '')
+
+        return a
+
+    def download_image(self, url_new, title):
+        """Usando a biblioteca urllib para obter as imagens requesitadas
+        e renomeando as mesmas"""
+
+        url = f"{url_new}"
+
+        f = urllib.request.urlopen(url)
+        data = f.read()
+        with open(f"Images_pokemon\{title}.png", "wb") as code:
+            code.write(data)
+
+    def save_data(self, dados_pokemon):
+        # -- salvando dados obtidos para Database
+        with open('dados_pokemon.txt', 'a', encoding='utf-8') as arquivo:
+            arquivo.write(';'.join(dados_pokemon) + '\n')
+
     def main(self):
         """Atraves dos dados obtidos podemos mostra-los na tela por ordem,
         Assim refazemos o processo em todas as paginas que contem dados e
@@ -123,7 +154,9 @@ class DataPokemons:
 
             self.request(j)
 
-            dados_pokemon.append(self.title())
+            title = self.title()
+            dados_pokemon.append(title)
+
             dados_pokemon.append(self.type_pokemon())
 
             for at in self.attribute():
@@ -134,16 +167,17 @@ class DataPokemons:
 
             dados_pokemon.append(self.description())
 
+            url_new = self.Imagens()
+            self.download_image(url_new, title)
+
+            self.save_data(dados_pokemon)
+
             # -- Exibindo na tela valores obtidos
             print(f'-----Pokemon Code: {j}-----')
             for i in dados_pokemon:
                 print(i)
+            print(url_new)
             print(f'----------------------------')
-
-            # -- salvando dados obtidos para Database
-            arq = open('dados_pokemon.txt', 'a', encoding='utf-8')
-            arq.write(';'.join(dados_pokemon) + '\n')
-            arq.close()
 
 
 if __name__ == "__main__":

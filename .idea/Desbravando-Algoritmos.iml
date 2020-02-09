@@ -8,7 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Python/Estrutura de dados" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Python/Extração de dados" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (Desbravando-Algoritmos)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
