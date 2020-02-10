@@ -48,10 +48,8 @@ class DataPokemons:
 
         image = str(self.soup.find_all("div", "profile-images"))
         a = image.split('src="')
-        a = str(a[1]).replace('"/>', '')
-        a = str(a).replace('</div>]', '')
-        a = str(a).replace('\n', '')
-
+        a = str(a[1]).split('png"/>')
+        a = str(a[0]) + 'png'
         return a
 
     def download_image(self, url_new, title):
