@@ -1,2 +1,2 @@
-# Desbravando-Algoritmos
+# Algorithms
 Repositório para desenvolvimento de algoritmos e novas funções de uso pratico em diferentes linguagens...
